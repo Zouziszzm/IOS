@@ -1,0 +1,7825 @@
+[
+  {
+    "chapterNumber": 1,
+    "title": "第1課 • 自己紹介と身近な人々",
+    "englishTitle": "Introductions & Personal Identity",
+    "kanjis": [
+      {
+        "id": "mnn-k-c01-01",
+        "chapterNumber": 1,
+        "kanji": "私",
+        "english": "I, me, private",
+        "furigana": "わたし",
+        "romaji": "watashi",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "わたし",
+          "わたくし"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "私",
+            "reading": "わたし",
+            "meaning": "I; me"
+          },
+          {
+            "word": "私たち",
+            "reading": "わたしたち",
+            "meaning": "we; us"
+          },
+          {
+            "word": "私立",
+            "reading": "しりつ",
+            "meaning": "private institution"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "私は学生です。",
+            "translation": "I am a student."
+          },
+          {
+            "japanese": "私たちは日本へ行きます。",
+            "translation": "We are going to Japan."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-02",
+        "chapterNumber": 1,
+        "kanji": "人",
+        "english": "person, human",
+        "furigana": "ひと",
+        "romaji": "hito",
+        "onyomi": [
+          "ジン",
+          "ニン"
+        ],
+        "kunyomi": [
+          "ひと"
+        ],
+        "strokeCount": 2,
+        "level": "N5",
+        "words": [
+          {
+            "word": "あの人",
+            "reading": "あのひと",
+            "meaning": "that person"
+          },
+          {
+            "word": "日本人",
+            "reading": "にほんじん",
+            "meaning": "Japanese person"
+          },
+          {
+            "word": "アメリカ人",
+            "reading": "アメリカじん",
+            "meaning": "American person"
+          },
+          {
+            "word": "三人",
+            "reading": "さんにん",
+            "meaning": "three people"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "あの人はどなたですか。",
+            "translation": "Who is that person?"
+          },
+          {
+            "japanese": "マイク・ミラーさんはアメリカ人です。",
+            "translation": "Mr. Mike Miller is an American."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-03",
+        "chapterNumber": 1,
+        "kanji": "先",
+        "english": "ahead, previous, before",
+        "furigana": "さき",
+        "romaji": "saki",
+        "onyomi": [
+          "セン"
+        ],
+        "kunyomi": [
+          "さき",
+          "ま・ず"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "先生",
+            "reading": "せんせい",
+            "meaning": "teacher; instructor"
+          },
+          {
+            "word": "先月",
+            "reading": "せんげつ",
+            "meaning": "last month"
+          },
+          {
+            "word": "お先に",
+            "reading": "おさきに",
+            "meaning": "ahead; excuse me for leaving first"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "佐藤先生は日本語を教えます。",
+            "translation": "Teacher Sato teaches Japanese."
+          },
+          {
+            "japanese": "先生、お先に失礼します。",
+            "translation": "Teacher, excuse me for leaving ahead."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-04",
+        "chapterNumber": 1,
+        "kanji": "生",
+        "english": "life, birth, student",
+        "furigana": "せい",
+        "romaji": "sei",
+        "onyomi": [
+          "セイ",
+          "ショウ"
+        ],
+        "kunyomi": [
+          "い・きる",
+          "う・まれる",
+          "なま"
+        ],
+        "strokeCount": 5,
+        "level": "N5",
+        "words": [
+          {
+            "word": "学生",
+            "reading": "がくせい",
+            "meaning": "student"
+          },
+          {
+            "word": "先生",
+            "reading": "せんせい",
+            "meaning": "teacher"
+          },
+          {
+            "word": "生まれる",
+            "reading": "うまれる",
+            "meaning": "to be born"
+          },
+          {
+            "word": "生きる",
+            "reading": "いきる",
+            "meaning": "to live"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "サントスさんは学生ではありません。",
+            "translation": "Mr. Santos is not a student."
+          },
+          {
+            "japanese": "私は東京で生まれました。",
+            "translation": "I was born in Tokyo."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-05",
+        "chapterNumber": 1,
+        "kanji": "学",
+        "english": "study, learn, science",
+        "furigana": "まな・ぶ",
+        "romaji": "mana-bu",
+        "onyomi": [
+          "ガク"
+        ],
+        "kunyomi": [
+          "まな・ぶ"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "学生",
+            "reading": "がくせい",
+            "meaning": "student"
+          },
+          {
+            "word": "大学",
+            "reading": "だいがく",
+            "meaning": "university"
+          },
+          {
+            "word": "学校",
+            "reading": "がっこう",
+            "meaning": "school"
+          },
+          {
+            "word": "留学生",
+            "reading": "りゅうがくせい",
+            "meaning": "international student"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "カリナさんは富士大学の学生です。",
+            "translation": "Karina is a student at Fuji University."
+          },
+          {
+            "japanese": "ここで日本語を学びます。",
+            "translation": "I study Japanese here."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-06",
+        "chapterNumber": 1,
+        "kanji": "大",
+        "english": "big, large, university",
+        "furigana": "おお・きい",
+        "romaji": "oo-kii",
+        "onyomi": [
+          "ダイ",
+          "タイ"
+        ],
+        "kunyomi": [
+          "おお・きい",
+          "おお・いに"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "大学",
+            "reading": "だいがく",
+            "meaning": "university"
+          },
+          {
+            "word": "大きい",
+            "reading": "おおきい",
+            "meaning": "big; large"
+          },
+          {
+            "word": "大人",
+            "reading": "おとな",
+            "meaning": "adult"
+          },
+          {
+            "word": "大変",
+            "reading": "たいへん",
+            "meaning": "tough; very"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "富士大学は大きいです。",
+            "translation": "Fuji University is large."
+          },
+          {
+            "japanese": "大きい病院があります。",
+            "translation": "There is a large hospital."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-07",
+        "chapterNumber": 1,
+        "kanji": "日",
+        "english": "day, sun, Japan",
+        "furigana": "ひ",
+        "romaji": "hi",
+        "onyomi": [
+          "ニチ",
+          "ジツ"
+        ],
+        "kunyomi": [
+          "ひ",
+          "か"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "日本",
+            "reading": "にほん",
+            "meaning": "Japan"
+          },
+          {
+            "word": "日曜日",
+            "reading": "にちようび",
+            "meaning": "Sunday"
+          },
+          {
+            "word": "今日",
+            "reading": "きょう",
+            "meaning": "today"
+          },
+          {
+            "word": "毎日",
+            "reading": "まいにち",
+            "meaning": "every day"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "日本から来ました。",
+            "translation": "I came from Japan."
+          },
+          {
+            "japanese": "今日は何曜日ですか。",
+            "translation": "What day of the week is today?"
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-08",
+        "chapterNumber": 1,
+        "kanji": "本",
+        "english": "book, origin, main",
+        "furigana": "ほん",
+        "romaji": "hon",
+        "onyomi": [
+          "ホン"
+        ],
+        "kunyomi": [
+          "もと"
+        ],
+        "strokeCount": 5,
+        "level": "N5",
+        "words": [
+          {
+            "word": "日本",
+            "reading": "にほん",
+            "meaning": "Japan"
+          },
+          {
+            "word": "本",
+            "reading": "ほん",
+            "meaning": "book"
+          },
+          {
+            "word": "日本語",
+            "reading": "にほんご",
+            "meaning": "Japanese language"
+          },
+          {
+            "word": "山本",
+            "reading": "やまもと",
+            "meaning": "Yamamoto (family name)"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "これは日本語の本です。",
+            "translation": "This is a Japanese language book."
+          },
+          {
+            "japanese": "日本語を勉強します。",
+            "translation": "I study the Japanese language."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-09",
+        "chapterNumber": 1,
+        "kanji": "何",
+        "english": "what, which",
+        "furigana": "なに",
+        "romaji": "nani",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "なに",
+          "なん"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "何",
+            "reading": "なに / なん",
+            "meaning": "what"
+          },
+          {
+            "word": "何歳",
+            "reading": "なんさい",
+            "meaning": "how old"
+          },
+          {
+            "word": "何人",
+            "reading": "なんにん",
+            "meaning": "how many people"
+          },
+          {
+            "word": "何語",
+            "reading": "なにご",
+            "meaning": "what language"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "お名前は何ですか。",
+            "translation": "What is your name?"
+          },
+          {
+            "japanese": "テレサちゃんは何歳ですか。",
+            "translation": "How old is Teresa?"
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-10",
+        "chapterNumber": 1,
+        "kanji": "名",
+        "english": "name, reputation",
+        "furigana": "な",
+        "romaji": "na",
+        "onyomi": [
+          "メイ",
+          "ミョウ"
+        ],
+        "kunyomi": [
+          "な"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "名前",
+            "reading": "なまえ",
+            "meaning": "name"
+          },
+          {
+            "word": "有名",
+            "reading": "ゆうめい",
+            "meaning": "famous"
+          },
+          {
+            "word": "名字",
+            "reading": "みょうじ",
+            "meaning": "surname"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "お名前は何ですか。",
+            "translation": "What is your name?"
+          },
+          {
+            "japanese": "この町は有名です。",
+            "translation": "This town is famous."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-11",
+        "chapterNumber": 1,
+        "kanji": "方",
+        "english": "person (polite), direction",
+        "furigana": "かた",
+        "romaji": "kata",
+        "onyomi": [
+          "ホウ"
+        ],
+        "kunyomi": [
+          "かた"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "あの方",
+            "reading": "あのかた",
+            "meaning": "that person (polite)"
+          },
+          {
+            "word": "読み方",
+            "reading": "よみかた",
+            "meaning": "how to read"
+          },
+          {
+            "word": "夕方",
+            "reading": "ゆうがた",
+            "meaning": "evening"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "あの方はどなたですか。",
+            "translation": "Who is that polite gentleman/lady?"
+          },
+          {
+            "japanese": "漢字の読み方を教えます。",
+            "translation": "I will teach how to read kanji."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-12",
+        "chapterNumber": 1,
+        "kanji": "会",
+        "english": "meet, association, company",
+        "furigana": "あ・う",
+        "romaji": "a-u",
+        "onyomi": [
+          "カイ",
+          "エ"
+        ],
+        "kunyomi": [
+          "あ・う"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "会社",
+            "reading": "かいしゃ",
+            "meaning": "company"
+          },
+          {
+            "word": "会社員",
+            "reading": "かいしゃいん",
+            "meaning": "company employee"
+          },
+          {
+            "word": "会う",
+            "reading": "あう",
+            "meaning": "to meet"
+          },
+          {
+            "word": "会話",
+            "reading": "かいわ",
+            "meaning": "conversation"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "ミラーさんは会社員です。",
+            "translation": "Mr. Miller is a company employee."
+          },
+          {
+            "japanese": "明日友達に会います。",
+            "translation": "I will meet a friend tomorrow."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-13",
+        "chapterNumber": 1,
+        "kanji": "社",
+        "english": "company, shrine, society",
+        "furigana": "しゃ",
+        "romaji": "sha",
+        "onyomi": [
+          "シャ"
+        ],
+        "kunyomi": [
+          "やしろ"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "会社",
+            "reading": "かいしゃ",
+            "meaning": "company"
+          },
+          {
+            "word": "社員",
+            "reading": "しゃいん",
+            "meaning": "company employee"
+          },
+          {
+            "word": "社会",
+            "reading": "しゃかい",
+            "meaning": "society"
+          },
+          {
+            "word": "神社",
+            "reading": "じんじゃ",
+            "meaning": "Shinto shrine"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "IMCの社員を紹介します。",
+            "translation": "Let me introduce an employee of IMC."
+          },
+          {
+            "japanese": "大きな会社で働いています。",
+            "translation": "I work at a large company."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-14",
+        "chapterNumber": 1,
+        "kanji": "員",
+        "english": "member, employee",
+        "furigana": "いん",
+        "romaji": "in",
+        "onyomi": [
+          "イン"
+        ],
+        "kunyomi": [],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "会社員",
+            "reading": "かいしゃいん",
+            "meaning": "company employee"
+          },
+          {
+            "word": "社員",
+            "reading": "しゃいん",
+            "meaning": "employee"
+          },
+          {
+            "word": "銀行員",
+            "reading": "ぎんこういん",
+            "meaning": "bank clerk"
+          },
+          {
+            "word": "店員",
+            "reading": "てんいん",
+            "meaning": "store clerk"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "山田さんはさくら銀行の銀行員です。",
+            "translation": "Mr. Yamada is a bank employee at Sakura Bank."
+          },
+          {
+            "japanese": "駅員に聞きました。",
+            "translation": "I asked the station employee."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-15",
+        "chapterNumber": 1,
+        "kanji": "医",
+        "english": "doctor, medicine, heal",
+        "furigana": "い",
+        "romaji": "i",
+        "onyomi": [
+          "イ"
+        ],
+        "kunyomi": [
+          "い・やす"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "医者",
+            "reading": "いしゃ",
+            "meaning": "doctor; physician"
+          },
+          {
+            "word": "医学",
+            "reading": "いがく",
+            "meaning": "medical science"
+          },
+          {
+            "word": "医院",
+            "reading": "いいん",
+            "meaning": "clinic"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "ワンさんは神戸病院の医者です。",
+            "translation": "Mr. Wang is a doctor at Kobe Hospital."
+          },
+          {
+            "japanese": "大学で医学を勉強しています。",
+            "translation": "I am studying medicine at university."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-16",
+        "chapterNumber": 1,
+        "kanji": "者",
+        "english": "person, someone, specialist",
+        "furigana": "もの",
+        "romaji": "mono",
+        "onyomi": [
+          "シャ"
+        ],
+        "kunyomi": [
+          "もの"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "医者",
+            "reading": "いしゃ",
+            "meaning": "doctor"
+          },
+          {
+            "word": "研究者",
+            "reading": "けんきゅうしゃ",
+            "meaning": "researcher"
+          },
+          {
+            "word": "学者",
+            "reading": "がくしゃ",
+            "meaning": "scholar"
+          },
+          {
+            "word": "若者",
+            "reading": "わかもの",
+            "meaning": "young person"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "シュミットさんはパワー電気の研究者です。",
+            "translation": "Mr. Schmidt is a researcher at Power Electric."
+          },
+          {
+            "japanese": "医者になりたいです。",
+            "translation": "I want to become a doctor."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-17",
+        "chapterNumber": 1,
+        "kanji": "病",
+        "english": "sick, illness",
+        "furigana": "びょう",
+        "romaji": "byou",
+        "onyomi": [
+          "ビョウ",
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "や・む",
+          "やまい"
+        ],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "病院",
+            "reading": "びょういん",
+            "meaning": "hospital"
+          },
+          {
+            "word": "病気",
+            "reading": "びょうき",
+            "meaning": "illness; sickness"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "神戸病院に行きます。",
+            "translation": "I am going to Kobe Hospital."
+          },
+          {
+            "japanese": "病気ではありません。",
+            "translation": "I am not sick."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-18",
+        "chapterNumber": 1,
+        "kanji": "院",
+        "english": "institution, temple, hospital",
+        "furigana": "いん",
+        "romaji": "in",
+        "onyomi": [
+          "イン"
+        ],
+        "kunyomi": [],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "病院",
+            "reading": "びょういん",
+            "meaning": "hospital"
+          },
+          {
+            "word": "大学院",
+            "reading": "だいがくいん",
+            "meaning": "graduate school"
+          },
+          {
+            "word": "入院",
+            "reading": "にゅういん",
+            "meaning": "hospitalization"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "姉は大学院の学生です。",
+            "translation": "My older sister is a graduate student."
+          },
+          {
+            "japanese": "病院は駅の近くにあります。",
+            "translation": "The hospital is near the station."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-19",
+        "chapterNumber": 1,
+        "kanji": "国",
+        "english": "country, nation",
+        "furigana": "くに",
+        "romaji": "kuni",
+        "onyomi": [
+          "コク"
+        ],
+        "kunyomi": [
+          "くに"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "お国",
+            "reading": "おくに",
+            "meaning": "country (polite)"
+          },
+          {
+            "word": "外国",
+            "reading": "がいこく",
+            "meaning": "foreign country"
+          },
+          {
+            "word": "中国",
+            "reading": "ちゅうごく",
+            "meaning": "China"
+          },
+          {
+            "word": "韓国",
+            "reading": "かんこく",
+            "meaning": "South Korea"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "お国はどちらですか。",
+            "translation": "Which country are you from?"
+          },
+          {
+            "japanese": "中国から来ました。",
+            "translation": "I came from China."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c01-20",
+        "chapterNumber": 1,
+        "kanji": "語",
+        "english": "language, word, speak",
+        "furigana": "ご",
+        "romaji": "go",
+        "onyomi": [
+          "ゴ"
+        ],
+        "kunyomi": [
+          "かた・る"
+        ],
+        "strokeCount": 14,
+        "level": "N5",
+        "words": [
+          {
+            "word": "日本語",
+            "reading": "にほんご",
+            "meaning": "Japanese language"
+          },
+          {
+            "word": "英語",
+            "reading": "えいご",
+            "meaning": "English language"
+          },
+          {
+            "word": "中国語",
+            "reading": "ちゅうごくご",
+            "meaning": "Chinese language"
+          },
+          {
+            "word": "単語",
+            "reading": "たんご",
+            "meaning": "vocabulary word"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "日本語を話します。",
+            "translation": "I speak Japanese."
+          },
+          {
+            "japanese": "英語が分かりますか。",
+            "translation": "Do you understand English?"
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 2,
+    "title": "第2課 • 日常の持ち物と持ち主",
+    "englishTitle": "Everyday Objects & Demonstratives",
+    "kanjis": [
+      {
+        "id": "mnn-k-c02-01",
+        "chapterNumber": 2,
+        "kanji": "辞",
+        "english": "word, resign",
+        "furigana": "じ",
+        "romaji": "ji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "や・める"
+        ],
+        "strokeCount": 13,
+        "level": "N5",
+        "words": [
+          {
+            "word": "辞書",
+            "reading": "じしょ",
+            "meaning": "dictionary"
+          },
+          {
+            "word": "電子辞書",
+            "reading": "でんしじしょ",
+            "meaning": "electronic dictionary"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "これは誰の辞書ですか。",
+            "translation": "Whose dictionary is this?"
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-02",
+        "chapterNumber": 2,
+        "kanji": "書",
+        "english": "write, book, document",
+        "furigana": "か・く",
+        "romaji": "ka-ku",
+        "onyomi": [
+          "ショ"
+        ],
+        "kunyomi": [
+          "か・く"
+        ],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "辞書",
+            "reading": "じしょ",
+            "meaning": "dictionary"
+          },
+          {
+            "word": "書く",
+            "reading": "かく",
+            "meaning": "to write"
+          },
+          {
+            "word": "読書",
+            "reading": "どくしょ",
+            "meaning": "reading books"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "日本語で名前を書きます。",
+            "translation": "I write my name in Japanese."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-03",
+        "chapterNumber": 2,
+        "kanji": "雑",
+        "english": "miscellaneous, mixed",
+        "furigana": "ざつ",
+        "romaji": "zatsu",
+        "onyomi": [
+          "ザツ",
+          "ゾウ"
+        ],
+        "kunyomi": [
+          "ま・ぜる"
+        ],
+        "strokeCount": 14,
+        "level": "N5",
+        "words": [
+          {
+            "word": "雑誌",
+            "reading": "ざっし",
+            "meaning": "magazine"
+          },
+          {
+            "word": "複雑",
+            "reading": "ふくざつ",
+            "meaning": "complicated"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "自動車の雑誌を買いました。",
+            "translation": "I bought a car magazine."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-04",
+        "chapterNumber": 2,
+        "kanji": "誌",
+        "english": "document, records, magazine",
+        "furigana": "し",
+        "romaji": "shi",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [],
+        "strokeCount": 14,
+        "level": "N5",
+        "words": [
+          {
+            "word": "雑誌",
+            "reading": "ざっし",
+            "meaning": "magazine"
+          },
+          {
+            "word": "日誌",
+            "reading": "にっし",
+            "meaning": "daily journal"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "それは日本の雑誌です。",
+            "translation": "That is a Japanese magazine."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-05",
+        "chapterNumber": 2,
+        "kanji": "新",
+        "english": "new, fresh",
+        "furigana": "あたら・しい",
+        "romaji": "atara-shii",
+        "onyomi": [
+          "シン"
+        ],
+        "kunyomi": [
+          "あたら・しい",
+          "あら・た"
+        ],
+        "strokeCount": 13,
+        "level": "N5",
+        "words": [
+          {
+            "word": "新聞",
+            "reading": "しんぶん",
+            "meaning": "newspaper"
+          },
+          {
+            "word": "新しい",
+            "reading": "あたらしい",
+            "meaning": "new"
+          },
+          {
+            "word": "新年",
+            "reading": "しんねん",
+            "meaning": "New Year"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "毎朝新聞を読みます。",
+            "translation": "I read the newspaper every morning."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-06",
+        "chapterNumber": 2,
+        "kanji": "聞",
+        "english": "hear, listen, ask",
+        "furigana": "き・く",
+        "romaji": "ki-ku",
+        "onyomi": [
+          "ブン",
+          "モン"
+        ],
+        "kunyomi": [
+          "き・く",
+          "き・こえる"
+        ],
+        "strokeCount": 14,
+        "level": "N5",
+        "words": [
+          {
+            "word": "新聞",
+            "reading": "しんぶん",
+            "meaning": "newspaper"
+          },
+          {
+            "word": "聞く",
+            "reading": "きく",
+            "meaning": "to listen / to hear"
+          },
+          {
+            "word": "聞こえる",
+            "reading": "きこえる",
+            "meaning": "to be audible"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "音楽を聞きます。",
+            "translation": "I listen to music."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-07",
+        "chapterNumber": 2,
+        "kanji": "手",
+        "english": "hand",
+        "furigana": "て",
+        "romaji": "te",
+        "onyomi": [
+          "シュ"
+        ],
+        "kunyomi": [
+          "て",
+          "た"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "手帳",
+            "reading": "てちょう",
+            "meaning": "pocket notebook"
+          },
+          {
+            "word": "手紙",
+            "reading": "てがみ",
+            "meaning": "letter"
+          },
+          {
+            "word": "切手",
+            "reading": "きって",
+            "meaning": "postage stamp"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "手帳に予定を書きます。",
+            "translation": "I write my plans in my notebook."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-08",
+        "chapterNumber": 2,
+        "kanji": "紙",
+        "english": "paper",
+        "furigana": "かみ",
+        "romaji": "kami",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "かみ"
+        ],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "手紙",
+            "reading": "てがみ",
+            "meaning": "letter"
+          },
+          {
+            "word": "紙",
+            "reading": "かみ",
+            "meaning": "paper"
+          },
+          {
+            "word": "折り紙",
+            "reading": "おりがみ",
+            "meaning": "origami"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "手紙を書きました。",
+            "translation": "I wrote a letter."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-09",
+        "chapterNumber": 2,
+        "kanji": "友",
+        "english": "friend",
+        "furigana": "とも",
+        "romaji": "tomo",
+        "onyomi": [
+          "ユウ"
+        ],
+        "kunyomi": [
+          "とも"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "友達",
+            "reading": "ともだち",
+            "meaning": "friend"
+          },
+          {
+            "word": "友人",
+            "reading": "ゆうじん",
+            "meaning": "friend (formal)"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "友達とお茶を飲みます。",
+            "translation": "I drink tea with a friend."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-10",
+        "chapterNumber": 2,
+        "kanji": "達",
+        "english": "reach, arrive, plural suffix",
+        "furigana": "たち",
+        "romaji": "tachi",
+        "onyomi": [
+          "タツ"
+        ],
+        "kunyomi": [
+          "たち"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "友達",
+            "reading": "ともだち",
+            "meaning": "friend"
+          },
+          {
+            "word": "私たち",
+            "reading": "わたしたち",
+            "meaning": "we; us"
+          },
+          {
+            "word": "配達",
+            "reading": "はいたつ",
+            "meaning": "delivery"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "友達に電話をかけます。",
+            "translation": "I call my friend."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-11",
+        "chapterNumber": 2,
+        "kanji": "車",
+        "english": "car, vehicle, wheel",
+        "furigana": "くるま",
+        "romaji": "kuruma",
+        "onyomi": [
+          "シャ"
+        ],
+        "kunyomi": [
+          "くるま"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "車",
+            "reading": "くるま",
+            "meaning": "car"
+          },
+          {
+            "word": "自動車",
+            "reading": "じどうしゃ",
+            "meaning": "automobile"
+          },
+          {
+            "word": "電車",
+            "reading": "でんしゃ",
+            "meaning": "train"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "これは誰の車ですか。",
+            "translation": "Whose car is this?"
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-12",
+        "chapterNumber": 2,
+        "kanji": "傘",
+        "english": "umbrella",
+        "furigana": "かさ",
+        "romaji": "kasa",
+        "onyomi": [
+          "サン"
+        ],
+        "kunyomi": [
+          "かさ"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "傘",
+            "reading": "かさ",
+            "meaning": "umbrella"
+          },
+          {
+            "word": "雨傘",
+            "reading": "あまがさ",
+            "meaning": "rain umbrella"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "その傘は私のです。",
+            "translation": "That umbrella is mine."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-13",
+        "chapterNumber": 2,
+        "kanji": "計",
+        "english": "measure, plan, meter",
+        "furigana": "はか・る",
+        "romaji": "haka-ru",
+        "onyomi": [
+          "ケイ"
+        ],
+        "kunyomi": [
+          "はか・る"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "時計",
+            "reading": "とけい",
+            "meaning": "clock; watch"
+          },
+          {
+            "word": "計画",
+            "reading": "けいかく",
+            "meaning": "plan"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "この時計はスイス製です。",
+            "translation": "This watch is made in Switzerland."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-14",
+        "chapterNumber": 2,
+        "kanji": "時",
+        "english": "time, hour",
+        "furigana": "とき",
+        "romaji": "toki",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "とき"
+        ],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "時計",
+            "reading": "とけい",
+            "meaning": "clock; watch"
+          },
+          {
+            "word": "時間",
+            "reading": "じかん",
+            "meaning": "time; hour"
+          },
+          {
+            "word": "一時",
+            "reading": "いちじ",
+            "meaning": "one o'clock"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "今何時ですか。",
+            "translation": "What time is it now?"
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-15",
+        "chapterNumber": 2,
+        "kanji": "自",
+        "english": "self, automatic",
+        "furigana": "じ",
+        "romaji": "ji",
+        "onyomi": [
+          "ジ",
+          "シ"
+        ],
+        "kunyomi": [
+          "みずか・ら"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "自動車",
+            "reading": "じどうしゃ",
+            "meaning": "automobile"
+          },
+          {
+            "word": "自転車",
+            "reading": "じてんしゃ",
+            "meaning": "bicycle"
+          },
+          {
+            "word": "自分",
+            "reading": "じぶん",
+            "meaning": "oneself"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "自転車で駅へ行きます。",
+            "translation": "I go to the station by bicycle."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c02-16",
+        "chapterNumber": 2,
+        "kanji": "動",
+        "english": "move, motion",
+        "furigana": "うご・く",
+        "romaji": "ugo-ku",
+        "onyomi": [
+          "ドウ"
+        ],
+        "kunyomi": [
+          "うご・く",
+          "うご・かす"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "自動車",
+            "reading": "じどうしゃ",
+            "meaning": "automobile"
+          },
+          {
+            "word": "動物",
+            "reading": "どうぶつ",
+            "meaning": "animal"
+          },
+          {
+            "word": "動く",
+            "reading": "うごく",
+            "meaning": "to move"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "自動車の鍵はどこですか。",
+            "translation": "Where are the car keys?"
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 3,
+    "title": "第3課 • 場所と建物の表現",
+    "englishTitle": "Locations, Facilities & Prices",
+    "kanjis": [
+      {
+        "id": "mnn-k-c03-01",
+        "chapterNumber": 3,
+        "kanji": "場",
+        "english": "place, location",
+        "furigana": "ば",
+        "romaji": "ba",
+        "onyomi": [
+          "ジョウ"
+        ],
+        "kunyomi": [
+          "ば"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "場所",
+            "reading": "ばしょ",
+            "meaning": "place; venue"
+          },
+          {
+            "word": "売り場",
+            "reading": "うりば",
+            "meaning": "sales counter; department"
+          },
+          {
+            "word": "駐車場",
+            "reading": "ちゅうしゃじょう",
+            "meaning": "parking lot"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "靴の売り場はどこですか。",
+            "translation": "Where is the shoe counter?"
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-02",
+        "chapterNumber": 3,
+        "kanji": "所",
+        "english": "place, spot",
+        "furigana": "ところ",
+        "romaji": "tokoro",
+        "onyomi": [
+          "ショ"
+        ],
+        "kunyomi": [
+          "ところ"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "場所",
+            "reading": "ばしょ",
+            "meaning": "place"
+          },
+          {
+            "word": "事務所",
+            "reading": "じむしょ",
+            "meaning": "office"
+          },
+          {
+            "word": "住所",
+            "reading": "じゅうしょ",
+            "meaning": "address"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "事務所はあそこです。",
+            "translation": "The office is over there."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-03",
+        "chapterNumber": 3,
+        "kanji": "室",
+        "english": "room, chamber",
+        "furigana": "しつ",
+        "romaji": "shitsu",
+        "onyomi": [
+          "シツ"
+        ],
+        "kunyomi": [
+          "むろ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "教室",
+            "reading": "きょうしつ",
+            "meaning": "classroom"
+          },
+          {
+            "word": "会議室",
+            "reading": "かいぎしつ",
+            "meaning": "conference room"
+          },
+          {
+            "word": "研究室",
+            "reading": "けんきゅうしつ",
+            "meaning": "professor's office; laboratory"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "教室に先生がいます。",
+            "translation": "The teacher is in the classroom."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-04",
+        "chapterNumber": 3,
+        "kanji": "教",
+        "english": "teach, faith",
+        "furigana": "おし・える",
+        "romaji": "oshi-eru",
+        "onyomi": [
+          "キョウ"
+        ],
+        "kunyomi": [
+          "おし・える",
+          "おそ・わる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "教室",
+            "reading": "きょうしつ",
+            "meaning": "classroom"
+          },
+          {
+            "word": "教える",
+            "reading": "おしえる",
+            "meaning": "to teach"
+          },
+          {
+            "word": "教師",
+            "reading": "きょうし",
+            "meaning": "instructor"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "先生が教室で日本語を教えます。",
+            "translation": "The teacher teaches Japanese in the classroom."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-05",
+        "chapterNumber": 3,
+        "kanji": "食",
+        "english": "eat, food, meal",
+        "furigana": "た・べる",
+        "romaji": "ta-beru",
+        "onyomi": [
+          "ショク"
+        ],
+        "kunyomi": [
+          "た・べる",
+          "く・う"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "食堂",
+            "reading": "しょくどう",
+            "meaning": "cafeteria; dining hall"
+          },
+          {
+            "word": "食べる",
+            "reading": "たべる",
+            "meaning": "to eat"
+          },
+          {
+            "word": "食事",
+            "reading": "しょくじ",
+            "meaning": "meal"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "食堂で昼ご飯を食べます。",
+            "translation": "I eat lunch in the cafeteria."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-06",
+        "chapterNumber": 3,
+        "kanji": "堂",
+        "english": "hall, public building",
+        "furigana": "どう",
+        "romaji": "dou",
+        "onyomi": [
+          "ドウ"
+        ],
+        "kunyomi": [],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "食堂",
+            "reading": "しょくどう",
+            "meaning": "cafeteria"
+          },
+          {
+            "word": "講堂",
+            "reading": "こうどう",
+            "meaning": "auditorium"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "食堂は地下一階です。",
+            "translation": "The dining hall is on basement floor 1."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-07",
+        "chapterNumber": 3,
+        "kanji": "屋",
+        "english": "roof, shop, house",
+        "furigana": "や",
+        "romaji": "ya",
+        "onyomi": [
+          "オク"
+        ],
+        "kunyomi": [
+          "や"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "部屋",
+            "reading": "へや",
+            "meaning": "room"
+          },
+          {
+            "word": "本屋",
+            "reading": "ほんや",
+            "meaning": "bookstore"
+          },
+          {
+            "word": "屋上",
+            "reading": "おくじょう",
+            "meaning": "rooftop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "私の部屋は二階にあります。",
+            "translation": "My room is on the second floor."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-08",
+        "chapterNumber": 3,
+        "kanji": "店",
+        "english": "store, shop",
+        "furigana": "みせ",
+        "romaji": "mise",
+        "onyomi": [
+          "テン"
+        ],
+        "kunyomi": [
+          "みせ"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "店",
+            "reading": "みせ",
+            "meaning": "store; shop"
+          },
+          {
+            "word": "店員",
+            "reading": "てんいん",
+            "meaning": "store clerk"
+          },
+          {
+            "word": "喫茶店",
+            "reading": "きっさてん",
+            "meaning": "coffee shop; cafe"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "この店で靴を買いました。",
+            "translation": "I bought shoes at this shop."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-09",
+        "chapterNumber": 3,
+        "kanji": "円",
+        "english": "yen, circle, round",
+        "furigana": "えん",
+        "romaji": "en",
+        "onyomi": [
+          "エン"
+        ],
+        "kunyomi": [
+          "まる・い"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "百円",
+            "reading": "ひゃくえん",
+            "meaning": "100 yen"
+          },
+          {
+            "word": "千円",
+            "reading": "せんえん",
+            "meaning": "1,000 yen"
+          },
+          {
+            "word": "一万円",
+            "reading": "いちまんえん",
+            "meaning": "10,000 yen"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "この本は千五百円です。",
+            "translation": "This book is 1,500 yen."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-10",
+        "chapterNumber": 3,
+        "kanji": "百",
+        "english": "hundred",
+        "furigana": "ひゃく",
+        "romaji": "hyaku",
+        "onyomi": [
+          "ヒャク"
+        ],
+        "kunyomi": [],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "百",
+            "reading": "ひゃく",
+            "meaning": "hundred"
+          },
+          {
+            "word": "三百",
+            "reading": "さんびゃく",
+            "meaning": "300"
+          },
+          {
+            "word": "六百",
+            "reading": "ろっぴゃく",
+            "meaning": "600"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "りんごは一つ百円です。",
+            "translation": "Apples are 100 yen each."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-11",
+        "chapterNumber": 3,
+        "kanji": "千",
+        "english": "thousand",
+        "furigana": "せん",
+        "romaji": "sen",
+        "onyomi": [
+          "セン"
+        ],
+        "kunyomi": [
+          "ち"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "千",
+            "reading": "せん",
+            "meaning": "thousand"
+          },
+          {
+            "word": "三千",
+            "reading": "さんぜん",
+            "meaning": "3,000"
+          },
+          {
+            "word": "八千",
+            "reading": "はっせん",
+            "meaning": "8,000"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "チケットは三千円です。",
+            "translation": "The ticket is 3,000 yen."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-12",
+        "chapterNumber": 3,
+        "kanji": "万",
+        "english": "ten thousand, myriad",
+        "furigana": "まん",
+        "romaji": "man",
+        "onyomi": [
+          "マン",
+          "バン"
+        ],
+        "kunyomi": [],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "一万",
+            "reading": "いちまん",
+            "meaning": "10,000"
+          },
+          {
+            "word": "十万",
+            "reading": "じゅうまん",
+            "meaning": "100,000"
+          },
+          {
+            "word": "万年筆",
+            "reading": "まんねんひつ",
+            "meaning": "fountain pen"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "このカメラは五万円でした。",
+            "translation": "This camera was 50,000 yen."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-13",
+        "chapterNumber": 3,
+        "kanji": "階",
+        "english": "floor, stair, grade",
+        "furigana": "かい",
+        "romaji": "kai",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "一階",
+            "reading": "いっかい",
+            "meaning": "1st floor"
+          },
+          {
+            "word": "何階",
+            "reading": "なんがい",
+            "meaning": "what floor"
+          },
+          {
+            "word": "階段",
+            "reading": "かいだん",
+            "meaning": "stairs"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "事務所は何階ですか。",
+            "translation": "What floor is the office on?"
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-14",
+        "chapterNumber": 3,
+        "kanji": "門",
+        "english": "gate, door",
+        "furigana": "もん",
+        "romaji": "mon",
+        "onyomi": [
+          "モン"
+        ],
+        "kunyomi": [
+          "かど"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "正門",
+            "reading": "せいもん",
+            "meaning": "main gate"
+          },
+          {
+            "word": "専門",
+            "reading": "せんもん",
+            "meaning": "specialty; major"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "大学の正門で待ちます。",
+            "translation": "I will wait at the university's main gate."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-15",
+        "chapterNumber": 3,
+        "kanji": "口",
+        "english": "mouth, entrance, opening",
+        "furigana": "くち",
+        "romaji": "kuchi",
+        "onyomi": [
+          "コウ",
+          "ク"
+        ],
+        "kunyomi": [
+          "くち"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "出口",
+            "reading": "でぐち",
+            "meaning": "exit"
+          },
+          {
+            "word": "入口",
+            "reading": "いりぐち",
+            "meaning": "entrance"
+          },
+          {
+            "word": "改札口",
+            "reading": "かいさつぐち",
+            "meaning": "ticket gate"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "出口はあちらです。",
+            "translation": "The exit is over there."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c03-16",
+        "chapterNumber": 3,
+        "kanji": "受",
+        "english": "receive, accept",
+        "furigana": "う・ける",
+        "romaji": "u-keru",
+        "onyomi": [
+          "ジュ"
+        ],
+        "kunyomi": [
+          "う・ける",
+          "う・け"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "受付",
+            "reading": "うけつけ",
+            "meaning": "reception desk"
+          },
+          {
+            "word": "受ける",
+            "reading": "うける",
+            "meaning": "to receive / to take (an exam)"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "受付で名前を書いてください。",
+            "translation": "Please write your name at the reception desk."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 4,
+    "title": "第4課 • 時間・曜日と日課の動詞",
+    "englishTitle": "Time, Days of the Week & Daily Routines",
+    "kanjis": [
+      {
+        "id": "mnn-k-c04-01",
+        "chapterNumber": 4,
+        "kanji": "分",
+        "english": "minute, part, understand",
+        "furigana": "ふん",
+        "romaji": "fun",
+        "onyomi": [
+          "フン",
+          "ブン",
+          "ブ"
+        ],
+        "kunyomi": [
+          "わ・ける",
+          "わ・かる"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "十分",
+            "reading": "じゅっぷん",
+            "meaning": "10 minutes"
+          },
+          {
+            "word": "五分",
+            "reading": "ごふん",
+            "meaning": "5 minutes"
+          },
+          {
+            "word": "分かる",
+            "reading": "わかる",
+            "meaning": "to understand"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "今八時十分です。",
+            "translation": "It is 8:10 now."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-02",
+        "chapterNumber": 4,
+        "kanji": "半",
+        "english": "half, middle",
+        "furigana": "はん",
+        "romaji": "han",
+        "onyomi": [
+          "ハン"
+        ],
+        "kunyomi": [
+          "なか・ば"
+        ],
+        "strokeCount": 5,
+        "level": "N5",
+        "words": [
+          {
+            "word": "九時半",
+            "reading": "くじはん",
+            "meaning": "9:30"
+          },
+          {
+            "word": "半分",
+            "reading": "はんぶん",
+            "meaning": "half"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "会議は十時半から始まります。",
+            "translation": "The meeting starts at 10:30."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-03",
+        "chapterNumber": 4,
+        "kanji": "朝",
+        "english": "morning",
+        "furigana": "あさ",
+        "romaji": "asa",
+        "onyomi": [
+          "チョウ"
+        ],
+        "kunyomi": [
+          "あさ"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "朝",
+            "reading": "あさ",
+            "meaning": "morning"
+          },
+          {
+            "word": "今朝",
+            "reading": "けさ",
+            "meaning": "this morning"
+          },
+          {
+            "word": "朝ご飯",
+            "reading": "あさごはん",
+            "meaning": "breakfast"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "毎朝七時に起きます。",
+            "translation": "I wake up at seven every morning."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-04",
+        "chapterNumber": 4,
+        "kanji": "昼",
+        "english": "noon, daytime",
+        "furigana": "ひる",
+        "romaji": "hiru",
+        "onyomi": [
+          "チュウ"
+        ],
+        "kunyomi": [
+          "ひる"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "昼",
+            "reading": "ひる",
+            "meaning": "daytime; noon"
+          },
+          {
+            "word": "昼休み",
+            "reading": "ひるやすみ",
+            "meaning": "lunch break"
+          },
+          {
+            "word": "昼ご飯",
+            "reading": "ひるごはん",
+            "meaning": "lunch"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "昼休みに散歩をします。",
+            "translation": "I take a walk during lunch break."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-05",
+        "chapterNumber": 4,
+        "kanji": "晩",
+        "english": "night, evening",
+        "furigana": "ばん",
+        "romaji": "ban",
+        "onyomi": [
+          "バン"
+        ],
+        "kunyomi": [],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "今晩",
+            "reading": "こんばん",
+            "meaning": "tonight"
+          },
+          {
+            "word": "晩ご飯",
+            "reading": "ばんごはん",
+            "meaning": "dinner; supper"
+          },
+          {
+            "word": "毎晩",
+            "reading": "まいばん",
+            "meaning": "every night"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "今晩友達と食事をします。",
+            "translation": "Tonight I will dine with a friend."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-06",
+        "chapterNumber": 4,
+        "kanji": "夜",
+        "english": "night, evening",
+        "furigana": "よる",
+        "romaji": "yoru",
+        "onyomi": [
+          "ヤ"
+        ],
+        "kunyomi": [
+          "よる",
+          "よ"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "夜",
+            "reading": "よる",
+            "meaning": "night"
+          },
+          {
+            "word": "今夜",
+            "reading": "こんや",
+            "meaning": "tonight"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "夜十一時に寝ます。",
+            "translation": "I go to sleep at 11 at night."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-07",
+        "chapterNumber": 4,
+        "kanji": "起",
+        "english": "rouse, wake up, get up",
+        "furigana": "お・きる",
+        "romaji": "o-kiru",
+        "onyomi": [
+          "キ"
+        ],
+        "kunyomi": [
+          "お・きる",
+          "お・こす"
+        ],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "起きる",
+            "reading": "おきる",
+            "meaning": "to wake up; to get up"
+          },
+          {
+            "word": "早起き",
+            "reading": "はやおき",
+            "meaning": "early rising"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "明日は六時に起きます。",
+            "translation": "Tomorrow I will wake up at six."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-08",
+        "chapterNumber": 4,
+        "kanji": "寝",
+        "english": "sleep, lie down",
+        "furigana": "ね・る",
+        "romaji": "ne-ru",
+        "onyomi": [
+          "シン"
+        ],
+        "kunyomi": [
+          "ね・る",
+          "ね・かす"
+        ],
+        "strokeCount": 13,
+        "level": "N5",
+        "words": [
+          {
+            "word": "寝る",
+            "reading": "ねる",
+            "meaning": "to sleep; to go to bed"
+          },
+          {
+            "word": "寝室",
+            "reading": "しんしつ",
+            "meaning": "bedroom"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "昨日は十二時に寝ました。",
+            "translation": "Yesterday I went to bed at midnight."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-09",
+        "chapterNumber": 4,
+        "kanji": "働",
+        "english": "work",
+        "furigana": "はたら・く",
+        "romaji": "hatara-ku",
+        "onyomi": [
+          "ドウ"
+        ],
+        "kunyomi": [
+          "はたら・く"
+        ],
+        "strokeCount": 13,
+        "level": "N5",
+        "words": [
+          {
+            "word": "働く",
+            "reading": "はたらく",
+            "meaning": "to work"
+          },
+          {
+            "word": "労働",
+            "reading": "ろうどう",
+            "meaning": "labor; work"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "IMCで働いています。",
+            "translation": "I work at IMC."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-10",
+        "chapterNumber": 4,
+        "kanji": "休",
+        "english": "rest, day off, retire",
+        "furigana": "やす・む",
+        "romaji": "yasu-mu",
+        "onyomi": [
+          "キュウ"
+        ],
+        "kunyomi": [
+          "やす・む",
+          "やす・まる"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "休み",
+            "reading": "やすみ",
+            "meaning": "holiday; day off; break"
+          },
+          {
+            "word": "休む",
+            "reading": "やすむ",
+            "meaning": "to rest; to take a day off"
+          },
+          {
+            "word": "昼休み",
+            "reading": "ひるやすみ",
+            "meaning": "lunch break"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "日曜日は休みです。",
+            "translation": "Sunday is a day off."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-11",
+        "chapterNumber": 4,
+        "kanji": "曜",
+        "english": "weekday",
+        "furigana": "よう",
+        "romaji": "you",
+        "onyomi": [
+          "ヨウ"
+        ],
+        "kunyomi": [],
+        "strokeCount": 18,
+        "level": "N5",
+        "words": [
+          {
+            "word": "日曜日",
+            "reading": "にちようび",
+            "meaning": "Sunday"
+          },
+          {
+            "word": "月曜日",
+            "reading": "げつようび",
+            "meaning": "Monday"
+          },
+          {
+            "word": "何曜日",
+            "reading": "なんようび",
+            "meaning": "what day of the week"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "土曜日と日曜日は休みです。",
+            "translation": "Saturday and Sunday are days off."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-12",
+        "chapterNumber": 4,
+        "kanji": "火",
+        "english": "fire, Tuesday",
+        "furigana": "ひ",
+        "romaji": "hi",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "ひ",
+          "ほ"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "火曜日",
+            "reading": "かようび",
+            "meaning": "Tuesday"
+          },
+          {
+            "word": "火",
+            "reading": "ひ",
+            "meaning": "fire"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "火曜日にテストがあります。",
+            "translation": "There is a test on Tuesday."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-13",
+        "chapterNumber": 4,
+        "kanji": "水",
+        "english": "water, Wednesday",
+        "furigana": "みず",
+        "romaji": "mizu",
+        "onyomi": [
+          "スイ"
+        ],
+        "kunyomi": [
+          "みず"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "水曜日",
+            "reading": "すいようび",
+            "meaning": "Wednesday"
+          },
+          {
+            "word": "水",
+            "reading": "みず",
+            "meaning": "water"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "冷たい水を飲みます。",
+            "translation": "I drink cold water."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-14",
+        "chapterNumber": 4,
+        "kanji": "木",
+        "english": "tree, wood, Thursday",
+        "furigana": "き",
+        "romaji": "ki",
+        "onyomi": [
+          "モク",
+          "ボク"
+        ],
+        "kunyomi": [
+          "き",
+          "こ"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "木曜日",
+            "reading": "もくようび",
+            "meaning": "Thursday"
+          },
+          {
+            "word": "木",
+            "reading": "き",
+            "meaning": "tree"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "木曜日の午後は暇です。",
+            "translation": "I am free on Thursday afternoon."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-15",
+        "chapterNumber": 4,
+        "kanji": "金",
+        "english": "gold, money, Friday",
+        "furigana": "かね",
+        "romaji": "kane",
+        "onyomi": [
+          "キン",
+          "コン"
+        ],
+        "kunyomi": [
+          "かね",
+          "かな"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "金曜日",
+            "reading": "きんようび",
+            "meaning": "Friday"
+          },
+          {
+            "word": "お金",
+            "reading": "おかね",
+            "meaning": "money"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "金曜日の夜に映画を見ます。",
+            "translation": "I watch a movie on Friday night."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-16",
+        "chapterNumber": 4,
+        "kanji": "土",
+        "english": "soil, earth, Saturday",
+        "furigana": "つち",
+        "romaji": "tsuchi",
+        "onyomi": [
+          "ド",
+          "ト"
+        ],
+        "kunyomi": [
+          "つち"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "土曜日",
+            "reading": "どようび",
+            "meaning": "Saturday"
+          },
+          {
+            "word": "土地",
+            "reading": "とち",
+            "meaning": "land; plot"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "土曜日に買い物へ行きます。",
+            "translation": "I go shopping on Saturday."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-17",
+        "chapterNumber": 4,
+        "kanji": "毎",
+        "english": "every",
+        "furigana": "まい",
+        "romaji": "mai",
+        "onyomi": [
+          "マイ"
+        ],
+        "kunyomi": [
+          "ごと"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "毎日",
+            "reading": "まいにち",
+            "meaning": "every day"
+          },
+          {
+            "word": "毎朝",
+            "reading": "まいあさ",
+            "meaning": "every morning"
+          },
+          {
+            "word": "毎晩",
+            "reading": "まいばん",
+            "meaning": "every night"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "毎日日本語を勉強します。",
+            "translation": "I study Japanese every day."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c04-18",
+        "chapterNumber": 4,
+        "kanji": "月",
+        "english": "moon, month, Monday",
+        "furigana": "つき",
+        "romaji": "tsuki",
+        "onyomi": [
+          "ゲツ",
+          "ガツ"
+        ],
+        "kunyomi": [
+          "つき"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "月曜日",
+            "reading": "げつようび",
+            "meaning": "Monday"
+          },
+          {
+            "word": "一月",
+            "reading": "いちがつ",
+            "meaning": "January"
+          },
+          {
+            "word": "今月",
+            "reading": "こんげつ",
+            "meaning": "this month"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "月曜日は九時から働きます。",
+            "translation": "On Mondays I work from nine."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 5,
+    "title": "第5課 • 移動動詞と交通手段",
+    "englishTitle": "Movement Verbs & Transit",
+    "kanjis": [
+      {
+        "id": "mnn-k-c05-01",
+        "chapterNumber": 5,
+        "kanji": "行",
+        "english": "go, act, conduct",
+        "furigana": "い・く",
+        "romaji": "i-ku",
+        "onyomi": [
+          "コウ",
+          "ギョウ"
+        ],
+        "kunyomi": [
+          "い・く",
+          "おこな・う"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "行きます",
+            "reading": "いきます",
+            "meaning": "to go"
+          },
+          {
+            "word": "銀行",
+            "reading": "ぎんこう",
+            "meaning": "bank"
+          },
+          {
+            "word": "旅行",
+            "reading": "りょこう",
+            "meaning": "travel; trip"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "京都へ行きます。",
+            "translation": "I am going to Kyoto."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-02",
+        "chapterNumber": 5,
+        "kanji": "来",
+        "english": "come, next",
+        "furigana": "く・る",
+        "romaji": "ku-ru",
+        "onyomi": [
+          "ライ"
+        ],
+        "kunyomi": [
+          "く・る",
+          "きた・る"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "来ます",
+            "reading": "きます",
+            "meaning": "to come"
+          },
+          {
+            "word": "来週",
+            "reading": "らいしゅう",
+            "meaning": "next week"
+          },
+          {
+            "word": "来月",
+            "reading": "らいげつ",
+            "meaning": "next month"
+          },
+          {
+            "word": "来年",
+            "reading": "らいねん",
+            "meaning": "next year"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "日本から来ました。",
+            "translation": "I came from Japan."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-03",
+        "chapterNumber": 5,
+        "kanji": "帰",
+        "english": "return, go home",
+        "furigana": "かえ・る",
+        "romaji": "kae-ru",
+        "onyomi": [
+          "キ"
+        ],
+        "kunyomi": [
+          "かえ・る",
+          "かえ・す"
+        ],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "帰ります",
+            "reading": "かえります",
+            "meaning": "to return home"
+          },
+          {
+            "word": "帰国",
+            "reading": "きこく",
+            "meaning": "return to one's country"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "七時にうちへ帰ります。",
+            "translation": "I go back home at seven."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-04",
+        "chapterNumber": 5,
+        "kanji": "校",
+        "english": "school, exam",
+        "furigana": "こう",
+        "romaji": "kou",
+        "onyomi": [
+          "コウ"
+        ],
+        "kunyomi": [],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "学校",
+            "reading": "がっこう",
+            "meaning": "school"
+          },
+          {
+            "word": "高校",
+            "reading": "こうこう",
+            "meaning": "high school"
+          },
+          {
+            "word": "校長",
+            "reading": "こうちょう",
+            "meaning": "principal"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "歩いて学校へ行きます。",
+            "translation": "I walk to school."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-05",
+        "chapterNumber": 5,
+        "kanji": "駅",
+        "english": "station",
+        "furigana": "えき",
+        "romaji": "eki",
+        "onyomi": [
+          "エキ"
+        ],
+        "kunyomi": [],
+        "strokeCount": 14,
+        "level": "N5",
+        "words": [
+          {
+            "word": "駅",
+            "reading": "えき",
+            "meaning": "station"
+          },
+          {
+            "word": "東京駅",
+            "reading": "とうきょうえき",
+            "meaning": "Tokyo Station"
+          },
+          {
+            "word": "駅員",
+            "reading": "えきいん",
+            "meaning": "station attendant"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "駅の前で会いましょう。",
+            "translation": "Let's meet in front of the station."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-06",
+        "chapterNumber": 5,
+        "kanji": "電",
+        "english": "electricity, electric",
+        "furigana": "でん",
+        "romaji": "den",
+        "onyomi": [
+          "デン"
+        ],
+        "kunyomi": [],
+        "strokeCount": 13,
+        "level": "N5",
+        "words": [
+          {
+            "word": "電車",
+            "reading": "でんしゃ",
+            "meaning": "train"
+          },
+          {
+            "word": "電気",
+            "reading": "でんき",
+            "meaning": "electricity; light"
+          },
+          {
+            "word": "電話",
+            "reading": "でんわ",
+            "meaning": "telephone"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "電車で大阪へ行きました。",
+            "translation": "I went to Osaka by train."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-07",
+        "chapterNumber": 5,
+        "kanji": "歩",
+        "english": "walk, counter for steps",
+        "furigana": "ある・く",
+        "romaji": "aru-ku",
+        "onyomi": [
+          "ホ",
+          "ポ"
+        ],
+        "kunyomi": [
+          "ある・く",
+          "あゆ・む"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "歩いて",
+            "reading": "あるいて",
+            "meaning": "on foot"
+          },
+          {
+            "word": "散歩",
+            "reading": "さんぽ",
+            "meaning": "walk; stroll"
+          },
+          {
+            "word": "歩く",
+            "reading": "あるく",
+            "meaning": "to walk"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "駅からうちまで歩いて帰りました。",
+            "translation": "I walked home from the station."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-08",
+        "chapterNumber": 5,
+        "kanji": "週",
+        "english": "week",
+        "furigana": "しゅう",
+        "romaji": "shuu",
+        "onyomi": [
+          "シュウ"
+        ],
+        "kunyomi": [],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "今週",
+            "reading": "こんしゅう",
+            "meaning": "this week"
+          },
+          {
+            "word": "来週",
+            "reading": "らいしゅう",
+            "meaning": "next week"
+          },
+          {
+            "word": "先週",
+            "reading": "せんしゅう",
+            "meaning": "last week"
+          },
+          {
+            "word": "毎週",
+            "reading": "まいしゅう",
+            "meaning": "every week"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "先週の土曜日に友達が来ました。",
+            "translation": "A friend came last Saturday."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-09",
+        "chapterNumber": 5,
+        "kanji": "年",
+        "english": "year, age",
+        "furigana": "とし",
+        "romaji": "toshi",
+        "onyomi": [
+          "ネン"
+        ],
+        "kunyomi": [
+          "とし"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "今年",
+            "reading": "ことし",
+            "meaning": "this year"
+          },
+          {
+            "word": "来年",
+            "reading": "らいねん",
+            "meaning": "next year"
+          },
+          {
+            "word": "去年",
+            "reading": "きょねん",
+            "meaning": "last year"
+          },
+          {
+            "word": "一年生",
+            "reading": "いちねんせい",
+            "meaning": "first-year student"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "去年の三月に日本へ来ました。",
+            "translation": "I came to Japan last March."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c05-10",
+        "chapterNumber": 5,
+        "kanji": "昨",
+        "english": "previous, yesterday",
+        "furigana": "さく",
+        "romaji": "saku",
+        "onyomi": [
+          "サク"
+        ],
+        "kunyomi": [],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "昨日",
+            "reading": "きのう",
+            "meaning": "yesterday"
+          },
+          {
+            "word": "昨夜",
+            "reading": "さくや",
+            "meaning": "last night"
+          },
+          {
+            "word": "昨年",
+            "reading": "さくねん",
+            "meaning": "last year"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "昨日は一日中雨でした。",
+            "translation": "Yesterday it rained all day long."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 6,
+    "title": "第6課 • 他動詞と行動の対象",
+    "englishTitle": "Transitive Verbs, Food & Activities",
+    "kanjis": [
+      {
+        "id": "mnn-k-c06-01",
+        "chapterNumber": 6,
+        "kanji": "飲",
+        "english": "drink",
+        "furigana": "の・む",
+        "romaji": "no-mu",
+        "onyomi": [
+          "イン"
+        ],
+        "kunyomi": [
+          "の・む"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "飲みます",
+            "reading": "のみます",
+            "meaning": "to drink"
+          },
+          {
+            "word": "飲み物",
+            "reading": "のみもの",
+            "meaning": "drink; beverage"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "お茶を飲みます。",
+            "translation": "I drink tea."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c06-02",
+        "chapterNumber": 6,
+        "kanji": "見",
+        "english": "see, look, watch",
+        "furigana": "み・る",
+        "romaji": "mi-ru",
+        "onyomi": [
+          "ケン"
+        ],
+        "kunyomi": [
+          "み・る",
+          "み・せる"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "見ます",
+            "reading": "みます",
+            "meaning": "to see; to watch"
+          },
+          {
+            "word": "見せる",
+            "reading": "みせる",
+            "meaning": "to show"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "映画を見ます。",
+            "translation": "I watch a movie."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c06-03",
+        "chapterNumber": 6,
+        "kanji": "読",
+        "english": "read",
+        "furigana": "よ・む",
+        "romaji": "yo-mu",
+        "onyomi": [
+          "ドク"
+        ],
+        "kunyomi": [
+          "よ・む"
+        ],
+        "strokeCount": 14,
+        "level": "N5",
+        "words": [
+          {
+            "word": "読みます",
+            "reading": "よみます",
+            "meaning": "to read"
+          },
+          {
+            "word": "読書",
+            "reading": "どくしょ",
+            "meaning": "reading"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "本を読みます。",
+            "translation": "I read a book."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c06-04",
+        "chapterNumber": 6,
+        "kanji": "買",
+        "english": "buy",
+        "furigana": "か・う",
+        "romaji": "ka-u",
+        "onyomi": [
+          "バイ"
+        ],
+        "kunyomi": [
+          "か・う"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "買います",
+            "reading": "かいます",
+            "meaning": "to buy"
+          },
+          {
+            "word": "買い物",
+            "reading": "かいもの",
+            "meaning": "shopping"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "パンを買いました。",
+            "translation": "I bought bread."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c06-05",
+        "chapterNumber": 6,
+        "kanji": "撮",
+        "english": "photograph, take picture",
+        "furigana": "と・る",
+        "romaji": "to-ru",
+        "onyomi": [
+          "サツ"
+        ],
+        "kunyomi": [
+          "と・る"
+        ],
+        "strokeCount": 15,
+        "level": "N5",
+        "words": [
+          {
+            "word": "写真を撮る",
+            "reading": "しゃしんをとる",
+            "meaning": "to take a photo"
+          },
+          {
+            "word": "撮影",
+            "reading": "さつえい",
+            "meaning": "photography; filming"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "庭で写真を撮りました。",
+            "translation": "I took a picture in the garden."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c06-06",
+        "chapterNumber": 6,
+        "kanji": "魚",
+        "english": "fish",
+        "furigana": "さかな",
+        "romaji": "sakana",
+        "onyomi": [
+          "ギョ"
+        ],
+        "kunyomi": [
+          "さかな",
+          "うお"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "魚",
+            "reading": "さかな",
+            "meaning": "fish"
+          },
+          {
+            "word": "金魚",
+            "reading": "きんぎょ",
+            "meaning": "goldfish"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "魚を食べます。",
+            "translation": "I eat fish."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c06-07",
+        "chapterNumber": 6,
+        "kanji": "肉",
+        "english": "meat",
+        "furigana": "にく",
+        "romaji": "niku",
+        "onyomi": [
+          "ニク"
+        ],
+        "kunyomi": [],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "牛肉",
+            "reading": "ぎゅうにく",
+            "meaning": "beef"
+          },
+          {
+            "word": "豚肉",
+            "reading": "ぶたにく",
+            "meaning": "pork"
+          },
+          {
+            "word": "鳥肉",
+            "reading": "とりにく",
+            "meaning": "chicken"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "晩ご飯に牛肉を食べました。",
+            "translation": "I ate beef for dinner."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c06-08",
+        "chapterNumber": 6,
+        "kanji": "茶",
+        "english": "tea",
+        "furigana": "ちゃ",
+        "romaji": "cha",
+        "onyomi": [
+          "チャ",
+          "サ"
+        ],
+        "kunyomi": [],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "お茶",
+            "reading": "おちゃ",
+            "meaning": "green tea"
+          },
+          {
+            "word": "紅茶",
+            "reading": "こうちゃ",
+            "meaning": "black tea"
+          },
+          {
+            "word": "喫茶店",
+            "reading": "きっさてん",
+            "meaning": "cafe"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "お茶をどうぞ。",
+            "translation": "Please have some tea."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 7,
+    "title": "第7課 • 道具・手段と授受表現",
+    "englishTitle": "Tools, Instruments & Giving/Receiving",
+    "kanjis": [
+      {
+        "id": "mnn-k-c07-01",
+        "chapterNumber": 7,
+        "kanji": "切",
+        "english": "cut, slice",
+        "furigana": "き・る",
+        "romaji": "ki-ru",
+        "onyomi": [
+          "セツ"
+        ],
+        "kunyomi": [
+          "き・る"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "切ります",
+            "reading": "きります",
+            "meaning": "to cut"
+          },
+          {
+            "word": "切手",
+            "reading": "きって",
+            "meaning": "postage stamp"
+          },
+          {
+            "word": "大切",
+            "reading": "たいせつ",
+            "meaning": "important"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "はさみで紙を切ります。",
+            "translation": "I cut paper with scissors."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c07-02",
+        "chapterNumber": 7,
+        "kanji": "送",
+        "english": "send, escort",
+        "furigana": "おく・る",
+        "romaji": "oku-ru",
+        "onyomi": [
+          "ソウ"
+        ],
+        "kunyomi": [
+          "おく・る"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "送ります",
+            "reading": "おくります",
+            "meaning": "to send"
+          },
+          {
+            "word": "見送り",
+            "reading": "みおくり",
+            "meaning": "seeing someone off"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "荷物を送ります。",
+            "translation": "I send the luggage/package."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c07-03",
+        "chapterNumber": 7,
+        "kanji": "花",
+        "english": "flower, blossom",
+        "furigana": "はな",
+        "romaji": "hana",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "はな"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "花",
+            "reading": "はな",
+            "meaning": "flower"
+          },
+          {
+            "word": "花見",
+            "reading": "はなみ",
+            "meaning": "cherry blossom viewing"
+          },
+          {
+            "word": "花火",
+            "reading": "はなび",
+            "meaning": "fireworks"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "母に花をあげました。",
+            "translation": "I gave flowers to my mother."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c07-04",
+        "chapterNumber": 7,
+        "kanji": "物",
+        "english": "thing, object, matter",
+        "furigana": "もの",
+        "romaji": "mono",
+        "onyomi": [
+          "ブツ",
+          "モツ"
+        ],
+        "kunyomi": [
+          "もの"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "荷物",
+            "reading": "にもつ",
+            "meaning": "luggage; baggage"
+          },
+          {
+            "word": "食べ物",
+            "reading": "たべもの",
+            "meaning": "food"
+          },
+          {
+            "word": "飲み物",
+            "reading": "のみもの",
+            "meaning": "drink"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "荷物を受け取りました。",
+            "translation": "I received the parcel."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c07-05",
+        "chapterNumber": 7,
+        "kanji": "貸",
+        "english": "lend, loan",
+        "furigana": "か・す",
+        "romaji": "ka-su",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "か・す"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "貸します",
+            "reading": "かします",
+            "meaning": "to lend"
+          },
+          {
+            "word": "貸出",
+            "reading": "かしだし",
+            "meaning": "lending; checkout"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "友達に傘を貸しました。",
+            "translation": "I lent an umbrella to my friend."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c07-06",
+        "chapterNumber": 7,
+        "kanji": "借",
+        "english": "borrow, rent",
+        "furigana": "か・りる",
+        "romaji": "ka-riru",
+        "onyomi": [
+          "シャク"
+        ],
+        "kunyomi": [
+          "か・りる"
+        ],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "借ります",
+            "reading": "かります",
+            "meaning": "to borrow"
+          },
+          {
+            "word": "借金",
+            "reading": "しゃっきん",
+            "meaning": "debt"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "図書館で本を借りました。",
+            "translation": "I borrowed a book from the library."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c07-07",
+        "chapterNumber": 7,
+        "kanji": "習",
+        "english": "learn, practice",
+        "furigana": "なら・う",
+        "romaji": "nara-u",
+        "onyomi": [
+          "シュウ"
+        ],
+        "kunyomi": [
+          "なら・う"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "習います",
+            "reading": "ならいます",
+            "meaning": "to learn"
+          },
+          {
+            "word": "練習",
+            "reading": "れんしゅう",
+            "meaning": "practice"
+          },
+          {
+            "word": "予習",
+            "reading": "よしゅう",
+            "meaning": "preparation"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "先生に生け花を習います。",
+            "translation": "I learn flower arrangement from a teacher."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c07-08",
+        "chapterNumber": 7,
+        "kanji": "母",
+        "english": "mother",
+        "furigana": "はは",
+        "romaji": "haha",
+        "onyomi": [
+          "ボ"
+        ],
+        "kunyomi": [
+          "はは"
+        ],
+        "strokeCount": 5,
+        "level": "N5",
+        "words": [
+          {
+            "word": "母",
+            "reading": "はは",
+            "meaning": "my mother"
+          },
+          {
+            "word": "お母さん",
+            "reading": "おかあさん",
+            "meaning": "mother"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "母から手紙をもらいました。",
+            "translation": "I received a letter from my mother."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c07-09",
+        "chapterNumber": 7,
+        "kanji": "父",
+        "english": "father",
+        "furigana": "ちち",
+        "romaji": "chichi",
+        "onyomi": [
+          "フ"
+        ],
+        "kunyomi": [
+          "ちち"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "父",
+            "reading": "ちち",
+            "meaning": "my father"
+          },
+          {
+            "word": "お父さん",
+            "reading": "おとうさん",
+            "meaning": "father"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "父に時計をもらいました。",
+            "translation": "I got a watch from my father."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 8,
+    "title": "第8課 • い形容詞・な形容詞による修飾",
+    "englishTitle": "Adjectives & State of Things",
+    "kanjis": [
+      {
+        "id": "mnn-k-c08-01",
+        "chapterNumber": 8,
+        "kanji": "山",
+        "english": "mountain",
+        "furigana": "やま",
+        "romaji": "yama",
+        "onyomi": [
+          "サン"
+        ],
+        "kunyomi": [
+          "やま"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "富士山",
+            "reading": "ふじさん",
+            "meaning": "Mount Fuji"
+          },
+          {
+            "word": "山",
+            "reading": "やま",
+            "meaning": "mountain"
+          },
+          {
+            "word": "登山",
+            "reading": "とざん",
+            "meaning": "mountain climbing"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "富士山は高い山です。",
+            "translation": "Mount Fuji is a tall mountain."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c08-02",
+        "chapterNumber": 8,
+        "kanji": "川",
+        "english": "river, stream",
+        "furigana": "かわ",
+        "romaji": "kawa",
+        "onyomi": [
+          "セン"
+        ],
+        "kunyomi": [
+          "かわ"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "川",
+            "reading": "かわ",
+            "meaning": "river"
+          },
+          {
+            "word": "小川",
+            "reading": "おがわ",
+            "meaning": "brook; stream"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "川の水はとてもきれいです。",
+            "translation": "The river water is very clean."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c08-03",
+        "chapterNumber": 8,
+        "kanji": "高",
+        "english": "tall, high, expensive",
+        "furigana": "たか・い",
+        "romaji": "taka-i",
+        "onyomi": [
+          "コウ"
+        ],
+        "kunyomi": [
+          "たか・い"
+        ],
+        "strokeCount": 10,
+        "level": "N5",
+        "words": [
+          {
+            "word": "高い",
+            "reading": "たかい",
+            "meaning": "expensive; tall"
+          },
+          {
+            "word": "高校",
+            "reading": "こうこう",
+            "meaning": "high school"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "このカメラは高くないです。",
+            "translation": "This camera is not expensive."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c08-04",
+        "chapterNumber": 8,
+        "kanji": "安",
+        "english": "cheap, peaceful, safe",
+        "furigana": "やす・い",
+        "romaji": "yasu-i",
+        "onyomi": [
+          "アン"
+        ],
+        "kunyomi": [
+          "やす・い"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "安い",
+            "reading": "やすい",
+            "meaning": "cheap; inexpensive"
+          },
+          {
+            "word": "安心",
+            "reading": "あんしん",
+            "meaning": "relief; peace of mind"
+          },
+          {
+            "word": "安全",
+            "reading": "あんぜん",
+            "meaning": "safe"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "あのレストランは安くておいしいです。",
+            "translation": "That restaurant is cheap and delicious."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c08-05",
+        "chapterNumber": 8,
+        "kanji": "古",
+        "english": "old",
+        "furigana": "ふる・い",
+        "romaji": "furu-i",
+        "onyomi": [
+          "コ"
+        ],
+        "kunyomi": [
+          "ふる・い"
+        ],
+        "strokeCount": 5,
+        "level": "N5",
+        "words": [
+          {
+            "word": "古い",
+            "reading": "ふるい",
+            "meaning": "old (objects)"
+          },
+          {
+            "word": "中古",
+            "reading": "ちゅうこ",
+            "meaning": "secondhand"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "奈良は古い町です。",
+            "translation": "Nara is an old town."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c08-06",
+        "chapterNumber": 8,
+        "kanji": "多",
+        "english": "many, frequent",
+        "furigana": "おお・い",
+        "romaji": "oo-i",
+        "onyomi": [
+          "タ"
+        ],
+        "kunyomi": [
+          "おお・い"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "多い",
+            "reading": "おおい",
+            "meaning": "many; numerous"
+          },
+          {
+            "word": "多少",
+            "reading": "たしょう",
+            "meaning": "more or less"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "東京は人が多いです。",
+            "translation": "Tokyo has many people."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c08-07",
+        "chapterNumber": 8,
+        "kanji": "少",
+        "english": "few, little",
+        "furigana": "すく・ない",
+        "romaji": "suku-nai",
+        "onyomi": [
+          "ショウ"
+        ],
+        "kunyomi": [
+          "すく・ない",
+          "すこ・し"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "少ない",
+            "reading": "すくない",
+            "meaning": "few; little"
+          },
+          {
+            "word": "少し",
+            "reading": "すこし",
+            "meaning": "a little"
+          },
+          {
+            "word": "少女",
+            "reading": "しょうじょ",
+            "meaning": "young girl"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "日本語が少し分かります。",
+            "translation": "I understand a little Japanese."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c08-08",
+        "chapterNumber": 8,
+        "kanji": "町",
+        "english": "town, village",
+        "furigana": "まち",
+        "romaji": "machi",
+        "onyomi": [
+          "チョウ"
+        ],
+        "kunyomi": [
+          "まち"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "町",
+            "reading": "まち",
+            "meaning": "town"
+          },
+          {
+            "word": "下町",
+            "reading": "したまち",
+            "meaning": "downtown; old part of town"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "静かな町に住んでいます。",
+            "translation": "I live in a quiet town."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 9,
+    "title": "第9課 • 嗜好・能力と理由の表現",
+    "englishTitle": "Preferences, Abilities & Reasons",
+    "kanjis": [
+      {
+        "id": "mnn-k-c09-01",
+        "chapterNumber": 9,
+        "kanji": "好",
+        "english": "like, fond",
+        "furigana": "す・き",
+        "romaji": "su-ki",
+        "onyomi": [
+          "コウ"
+        ],
+        "kunyomi": [
+          "す・き",
+          "この・む"
+        ],
+        "strokeCount": 6,
+        "level": "N5",
+        "words": [
+          {
+            "word": "好き",
+            "reading": "すき",
+            "meaning": "liked; favorite"
+          },
+          {
+            "word": "大好物",
+            "reading": "だいこうぶつ",
+            "meaning": "favorite food"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "日本料理が好きです。",
+            "translation": "I like Japanese food."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c09-02",
+        "chapterNumber": 9,
+        "kanji": "上",
+        "english": "up, above, skillful",
+        "furigana": "うえ",
+        "romaji": "ue",
+        "onyomi": [
+          "ジョウ"
+        ],
+        "kunyomi": [
+          "うえ",
+          "あ・がる",
+          "じょう・ず"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "上手",
+            "reading": "じょうず",
+            "meaning": "skillful; good at"
+          },
+          {
+            "word": "上",
+            "reading": "うえ",
+            "meaning": "above; on"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "マリアさんは歌が上手です。",
+            "translation": "Maria is good at singing."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c09-03",
+        "chapterNumber": 9,
+        "kanji": "下",
+        "english": "down, below, unskillful",
+        "furigana": "した",
+        "romaji": "shita",
+        "onyomi": [
+          "カ",
+          "ゲ"
+        ],
+        "kunyomi": [
+          "した",
+          "さ・がる",
+          "へ・た"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "下手",
+            "reading": "へた",
+            "meaning": "unskillful; poor at"
+          },
+          {
+            "word": "下",
+            "reading": "した",
+            "meaning": "under; below"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "私は料理が下手です。",
+            "translation": "I am poor at cooking."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c09-04",
+        "chapterNumber": 9,
+        "kanji": "歌",
+        "english": "song, sing",
+        "furigana": "うた",
+        "romaji": "uta",
+        "onyomi": [
+          "カ"
+        ],
+        "kunyomi": [
+          "うた",
+          "うた・う"
+        ],
+        "strokeCount": 14,
+        "level": "N5",
+        "words": [
+          {
+            "word": "歌",
+            "reading": "うた",
+            "meaning": "song"
+          },
+          {
+            "word": "歌う",
+            "reading": "うたう",
+            "meaning": "to sing"
+          },
+          {
+            "word": "歌手",
+            "reading": "かしゅ",
+            "meaning": "singer"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "日本の歌を歌います。",
+            "translation": "I sing a Japanese song."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c09-05",
+        "chapterNumber": 9,
+        "kanji": "音",
+        "english": "sound, noise",
+        "furigana": "おと",
+        "romaji": "oto",
+        "onyomi": [
+          "オン"
+        ],
+        "kunyomi": [
+          "おと",
+          "ね"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "音楽",
+            "reading": "おんがく",
+            "meaning": "music"
+          },
+          {
+            "word": "音",
+            "reading": "おと",
+            "meaning": "sound"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "クラシック音楽が好きです。",
+            "translation": "I like classical music."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c09-06",
+        "chapterNumber": 9,
+        "kanji": "楽",
+        "english": "comfort, music, fun",
+        "furigana": "たの・しい",
+        "romaji": "tano-shii",
+        "onyomi": [
+          "ガク",
+          "ラク"
+        ],
+        "kunyomi": [
+          "たの・しい",
+          "たの・しむ"
+        ],
+        "strokeCount": 13,
+        "level": "N5",
+        "words": [
+          {
+            "word": "音楽",
+            "reading": "おんがく",
+            "meaning": "music"
+          },
+          {
+            "word": "楽しい",
+            "reading": "たのしい",
+            "meaning": "fun; enjoyable"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "昨日のパーティーは楽しかったです。",
+            "translation": "Yesterday's party was fun."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c09-07",
+        "chapterNumber": 9,
+        "kanji": "子",
+        "english": "child",
+        "furigana": "こ",
+        "romaji": "ko",
+        "onyomi": [
+          "シ",
+          "ス"
+        ],
+        "kunyomi": [
+          "こ"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "子ども",
+            "reading": "こども",
+            "meaning": "child"
+          },
+          {
+            "word": "女の子",
+            "reading": "おんなのこ",
+            "meaning": "girl"
+          },
+          {
+            "word": "男の子",
+            "reading": "おとこのこ",
+            "meaning": "boy"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "子どもが公園で遊んでいます。",
+            "translation": "Children are playing in the park."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 10,
+    "title": "第10課 • 人や物の存在と位置関係",
+    "englishTitle": "Existence & Spatial Relations",
+    "kanjis": [
+      {
+        "id": "mnn-k-c10-01",
+        "chapterNumber": 10,
+        "kanji": "男",
+        "english": "man, male",
+        "furigana": "おとこ",
+        "romaji": "otoko",
+        "onyomi": [
+          "ダン",
+          "ナン"
+        ],
+        "kunyomi": [
+          "おとこ"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "男の人",
+            "reading": "おとこのひと",
+            "meaning": "man"
+          },
+          {
+            "word": "男の子",
+            "reading": "おとこのこ",
+            "meaning": "boy"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "あそこに男の人がいます。",
+            "translation": "There is a man over there."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c10-02",
+        "chapterNumber": 10,
+        "kanji": "女",
+        "english": "woman, female",
+        "furigana": "おんな",
+        "romaji": "onna",
+        "onyomi": [
+          "ジョ"
+        ],
+        "kunyomi": [
+          "おんな",
+          "め"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "女の人",
+            "reading": "おんなのひと",
+            "meaning": "woman"
+          },
+          {
+            "word": "女の子",
+            "reading": "おんなのこ",
+            "meaning": "girl"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "受付に女の人がいます。",
+            "translation": "There is a woman at the reception desk."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c10-03",
+        "chapterNumber": 10,
+        "kanji": "前",
+        "english": "before, in front, ago",
+        "furigana": "まえ",
+        "romaji": "mae",
+        "onyomi": [
+          "ゼン"
+        ],
+        "kunyomi": [
+          "まえ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "前",
+            "reading": "まえ",
+            "meaning": "front; before"
+          },
+          {
+            "word": "駅前",
+            "reading": "えきまえ",
+            "meaning": "in front of station"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "スーパーの前にポストがあります。",
+            "translation": "There is a postbox in front of the supermarket."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c10-04",
+        "chapterNumber": 10,
+        "kanji": "後",
+        "english": "behind, back, after",
+        "furigana": "うし・ろ",
+        "romaji": "ushi-ro",
+        "onyomi": [
+          "ゴ",
+          "コウ"
+        ],
+        "kunyomi": [
+          "のち",
+          "うし・ろ",
+          "あと"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "後ろ",
+            "reading": "うしろ",
+            "meaning": "behind; back"
+          },
+          {
+            "word": "後で",
+            "reading": "あとで",
+            "meaning": "later"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "私の後ろに猫がいます。",
+            "translation": "There is a cat behind me."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c10-05",
+        "chapterNumber": 10,
+        "kanji": "中",
+        "english": "inside, middle, China",
+        "furigana": "なか",
+        "romaji": "naka",
+        "onyomi": [
+          "チュウ"
+        ],
+        "kunyomi": [
+          "なか"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "中",
+            "reading": "なか",
+            "meaning": "inside; middle"
+          },
+          {
+            "word": "一日中",
+            "reading": "いちにちじゅう",
+            "meaning": "all day long"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "箱の中に鍵があります。",
+            "translation": "There is a key inside the box."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c10-06",
+        "chapterNumber": 10,
+        "kanji": "右",
+        "english": "right",
+        "furigana": "みぎ",
+        "romaji": "migi",
+        "onyomi": [
+          "ウ",
+          "ユウ"
+        ],
+        "kunyomi": [
+          "みぎ"
+        ],
+        "strokeCount": 5,
+        "level": "N5",
+        "words": [
+          {
+            "word": "右",
+            "reading": "みぎ",
+            "meaning": "right"
+          },
+          {
+            "word": "右手",
+            "reading": "みぎて",
+            "meaning": "right hand"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "銀行の右に郵便局があります。",
+            "translation": "There is a post office to the right of the bank."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c10-07",
+        "chapterNumber": 10,
+        "kanji": "左",
+        "english": "left",
+        "furigana": "ひだり",
+        "romaji": "hidari",
+        "onyomi": [
+          "サ"
+        ],
+        "kunyomi": [
+          "ひだり"
+        ],
+        "strokeCount": 5,
+        "level": "N5",
+        "words": [
+          {
+            "word": "左",
+            "reading": "ひだり",
+            "meaning": "left"
+          },
+          {
+            "word": "左手",
+            "reading": "ひだりて",
+            "meaning": "left hand"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "交差点を左へ曲がります。",
+            "translation": "Turn left at the intersection."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c10-08",
+        "chapterNumber": 10,
+        "kanji": "間",
+        "english": "interval, space, between",
+        "furigana": "あいだ",
+        "romaji": "aida",
+        "onyomi": [
+          "カン",
+          "ケン"
+        ],
+        "kunyomi": [
+          "あいだ",
+          "ま"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "間",
+            "reading": "あいだ",
+            "meaning": "between; interval"
+          },
+          {
+            "word": "時間",
+            "reading": "じかん",
+            "meaning": "time"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "本屋と花屋の間に喫茶店があります。",
+            "translation": "There is a cafe between the bookstore and flower shop."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c10-09",
+        "chapterNumber": 10,
+        "kanji": "近",
+        "english": "near, close",
+        "furigana": "ちか・い",
+        "romaji": "chika-i",
+        "onyomi": [
+          "キン"
+        ],
+        "kunyomi": [
+          "ちか・い"
+        ],
+        "strokeCount": 7,
+        "level": "N5",
+        "words": [
+          {
+            "word": "近く",
+            "reading": "ちかく",
+            "meaning": "nearby; vicinity"
+          },
+          {
+            "word": "近所",
+            "reading": "きんじょ",
+            "meaning": "neighborhood"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "駅の近くに住んでいます。",
+            "translation": "I live near the station."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 11,
+    "title": "第11課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 11 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c11-01",
+        "chapterNumber": 11,
+        "kanji": "一",
+        "english": "one",
+        "furigana": "ひと・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "イチ"
+        ],
+        "kunyomi": [
+          "ひと・つ"
+        ],
+        "strokeCount": 1,
+        "level": "N5",
+        "words": [
+          {
+            "word": "一つ",
+            "reading": "ひとつ",
+            "meaning": "one thing"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "一つの練習をします。",
+            "translation": "Practice with 一つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-02",
+        "chapterNumber": 11,
+        "kanji": "二",
+        "english": "two",
+        "furigana": "ふた・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ニ"
+        ],
+        "kunyomi": [
+          "ふた・つ"
+        ],
+        "strokeCount": 2,
+        "level": "N5",
+        "words": [
+          {
+            "word": "二つ",
+            "reading": "ふたつ",
+            "meaning": "two things"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "二つの練習をします。",
+            "translation": "Practice with 二つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-03",
+        "chapterNumber": 11,
+        "kanji": "三",
+        "english": "three",
+        "furigana": "みっ・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "サン"
+        ],
+        "kunyomi": [
+          "みっ・つ"
+        ],
+        "strokeCount": 3,
+        "level": "N5",
+        "words": [
+          {
+            "word": "三つ",
+            "reading": "みっつ",
+            "meaning": "three things"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "三つの練習をします。",
+            "translation": "Practice with 三つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-04",
+        "chapterNumber": 11,
+        "kanji": "四",
+        "english": "four",
+        "furigana": "よっ・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "よっ・つ",
+          "よん"
+        ],
+        "strokeCount": 5,
+        "level": "N5",
+        "words": [
+          {
+            "word": "四つ",
+            "reading": "よっつ",
+            "meaning": "four things"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "四つの練習をします。",
+            "translation": "Practice with 四つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-05",
+        "chapterNumber": 11,
+        "kanji": "五",
+        "english": "five",
+        "furigana": "いつ・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ゴ"
+        ],
+        "kunyomi": [
+          "いつ・つ"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "五つ",
+            "reading": "いつつ",
+            "meaning": "five things"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "五つの練習をします。",
+            "translation": "Practice with 五つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-06",
+        "chapterNumber": 11,
+        "kanji": "六",
+        "english": "six",
+        "furigana": "むっ・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ロク"
+        ],
+        "kunyomi": [
+          "むっ・つ"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "六つ",
+            "reading": "むっつ",
+            "meaning": "six things"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "六つの練習をします。",
+            "translation": "Practice with 六つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-07",
+        "chapterNumber": 11,
+        "kanji": "七",
+        "english": "seven",
+        "furigana": "なな・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "シチ"
+        ],
+        "kunyomi": [
+          "なな・つ"
+        ],
+        "strokeCount": 2,
+        "level": "N5",
+        "words": [
+          {
+            "word": "七つ",
+            "reading": "ななつ",
+            "meaning": "seven things"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "七つの練習をします。",
+            "translation": "Practice with 七つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-08",
+        "chapterNumber": 11,
+        "kanji": "八",
+        "english": "eight",
+        "furigana": "やっ・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ハチ"
+        ],
+        "kunyomi": [
+          "やっ・つ"
+        ],
+        "strokeCount": 2,
+        "level": "N5",
+        "words": [
+          {
+            "word": "八つ",
+            "reading": "やっつ",
+            "meaning": "eight things"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "八つの練習をします。",
+            "translation": "Practice with 八つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-09",
+        "chapterNumber": 11,
+        "kanji": "九",
+        "english": "nine",
+        "furigana": "ここの・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "キュウ",
+          "ク"
+        ],
+        "kunyomi": [
+          "ここの・つ"
+        ],
+        "strokeCount": 2,
+        "level": "N5",
+        "words": [
+          {
+            "word": "九つ",
+            "reading": "ここのつ",
+            "meaning": "nine things"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "九つの練習をします。",
+            "translation": "Practice with 九つ."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c11-10",
+        "chapterNumber": 11,
+        "kanji": "十",
+        "english": "ten",
+        "furigana": "とお",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジュウ"
+        ],
+        "kunyomi": [
+          "とお"
+        ],
+        "strokeCount": 2,
+        "level": "N5",
+        "words": [
+          {
+            "word": "十",
+            "reading": "とお",
+            "meaning": "ten"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "十の練習をします。",
+            "translation": "Practice with 十."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 12,
+    "title": "第12課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 12 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c12-01",
+        "chapterNumber": 12,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c12-02",
+        "chapterNumber": 12,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c12-03",
+        "chapterNumber": 12,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c12-04",
+        "chapterNumber": 12,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c12-05",
+        "chapterNumber": 12,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c12-06",
+        "chapterNumber": 12,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 13,
+    "title": "第13課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 13 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c13-01",
+        "chapterNumber": 13,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c13-02",
+        "chapterNumber": 13,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c13-03",
+        "chapterNumber": 13,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c13-04",
+        "chapterNumber": 13,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c13-05",
+        "chapterNumber": 13,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c13-06",
+        "chapterNumber": 13,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 14,
+    "title": "第14課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 14 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c14-01",
+        "chapterNumber": 14,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c14-02",
+        "chapterNumber": 14,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c14-03",
+        "chapterNumber": 14,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c14-04",
+        "chapterNumber": 14,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c14-05",
+        "chapterNumber": 14,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c14-06",
+        "chapterNumber": 14,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 15,
+    "title": "第15課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 15 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c15-01",
+        "chapterNumber": 15,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c15-02",
+        "chapterNumber": 15,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c15-03",
+        "chapterNumber": 15,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c15-04",
+        "chapterNumber": 15,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c15-05",
+        "chapterNumber": 15,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c15-06",
+        "chapterNumber": 15,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 16,
+    "title": "第16課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 16 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c16-01",
+        "chapterNumber": 16,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c16-02",
+        "chapterNumber": 16,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c16-03",
+        "chapterNumber": 16,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c16-04",
+        "chapterNumber": 16,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c16-05",
+        "chapterNumber": 16,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c16-06",
+        "chapterNumber": 16,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 17,
+    "title": "第17課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 17 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c17-01",
+        "chapterNumber": 17,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c17-02",
+        "chapterNumber": 17,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c17-03",
+        "chapterNumber": 17,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c17-04",
+        "chapterNumber": 17,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c17-05",
+        "chapterNumber": 17,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c17-06",
+        "chapterNumber": 17,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 18,
+    "title": "第18課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 18 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c18-01",
+        "chapterNumber": 18,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c18-02",
+        "chapterNumber": 18,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c18-03",
+        "chapterNumber": 18,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c18-04",
+        "chapterNumber": 18,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c18-05",
+        "chapterNumber": 18,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c18-06",
+        "chapterNumber": 18,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 19,
+    "title": "第19課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 19 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c19-01",
+        "chapterNumber": 19,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c19-02",
+        "chapterNumber": 19,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c19-03",
+        "chapterNumber": 19,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c19-04",
+        "chapterNumber": 19,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c19-05",
+        "chapterNumber": 19,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c19-06",
+        "chapterNumber": 19,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 20,
+    "title": "第20課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 20 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c20-01",
+        "chapterNumber": 20,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c20-02",
+        "chapterNumber": 20,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c20-03",
+        "chapterNumber": 20,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c20-04",
+        "chapterNumber": 20,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c20-05",
+        "chapterNumber": 20,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c20-06",
+        "chapterNumber": 20,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 21,
+    "title": "第21課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 21 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c21-01",
+        "chapterNumber": 21,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c21-02",
+        "chapterNumber": 21,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c21-03",
+        "chapterNumber": 21,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c21-04",
+        "chapterNumber": 21,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c21-05",
+        "chapterNumber": 21,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c21-06",
+        "chapterNumber": 21,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 22,
+    "title": "第22課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 22 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c22-01",
+        "chapterNumber": 22,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c22-02",
+        "chapterNumber": 22,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c22-03",
+        "chapterNumber": 22,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c22-04",
+        "chapterNumber": 22,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c22-05",
+        "chapterNumber": 22,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c22-06",
+        "chapterNumber": 22,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 23,
+    "title": "第23課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 23 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c23-01",
+        "chapterNumber": 23,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c23-02",
+        "chapterNumber": 23,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c23-03",
+        "chapterNumber": 23,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c23-04",
+        "chapterNumber": 23,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c23-05",
+        "chapterNumber": 23,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c23-06",
+        "chapterNumber": 23,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 24,
+    "title": "第24課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 24 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c24-01",
+        "chapterNumber": 24,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c24-02",
+        "chapterNumber": 24,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c24-03",
+        "chapterNumber": 24,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c24-04",
+        "chapterNumber": 24,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c24-05",
+        "chapterNumber": 24,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c24-06",
+        "chapterNumber": 24,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  },
+  {
+    "chapterNumber": 25,
+    "title": "第25課 • 語彙と漢字練習",
+    "englishTitle": "Chapter 25 • Curriculum Kanji",
+    "kanjis": [
+      {
+        "id": "mnn-k-c25-01",
+        "chapterNumber": 25,
+        "kanji": "開",
+        "english": "open",
+        "furigana": "あ・ける",
+        "romaji": "romaji",
+        "onyomi": [
+          "カイ"
+        ],
+        "kunyomi": [
+          "あ・ける",
+          "ひら・く"
+        ],
+        "strokeCount": 12,
+        "level": "N5",
+        "words": [
+          {
+            "word": "開けます",
+            "reading": "あけます",
+            "meaning": "to open"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "開けますの練習をします。",
+            "translation": "Practice with 開けます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c25-02",
+        "chapterNumber": 25,
+        "kanji": "閉",
+        "english": "close",
+        "furigana": "し・める",
+        "romaji": "romaji",
+        "onyomi": [
+          "ヘイ"
+        ],
+        "kunyomi": [
+          "し・める",
+          "と・じる"
+        ],
+        "strokeCount": 11,
+        "level": "N5",
+        "words": [
+          {
+            "word": "閉めます",
+            "reading": "しめます",
+            "meaning": "to close"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "閉めますの練習をします。",
+            "translation": "Practice with 閉めます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c25-03",
+        "chapterNumber": 25,
+        "kanji": "待",
+        "english": "wait",
+        "furigana": "ま・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "タイ"
+        ],
+        "kunyomi": [
+          "ま・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "待ちます",
+            "reading": "まちます",
+            "meaning": "to wait"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "待ちますの練習をします。",
+            "translation": "Practice with 待ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c25-04",
+        "chapterNumber": 25,
+        "kanji": "止",
+        "english": "stop",
+        "furigana": "と・まる",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "と・まる",
+          "と・める"
+        ],
+        "strokeCount": 4,
+        "level": "N5",
+        "words": [
+          {
+            "word": "止まります",
+            "reading": "とまります",
+            "meaning": "to stop"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "止まりますの練習をします。",
+            "translation": "Practice with 止まります."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c25-05",
+        "chapterNumber": 25,
+        "kanji": "持",
+        "english": "hold, have",
+        "furigana": "も・つ",
+        "romaji": "romaji",
+        "onyomi": [
+          "ジ"
+        ],
+        "kunyomi": [
+          "も・つ"
+        ],
+        "strokeCount": 9,
+        "level": "N5",
+        "words": [
+          {
+            "word": "持ちます",
+            "reading": "もちます",
+            "meaning": "to carry; to have"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "持ちますの練習をします。",
+            "translation": "Practice with 持ちます."
+          }
+        ],
+        "mastery": "New"
+      },
+      {
+        "id": "mnn-k-c25-06",
+        "chapterNumber": 25,
+        "kanji": "使",
+        "english": "use",
+        "furigana": "つか・う",
+        "romaji": "romaji",
+        "onyomi": [
+          "シ"
+        ],
+        "kunyomi": [
+          "つか・う"
+        ],
+        "strokeCount": 8,
+        "level": "N5",
+        "words": [
+          {
+            "word": "使います",
+            "reading": "つかいます",
+            "meaning": "to use"
+          }
+        ],
+        "examples": [
+          {
+            "japanese": "使いますの練習をします。",
+            "translation": "Practice with 使います."
+          }
+        ],
+        "mastery": "New"
+      }
+    ]
+  }
+]

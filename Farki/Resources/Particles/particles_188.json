@@ -1,0 +1,6748 @@
+{
+  "schemaVersion": 1,
+  "particles": [
+    {
+      "id": "particle-wa",
+      "japanese": "は",
+      "romaji": "wa",
+      "alternativeReadings": null,
+      "categories": [
+        "topic",
+        "other",
+        "limitation",
+        "emphasis"
+      ],
+      "usageIds": [
+        "wa-topic",
+        "wa-contrast",
+        "wa-usage-117",
+        "wa-usage-139"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-ka",
+      "japanese": "か",
+      "romaji": "ka",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending",
+        "listing",
+        "other",
+        "cause_reason"
+      ],
+      "usageIds": [
+        "ka-question",
+        "ka-choice",
+        "ka-usage-042",
+        "ka-usage-108",
+        "ka-usage-109"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-ga",
+      "japanese": "が",
+      "romaji": "ga",
+      "alternativeReadings": null,
+      "categories": [
+        "subject",
+        "concession",
+        "other"
+      ],
+      "usageIds": [
+        "ga-subject",
+        "ga-but",
+        "ga-usage-065",
+        "ga-usage-068",
+        "ga-usage-138",
+        "ga-usage-162"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-ni",
+      "japanese": "に",
+      "romaji": "ni",
+      "alternativeReadings": null,
+      "categories": [
+        "location",
+        "time",
+        "object",
+        "direction",
+        "purpose",
+        "listing",
+        "other",
+        "connection"
+      ],
+      "usageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-no",
+      "japanese": "の",
+      "romaji": "no",
+      "alternativeReadings": null,
+      "categories": [
+        "possession",
+        "subject",
+        "other",
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "no-possession",
+        "no-apposition",
+        "no-usage-069",
+        "no-usage-072",
+        "no-usage-073",
+        "no-usage-176"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-e",
+      "japanese": "へ",
+      "romaji": "e",
+      "alternativeReadings": null,
+      "categories": [
+        "direction"
+      ],
+      "usageIds": [
+        "e-direction"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-wo",
+      "japanese": "を",
+      "romaji": "wo",
+      "alternativeReadings": [
+        "o",
+        "wo/o",
+        "o suru",
+        "wo/o suru"
+      ],
+      "categories": [
+        "object",
+        "direction",
+        "other",
+        "cause_reason"
+      ],
+      "usageIds": [
+        "wo-object",
+        "wo-departure",
+        "wo-route",
+        "wo-usage-045",
+        "wo-usage-053"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-to",
+      "japanese": "と",
+      "romaji": "to",
+      "alternativeReadings": null,
+      "categories": [
+        "listing",
+        "connection",
+        "quotation",
+        "comparison",
+        "condition",
+        "emphasis",
+        "other",
+        "concession"
+      ],
+      "usageIds": [
+        "to-connect",
+        "to-together",
+        "to-quotation",
+        "to-comparison",
+        "to-usage-076",
+        "to-usage-118",
+        "to-usage-125",
+        "to-usage-126"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-ya",
+      "japanese": "や",
+      "romaji": "ya",
+      "alternativeReadings": null,
+      "categories": [
+        "listing",
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "ya-partial-list",
+        "ya-usage-184"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-nado",
+      "japanese": "など",
+      "romaji": "nado",
+      "alternativeReadings": null,
+      "categories": [
+        "listing",
+        "other"
+      ],
+      "usageIds": [
+        "nado-partial-list",
+        "nado-usage-112",
+        "nado-usage-119",
+        "nado-usage-152"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-mo",
+      "japanese": "も",
+      "romaji": "mo",
+      "alternativeReadings": null,
+      "categories": [
+        "other",
+        "listing",
+        "emphasis"
+      ],
+      "usageIds": [
+        "mo-also",
+        "mo-both-neither",
+        "mo-usage-043",
+        "mo-usage-060"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-de",
+      "japanese": "で",
+      "romaji": "de",
+      "alternativeReadings": null,
+      "categories": [
+        "location",
+        "other",
+        "limitation",
+        "cause_reason",
+        "condition",
+        "time"
+      ],
+      "usageIds": [
+        "de-location",
+        "de-means",
+        "de-usage-036",
+        "de-cause",
+        "de-usage-054",
+        "de-usage-055",
+        "de-usage-058"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-kara",
+      "japanese": "から",
+      "romaji": "kara",
+      "alternativeReadings": null,
+      "categories": [
+        "time",
+        "cause_reason",
+        "connection"
+      ],
+      "usageIds": [
+        "kara-starting-point",
+        "kara-usage-049",
+        "kara-usage-066",
+        "kara-reason"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-yori",
+      "japanese": "より",
+      "romaji": "yori",
+      "alternativeReadings": null,
+      "categories": [
+        "time",
+        "comparison"
+      ],
+      "usageIds": [
+        "yori-starting-point",
+        "yori-comparison",
+        "yori-usage-039"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-made",
+      "japanese": "まで",
+      "romaji": "made",
+      "alternativeReadings": null,
+      "categories": [
+        "time",
+        "emphasis"
+      ],
+      "usageIds": [
+        "made-limit",
+        "made-usage-088"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-kurai",
+      "japanese": "くらい",
+      "romaji": "kurai",
+      "alternativeReadings": null,
+      "categories": [
+        "limitation",
+        "comparison"
+      ],
+      "usageIds": [
+        "kurai-usage-023",
+        "kurai-usage-040",
+        "kurai-usage-120"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-hodo",
+      "japanese": "ほど",
+      "romaji": "hodo",
+      "alternativeReadings": null,
+      "categories": [
+        "limitation",
+        "comparison"
+      ],
+      "usageIds": [
+        "hodo-usage-024",
+        "hodo-usage-041",
+        "hodo-usage-121",
+        "hodo-usage-122"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-bakari",
+      "japanese": "ばかり",
+      "romaji": "bakari",
+      "alternativeReadings": null,
+      "categories": [
+        "limitation",
+        "other"
+      ],
+      "usageIds": [
+        "bakari-usage-025",
+        "bakari-usage-062",
+        "bakari-usage-063",
+        "bakari-usage-149"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-to-iu",
+      "japanese": "と いう",
+      "romaji": "to iu",
+      "alternativeReadings": null,
+      "categories": [
+        "quotation"
+      ],
+      "usageIds": [
+        "to-iu-usage-034"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-toka",
+      "japanese": "とか",
+      "romaji": "toka",
+      "alternativeReadings": null,
+      "categories": [
+        "other",
+        "listing"
+      ],
+      "usageIds": [
+        "toka-usage-035",
+        "toka-usage-093"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-demo",
+      "japanese": "でも",
+      "romaji": "demo",
+      "alternativeReadings": null,
+      "categories": [
+        "emphasis",
+        "time",
+        "other",
+        "listing"
+      ],
+      "usageIds": [
+        "demo-usage-046",
+        "demo-usage-047",
+        "demo-usage-059",
+        "demo-usage-061"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-wa-ga",
+      "japanese": "は・が",
+      "romaji": "wa + ga",
+      "alternativeReadings": [
+        "wa ga"
+      ],
+      "categories": [
+        "subject"
+      ],
+      "usageIds": [
+        "wa-ga-usage-051"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-dake",
+      "japanese": "だけ",
+      "romaji": "dake",
+      "alternativeReadings": null,
+      "categories": [
+        "limitation",
+        "comparison"
+      ],
+      "usageIds": [
+        "dake-limit",
+        "dake-usage-057",
+        "dake-usage-123",
+        "dake-usage-124",
+        "dake-usage-143"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-tokoro",
+      "japanese": "ところ",
+      "romaji": "tokoro",
+      "alternativeReadings": null,
+      "categories": [
+        "other",
+        "condition"
+      ],
+      "usageIds": [
+        "tokoro-usage-064",
+        "tokoro-usage-082"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-nagara",
+      "japanese": "ながら",
+      "romaji": "nagara",
+      "alternativeReadings": null,
+      "categories": [
+        "time",
+        "concession",
+        "listing"
+      ],
+      "usageIds": [
+        "nagara-simultaneous",
+        "nagara-usage-092",
+        "nagara-usage-101"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-node",
+      "japanese": "ので",
+      "romaji": "node",
+      "alternativeReadings": null,
+      "categories": [
+        "cause_reason"
+      ],
+      "usageIds": [
+        "node-reason"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-nara",
+      "japanese": "なら",
+      "romaji": "nara",
+      "alternativeReadings": null,
+      "categories": [
+        "condition",
+        "topic"
+      ],
+      "usageIds": [
+        "nara-condition",
+        "nara-usage-075"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-ba",
+      "japanese": "ば",
+      "romaji": "ba",
+      "alternativeReadings": null,
+      "categories": [
+        "condition",
+        "listing"
+      ],
+      "usageIds": [
+        "ba-condition",
+        "ba-usage-079"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-ba-ii",
+      "japanese": "ばいい",
+      "romaji": "ba ii",
+      "alternativeReadings": [
+        "ba"
+      ],
+      "categories": [
+        "other"
+      ],
+      "usageIds": [
+        "ba-ii-usage-078"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-tara",
+      "japanese": "たら",
+      "romaji": "tara",
+      "alternativeReadings": null,
+      "categories": [
+        "condition",
+        "connection",
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "tara-condition",
+        "tara-usage-081",
+        "tara-usage-185"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-temo",
+      "japanese": "ても",
+      "romaji": "temo",
+      "alternativeReadings": null,
+      "categories": [
+        "concession",
+        "other",
+        "connection",
+        "limitation"
+      ],
+      "usageIds": [
+        "temo-even-if",
+        "temo-usage-084",
+        "temo-usage-085",
+        "temo-usage-115"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-tewa",
+      "japanese": "ては",
+      "romaji": "tewa",
+      "alternativeReadings": null,
+      "categories": [
+        "condition",
+        "other"
+      ],
+      "usageIds": [
+        "tewa-usage-086",
+        "tewa-usage-131"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-nomi",
+      "japanese": "のみ",
+      "romaji": "nomi",
+      "alternativeReadings": null,
+      "categories": [
+        "limitation"
+      ],
+      "usageIds": [
+        "nomi-usage-087",
+        "nomi-usage-144"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-sae",
+      "japanese": "さえ",
+      "romaji": "sae",
+      "alternativeReadings": null,
+      "categories": [
+        "emphasis",
+        "limitation"
+      ],
+      "usageIds": [
+        "sae-usage-089",
+        "sae-usage-090"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-noni",
+      "japanese": "のに",
+      "romaji": "noni",
+      "alternativeReadings": null,
+      "categories": [
+        "concession",
+        "purpose"
+      ],
+      "usageIds": [
+        "noni-although",
+        "noni-usage-096"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-tari",
+      "japanese": "たり",
+      "romaji": "tari",
+      "alternativeReadings": null,
+      "categories": [
+        "listing",
+        "other"
+      ],
+      "usageIds": [
+        "tari-actions",
+        "tari-usage-095"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-no-desu",
+      "japanese": "のです",
+      "romaji": "no desu",
+      "alternativeReadings": null,
+      "categories": [
+        "cause_reason"
+      ],
+      "usageIds": [
+        "no-desu-usage-097"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-kiri",
+      "japanese": "きり",
+      "romaji": "kiri",
+      "alternativeReadings": null,
+      "categories": [
+        "limitation",
+        "time"
+      ],
+      "usageIds": [
+        "kiri-usage-098",
+        "kiri-usage-099"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-tomo",
+      "japanese": "とも",
+      "romaji": "tomo",
+      "alternativeReadings": null,
+      "categories": [
+        "listing",
+        "other",
+        "limitation",
+        "concession",
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "tomo-usage-100",
+        "tomo-usage-106",
+        "tomo-usage-116",
+        "tomo-usage-153",
+        "tomo-usage-182"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-shika",
+      "japanese": "しか",
+      "romaji": "shika",
+      "alternativeReadings": null,
+      "categories": [
+        "limitation"
+      ],
+      "usageIds": [
+        "shika-only"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-shika-nai",
+      "japanese": "しかない",
+      "romaji": "shika nai",
+      "alternativeReadings": null,
+      "categories": [
+        "concession"
+      ],
+      "usageIds": [
+        "shika-nai-usage-103"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-shi",
+      "japanese": "し",
+      "romaji": "shi",
+      "alternativeReadings": null,
+      "categories": [
+        "connection",
+        "cause_reason"
+      ],
+      "usageIds": [
+        "shi-usage-104",
+        "shi-reason"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-dano",
+      "japanese": "だの",
+      "romaji": "dano",
+      "alternativeReadings": null,
+      "categories": [
+        "listing",
+        "other"
+      ],
+      "usageIds": [
+        "dano-usage-110",
+        "dano-usage-111"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-yara",
+      "japanese": "やら",
+      "romaji": "yara",
+      "alternativeReadings": null,
+      "categories": [
+        "listing",
+        "other",
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "yara-usage-113",
+        "yara-usage-114",
+        "yara-usage-186"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-nari",
+      "japanese": "なり",
+      "romaji": "nari",
+      "alternativeReadings": null,
+      "categories": [
+        "concession",
+        "time"
+      ],
+      "usageIds": [
+        "nari-usage-127",
+        "nari-usage-128",
+        "nari-usage-145"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-koso",
+      "japanese": "こそ",
+      "romaji": "koso",
+      "alternativeReadings": null,
+      "categories": [
+        "emphasis",
+        "cause_reason"
+      ],
+      "usageIds": [
+        "koso-usage-129",
+        "koso-usage-130"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-ni-shite-wa",
+      "japanese": "にしては",
+      "romaji": "ni shite wa",
+      "alternativeReadings": null,
+      "categories": [
+        "other"
+      ],
+      "usageIds": [
+        "ni-shite-wa-usage-134"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-ni-totte",
+      "japanese": "にとって",
+      "romaji": "ni totte",
+      "alternativeReadings": null,
+      "categories": [
+        "other"
+      ],
+      "usageIds": [
+        "ni-totte-usage-135"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-ni-tsuite",
+      "japanese": "について",
+      "romaji": "ni tsuite",
+      "alternativeReadings": null,
+      "categories": [
+        "other"
+      ],
+      "usageIds": [
+        "ni-tsuite-usage-136"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-tomo-tomo",
+      "japanese": "とも…とも",
+      "romaji": "tomo… tomo",
+      "alternativeReadings": null,
+      "categories": [
+        "concession"
+      ],
+      "usageIds": [
+        "tomo-tomo-usage-137"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-toshite",
+      "japanese": "として",
+      "romaji": "toshite",
+      "alternativeReadings": null,
+      "categories": [
+        "purpose",
+        "emphasis"
+      ],
+      "usageIds": [
+        "toshite-usage-140",
+        "toshite-usage-141"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-bakari-de-naku",
+      "japanese": "ばかりでなく",
+      "romaji": "bakari de naku",
+      "alternativeReadings": null,
+      "categories": [
+        "limitation"
+      ],
+      "usageIds": [
+        "bakari-de-naku-usage-142"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-ga-hayai-ka",
+      "japanese": "がはやいか",
+      "romaji": "ga hayai ka",
+      "alternativeReadings": null,
+      "categories": [
+        "time"
+      ],
+      "usageIds": [
+        "ga-hayai-ka-usage-146"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-ya-ina-ya",
+      "japanese": "やいなや",
+      "romaji": "ya ina ya",
+      "alternativeReadings": null,
+      "categories": [
+        "time"
+      ],
+      "usageIds": [
+        "ya-ina-ya-usage-147"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-ka-nai-uchi-ni",
+      "japanese": "かないうちに",
+      "romaji": "ka nai uchi ni",
+      "alternativeReadings": null,
+      "categories": [
+        "time"
+      ],
+      "usageIds": [
+        "ka-nai-uchi-ni-usage-148"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-bakari-ni",
+      "japanese": "ばかりに",
+      "romaji": "bakari ni",
+      "alternativeReadings": null,
+      "categories": [
+        "cause_reason"
+      ],
+      "usageIds": [
+        "bakari-ni-usage-150"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-sura",
+      "japanese": "すら",
+      "romaji": "sura",
+      "alternativeReadings": null,
+      "categories": [
+        "emphasis"
+      ],
+      "usageIds": [
+        "sura-usage-151"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-tomo-aroo-hito",
+      "japanese": "ともあろうひと",
+      "romaji": "tomo aroo hito",
+      "alternativeReadings": null,
+      "categories": [
+        "other"
+      ],
+      "usageIds": [
+        "tomo-aroo-hito-usage-154"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-dokoro-ka",
+      "japanese": "どころか",
+      "romaji": "dokoro ka",
+      "alternativeReadings": null,
+      "categories": [
+        "other"
+      ],
+      "usageIds": [
+        "dokoro-ka-usage-155"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-dake-ni",
+      "japanese": "だけに",
+      "romaji": "dake ni",
+      "alternativeReadings": null,
+      "categories": [
+        "cause_reason"
+      ],
+      "usageIds": [
+        "dake-ni-usage-156"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-made-mo-nai",
+      "japanese": "までもない",
+      "romaji": "made mo nai",
+      "alternativeReadings": null,
+      "categories": [
+        "other"
+      ],
+      "usageIds": [
+        "made-mo-nai-usage-157"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-mono-no",
+      "japanese": "ものの",
+      "romaji": "mono no",
+      "alternativeReadings": null,
+      "categories": [
+        "concession"
+      ],
+      "usageIds": [
+        "mono-no-usage-158"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-tokoro-de",
+      "japanese": "ところで",
+      "romaji": "tokoro de",
+      "alternativeReadings": null,
+      "categories": [
+        "concession"
+      ],
+      "usageIds": [
+        "tokoro-de-usage-159"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-keredomo",
+      "japanese": "けれども",
+      "romaji": "keredomo",
+      "alternativeReadings": null,
+      "categories": [
+        "concession",
+        "other"
+      ],
+      "usageIds": [
+        "keredomo-although",
+        "keredomo-usage-161",
+        "keredomo-usage-163"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-ne",
+      "japanese": "ね",
+      "romaji": "ne",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending",
+        "cause_reason"
+      ],
+      "usageIds": [
+        "ne-confirm",
+        "ne-usage-165",
+        "ne-usage-166"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-nee",
+      "japanese": "ねえ",
+      "romaji": "nee",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "nee-usage-167"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-yo",
+      "japanese": "よ",
+      "romaji": "yo",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "yo-conviction",
+        "yo-usage-169"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-kashira",
+      "japanese": "かしら",
+      "romaji": "kashira",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "kashira-usage-170"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-kana",
+      "japanese": "かな",
+      "romaji": "kana",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "kana-usage-171"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-na",
+      "japanese": "な",
+      "romaji": "na",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "na-usage-172",
+        "na-usage-173"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-naa",
+      "japanese": "なあ",
+      "romaji": "naa",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "naa-usage-174",
+        "naa-usage-175"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-wa-ending",
+      "japanese": "わ",
+      "romaji": "wa",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "wa-ending-usage-177"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-sa",
+      "japanese": "さ",
+      "romaji": "sa",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "sa-usage-178"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-koto",
+      "japanese": "こと",
+      "romaji": "koto",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "koto-usage-179",
+        "koto-usage-180"
+      ],
+      "tags": [
+        "multiple-uses"
+      ]
+    },
+    {
+      "id": "particle-mono",
+      "japanese": "もの",
+      "romaji": "mono",
+      "alternativeReadings": null,
+      "categories": [
+        "cause_reason"
+      ],
+      "usageIds": [
+        "mono-usage-181"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-monoka",
+      "japanese": "ものか",
+      "romaji": "monoka",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "monoka-usage-183"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-ze",
+      "japanese": "ぜ",
+      "romaji": "ze",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "ze-usage-187"
+      ],
+      "tags": []
+    },
+    {
+      "id": "particle-zo",
+      "japanese": "ぞ",
+      "romaji": "zo",
+      "alternativeReadings": null,
+      "categories": [
+        "sentence_ending"
+      ],
+      "usageIds": [
+        "zo-usage-188"
+      ],
+      "tags": []
+    }
+  ],
+  "usages": [
+    {
+      "id": "wa-topic",
+      "meaning": "Indicates the topic of a sentence",
+      "explanation": "Marks the topic that the sentence is about ('as for...'). Written with Hiragana は but pronounced 'wa'.",
+      "pattern": "Noun + は + Predicate",
+      "examples": [
+        {
+          "japanese": "わたしは学生です。",
+          "reading": "Watashi wa gakusei desu.",
+          "meaning": "I am a student.",
+          "notes": "は marks わたし (I) as the topic."
+        },
+        {
+          "japanese": "東京は大きい都市です。",
+          "reading": "Toukyou wa ookii toshi desu.",
+          "meaning": "Tokyo is a big city."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-desu"
+      ],
+      "relatedUsageIds": [
+        "wa-contrast",
+        "wa-usage-117",
+        "wa-usage-139"
+      ],
+      "tags": [
+        "topic"
+      ]
+    },
+    {
+      "id": "ka-question",
+      "meaning": "At the end of a sentence indicating a question",
+      "explanation": "Placed at the end of a statement to turn it into a yes/no or information question.",
+      "pattern": "Sentence + か",
+      "examples": [
+        {
+          "japanese": "あなたは学生ですか。",
+          "reading": "Anata wa gakusei desu ka.",
+          "meaning": "Are you a student?"
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-desu-ka"
+      ],
+      "relatedUsageIds": [
+        "ka-choice",
+        "ka-usage-042",
+        "ka-usage-108",
+        "ka-usage-109"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "ga-subject",
+      "meaning": "Indicates the subject of a sentence",
+      "explanation": "Marks the grammatical subject of a verb or adjective, especially when introducing new information or existence.",
+      "pattern": "Noun + が + Verb/Adjective",
+      "examples": [
+        {
+          "japanese": "部屋に猫がいます。",
+          "reading": "Heya ni neko ga imasu.",
+          "meaning": "There is a cat in the room."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-imasu-arimasu"
+      ],
+      "relatedUsageIds": [
+        "ga-but",
+        "ga-usage-065",
+        "ga-usage-068",
+        "ga-usage-138",
+        "ga-usage-162"
+      ],
+      "tags": [
+        "subject"
+      ]
+    },
+    {
+      "id": "ni-location",
+      "meaning": "Indicates a location",
+      "explanation": "The source lists location as one use of に, marking where someone or something exists.",
+      "pattern": "Place + に",
+      "examples": [
+        {
+          "japanese": "机の上に本があります。",
+          "reading": "Tsukue no ue ni hon ga arimasu.",
+          "meaning": "There is a book on the desk."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-imasu-arimasu"
+      ],
+      "relatedUsageIds": [
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "id": "no-possession",
+      "meaning": "Indicates possession",
+      "explanation": "Connects two nouns to indicate possession, attribution, or belonging ('of' or ''s').",
+      "pattern": "Noun 1 + の + Noun 2",
+      "examples": [
+        {
+          "japanese": "これはわたしの本です。",
+          "reading": "Kore wa watashi no hon desu.",
+          "meaning": "This is my book."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-no-modifier"
+      ],
+      "relatedUsageIds": [
+        "no-apposition",
+        "no-usage-069",
+        "no-usage-072",
+        "no-usage-073",
+        "no-usage-176"
+      ],
+      "tags": [
+        "possession"
+      ]
+    },
+    {
+      "id": "wa-contrast",
+      "meaning": "Indicates a contrast between 2 items",
+      "explanation": "The source lists this usage (#6) for は (wa): Indicates a contrast between 2 items.",
+      "pattern": "… + は",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "wa-topic",
+        "wa-usage-117",
+        "wa-usage-139"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ni-time",
+      "meaning": "Indicates time or frequency",
+      "explanation": "The source lists time or frequency as a use of に, marking a specific point in time.",
+      "pattern": "Time + に",
+      "examples": [
+        {
+          "japanese": "毎朝六時に起きます。",
+          "reading": "Maiasa rokuji ni okimasu.",
+          "meaning": "I wake up at 6 o'clock every morning."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-masu-form"
+      ],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "e-direction",
+      "meaning": "Indicates direction",
+      "explanation": "Marks the direction or destination toward which a movement is headed. Written へ and pronounced 'e'.",
+      "pattern": "Place + へ + Motion Verb",
+      "examples": [
+        {
+          "japanese": "明日京都へ行きます。",
+          "reading": "Ashita Kyouto e ikimasu.",
+          "meaning": "I will go to Kyoto tomorrow."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-masu-form"
+      ],
+      "relatedUsageIds": [],
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "wo-object",
+      "meaning": "Indicates the direct object of a verb",
+      "explanation": "Marks the direct object that receives the action of a transitive verb.",
+      "pattern": "Noun + を + Transitive Verb",
+      "examples": [
+        {
+          "japanese": "毎日水を飲みます。",
+          "reading": "Mainichi mizu wo nomimasu.",
+          "meaning": "I drink water every day."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-masu-form"
+      ],
+      "relatedUsageIds": [
+        "wo-departure",
+        "wo-route",
+        "wo-usage-045",
+        "wo-usage-053"
+      ],
+      "tags": [
+        "object"
+      ]
+    },
+    {
+      "id": "to-connect",
+      "meaning": "Used to connect and list up multiple items",
+      "explanation": "Connects nouns in a complete, exhaustive list ('and').",
+      "pattern": "Noun 1 + と + Noun 2",
+      "examples": [
+        {
+          "japanese": "パンと卵を食べました。",
+          "reading": "Pan to tamago wo tabemashita.",
+          "meaning": "I ate bread and eggs."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "to-together",
+        "to-quotation",
+        "to-comparison",
+        "to-usage-076",
+        "to-usage-118",
+        "to-usage-125",
+        "to-usage-126"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "ya-partial-list",
+      "meaning": "Used to connect and partially list up multiple items",
+      "explanation": "The source lists this usage (#11) for や (ya): Used to connect and partially list up multiple items.",
+      "pattern": "… + や",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ya-usage-184"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "nado-partial-list",
+      "meaning": "Used with や (ya) to partially list up multiple items",
+      "explanation": "The source lists this usage (#12) for など (nado): Used with や (ya) to partially list up multiple items.",
+      "pattern": "… + など",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nado-usage-112",
+        "nado-usage-119",
+        "nado-usage-152"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "mo-also",
+      "meaning": "Means “too”, “either”, “also”",
+      "explanation": "Replaces は, が, or を to indicate inclusion ('also', 'too').",
+      "pattern": "Noun + も",
+      "examples": [
+        {
+          "japanese": "わたしも学生です。",
+          "reading": "Watashi mo gakusei desu.",
+          "meaning": "I am also a student."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-desu"
+      ],
+      "relatedUsageIds": [
+        "mo-both-neither",
+        "mo-usage-043",
+        "mo-usage-060"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "mo-both-neither",
+      "meaning": "both…and…, neither…nor…",
+      "explanation": "The source lists this usage (#14) for も (mo): both…and…, neither…nor….",
+      "pattern": "… + も",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "mo-also",
+        "mo-usage-043",
+        "mo-usage-060"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "ni-indirect-object",
+      "meaning": "Indicates the indirect object of a verb",
+      "explanation": "The source lists this usage (#15) for に (ni): Indicates the indirect object of a verb.",
+      "pattern": "… + に",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "object"
+      ]
+    },
+    {
+      "id": "ni-surface",
+      "meaning": "Indicates the surface of a object where some action takes place",
+      "explanation": "The source lists this usage (#16) for に (ni): Indicates the surface of a object where some action takes place.",
+      "pattern": "… + に",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "id": "de-location",
+      "meaning": "Indicates the location of an action",
+      "explanation": "Marks the place where an active event or action occurs.",
+      "pattern": "Place + で + Action Verb",
+      "examples": [
+        {
+          "japanese": "図書館で勉強します。",
+          "reading": "Toshokan de benkyou shimasu.",
+          "meaning": "I study at the library."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-masu-form"
+      ],
+      "relatedUsageIds": [
+        "de-means",
+        "de-usage-036",
+        "de-cause",
+        "de-usage-054",
+        "de-usage-055",
+        "de-usage-058"
+      ],
+      "tags": [
+        "location"
+      ]
+    },
+    {
+      "id": "to-together",
+      "meaning": "Together with",
+      "explanation": "Marks the person or companion with whom one performs an action.",
+      "pattern": "Person + と + Verb",
+      "examples": [
+        {
+          "japanese": "友達と映画を見ます。",
+          "reading": "Tomodachi to eiga wo mimasu.",
+          "meaning": "I watch a movie with a friend."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-masu-form"
+      ],
+      "relatedUsageIds": [
+        "to-connect",
+        "to-quotation",
+        "to-comparison",
+        "to-usage-076",
+        "to-usage-118",
+        "to-usage-125",
+        "to-usage-126"
+      ],
+      "tags": [
+        "connection"
+      ]
+    },
+    {
+      "id": "no-apposition",
+      "meaning": "Indicates an apposition",
+      "explanation": "The source lists this usage (#19) for の (no): Indicates an apposition.",
+      "pattern": "… + の",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "no-possession",
+        "no-usage-069",
+        "no-usage-072",
+        "no-usage-073",
+        "no-usage-176"
+      ],
+      "tags": [
+        "possession"
+      ]
+    },
+    {
+      "id": "kara-starting-point",
+      "meaning": "Indicates a starting point in time or place",
+      "explanation": "Marks the beginning point in time or space ('from').",
+      "pattern": "Time/Place + から",
+      "examples": [
+        {
+          "japanese": "九時から五時まで働きます。",
+          "reading": "Kuji kara goji made hatarakimasu.",
+          "meaning": "I work from 9 o'clock until 5 o'clock."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-kara-reason"
+      ],
+      "relatedUsageIds": [
+        "kara-usage-049",
+        "kara-usage-066",
+        "kara-reason"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "yori-starting-point",
+      "meaning": "Indicates a starting point in time or place but more formal than kara (20)",
+      "explanation": "The source lists this usage (#21) for より (yori): Indicates a starting point in time or place but more formal than kara (20).",
+      "pattern": "… + より",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "yori-comparison",
+        "yori-usage-039"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "made-limit",
+      "meaning": "Indicates a limit on time, space or quantity",
+      "explanation": "Marks the endpoint or limit in time or space ('until', 'up to', 'as far as').",
+      "pattern": "Time/Place + まで",
+      "examples": [
+        {
+          "japanese": "東京から大阪まで新幹線で行きます。",
+          "reading": "Toukyou kara Oosaka made shinkansen de ikimasu.",
+          "meaning": "I go from Tokyo to Osaka by bullet train."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "made-usage-088"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "kurai-usage-023",
+      "meaning": "Indicates an approximate amount",
+      "explanation": "The source lists this usage (#23) for くらい (kurai): Indicates an approximate amount.",
+      "pattern": "… + くらい",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "kurai-usage-040",
+        "kurai-usage-120"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "hodo-usage-024",
+      "meaning": "Indicates an approximate amount",
+      "explanation": "The source lists this usage (#24) for ほど (hodo): Indicates an approximate amount.",
+      "pattern": "… + ほど",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "hodo-usage-041",
+        "hodo-usage-121",
+        "hodo-usage-122"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "bakari-usage-025",
+      "meaning": "Indicates an approximate amount",
+      "explanation": "The source lists this usage (#25) for ばかり (bakari): Indicates an approximate amount.",
+      "pattern": "… + ばかり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "bakari-usage-062",
+        "bakari-usage-063",
+        "bakari-usage-149"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "de-means",
+      "meaning": "Indicates a means or material",
+      "explanation": "Marks the tool, instrument, transport, language, or material used to perform an action.",
+      "pattern": "Tool/Means + で + Verb",
+      "examples": [
+        {
+          "japanese": "はしでごはんを食べます。",
+          "reading": "Hashi de gohan wo tabemasu.",
+          "meaning": "I eat rice with chopsticks."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-masu-form"
+      ],
+      "relatedUsageIds": [
+        "de-location",
+        "de-usage-036",
+        "de-cause",
+        "de-usage-054",
+        "de-usage-055",
+        "de-usage-058"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ka-choice",
+      "meaning": "Indicates a choice or alternative",
+      "explanation": "The source lists this usage (#27) for か (ka): Indicates a choice or alternative.",
+      "pattern": "… + か",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ka-question",
+        "ka-usage-042",
+        "ka-usage-108",
+        "ka-usage-109"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "wo-departure",
+      "meaning": "Indicates a point of departure",
+      "explanation": "The source lists this usage (#28) for を (wo): Indicates a point of departure.",
+      "pattern": "… + を",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "wo-object",
+        "wo-route",
+        "wo-usage-045",
+        "wo-usage-053"
+      ],
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "wo-route",
+      "meaning": "Indicates a route of a movement/motion",
+      "explanation": "The source lists this usage (#29) for を (wo): Indicates a route of a movement/motion.",
+      "pattern": "… + を",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "wo-object",
+        "wo-departure",
+        "wo-usage-045",
+        "wo-usage-053"
+      ],
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "ni-arrival",
+      "meaning": "Indicates a point of arrival",
+      "explanation": "The source lists a point of arrival as another use of に.",
+      "pattern": "Destination + に",
+      "examples": [
+        {
+          "japanese": "日本に着きました。",
+          "reading": "Nihon ni tsukimashita.",
+          "meaning": "I arrived in Japan."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-masu-form"
+      ],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "ni-entering",
+      "meaning": "Indicates an entering motion",
+      "explanation": "The source lists this usage (#31) for に (ni): Indicates an entering motion.",
+      "pattern": "… + に",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "direction"
+      ]
+    },
+    {
+      "id": "ni-purpose",
+      "meaning": "Used together with a verb to express a purpose",
+      "explanation": "Combines with a verb stem or noun before a motion verb to express the purpose of going/coming.",
+      "pattern": "Verb (masu-stem) + に + 行きます/来ます",
+      "examples": [
+        {
+          "japanese": "デパートへ靴を買いに行きます。",
+          "reading": "Depaato e kutsu wo kai ni ikimasu.",
+          "meaning": "I go to the department store to buy shoes."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-masu-form"
+      ],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "purpose"
+      ]
+    },
+    {
+      "id": "to-quotation",
+      "meaning": "Used when quoting someone",
+      "explanation": "The source lists this usage (#33) for と (to): Used when quoting someone.",
+      "pattern": "… + と",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "to-connect",
+        "to-together",
+        "to-comparison",
+        "to-usage-076",
+        "to-usage-118",
+        "to-usage-125",
+        "to-usage-126"
+      ],
+      "tags": [
+        "quotation"
+      ]
+    },
+    {
+      "id": "to-iu-usage-034",
+      "meaning": "Indicates the name of something",
+      "explanation": "The source lists this usage (#34) for と いう (to iu): Indicates the name of something.",
+      "pattern": "… + と いう",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "quotation"
+      ]
+    },
+    {
+      "id": "toka-usage-035",
+      "meaning": "“something like”",
+      "explanation": "The source lists this usage (#35) for とか (toka): “something like”.",
+      "pattern": "… + とか",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "toka-usage-093"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "de-usage-036",
+      "meaning": "Indicates a limit or scope",
+      "explanation": "The source lists this usage (#36) for で (de): Indicates a limit or scope.",
+      "pattern": "… + で",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "de-location",
+        "de-means",
+        "de-cause",
+        "de-usage-054",
+        "de-usage-055",
+        "de-usage-058"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "to-comparison",
+      "meaning": "Indicates a comparison",
+      "explanation": "The source lists this usage (#37) for と (to): Indicates a comparison.",
+      "pattern": "… + と",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "to-connect",
+        "to-together",
+        "to-quotation",
+        "to-usage-076",
+        "to-usage-118",
+        "to-usage-125",
+        "to-usage-126"
+      ],
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "yori-comparison",
+      "meaning": "Indicates a comparison",
+      "explanation": "Marks the standard of comparison ('more ... than').",
+      "pattern": "Noun A + は + Noun B + より + Adjective",
+      "examples": [
+        {
+          "japanese": "飛行機は電車より速いです。",
+          "reading": "Hikouki wa densha yori hayai desu.",
+          "meaning": "Airplanes are faster than trains."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "yori-starting-point",
+        "yori-usage-039"
+      ],
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "yori-usage-039",
+      "meaning": "Indicates superlative",
+      "explanation": "The source lists this usage (#39) for より (yori): Indicates superlative.",
+      "pattern": "… + より",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "yori-starting-point",
+        "yori-comparison"
+      ],
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "kurai-usage-040",
+      "meaning": "Indicates a comparison",
+      "explanation": "The source lists this usage (#40) for くらい (kurai): Indicates a comparison.",
+      "pattern": "… + くらい",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "kurai-usage-023",
+        "kurai-usage-120"
+      ],
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "hodo-usage-041",
+      "meaning": "Indicates a comparison in a negative sentence",
+      "explanation": "The source lists this usage (#41) for ほど (hodo): Indicates a comparison in a negative sentence.",
+      "pattern": "… + ほど",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "hodo-usage-024",
+        "hodo-usage-121",
+        "hodo-usage-122"
+      ],
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "ka-usage-042",
+      "meaning": "someone, something",
+      "explanation": "The source lists this usage (#42) for か (ka): someone, something.",
+      "pattern": "… + か",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ka-question",
+        "ka-choice",
+        "ka-usage-108",
+        "ka-usage-109"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "mo-usage-043",
+      "meaning": "“nothing”, nobody”, nowhere” if used with an interrogative word",
+      "explanation": "The source lists this usage (#43) for も (mo): “nothing”, nobody”, nowhere” if used with an interrogative word.",
+      "pattern": "… + も",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "mo-also",
+        "mo-both-neither",
+        "mo-usage-060"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ni-usage-044",
+      "meaning": "Used with a verb to indicate a change or choice",
+      "explanation": "The source lists this usage (#44) for に (ni): Used with a verb to indicate a change or choice.",
+      "pattern": "… + に",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "wo-usage-045",
+      "meaning": "Expresses an occupation or position",
+      "explanation": "The source lists this usage (#45) for をする (wo): Expresses an occupation or position.",
+      "pattern": "… + をする",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "wo-object",
+        "wo-departure",
+        "wo-route",
+        "wo-usage-053"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "demo-usage-046",
+      "meaning": "Indicates emphasis",
+      "explanation": "The source lists this usage (#46) for でも (demo): Indicates emphasis.",
+      "pattern": "… + でも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "demo-usage-047",
+        "demo-usage-059",
+        "demo-usage-061"
+      ],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "demo-usage-047",
+      "meaning": "Together with an interrogative word it means “anything”, “anyone”, any time”",
+      "explanation": "The source lists this usage (#47) for でも (demo): Together with an interrogative word it means “anything”, “anyone”, any time”.",
+      "pattern": "… + でも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "demo-usage-046",
+        "demo-usage-059",
+        "demo-usage-061"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "de-cause",
+      "meaning": "Indicates a cause or a reason",
+      "explanation": "The source lists this usage (#48) for で (de): Indicates a cause or a reason.",
+      "pattern": "… + で",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "de-location",
+        "de-means",
+        "de-usage-036",
+        "de-usage-054",
+        "de-usage-055",
+        "de-usage-058"
+      ],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "kara-usage-049",
+      "meaning": "Indicates a source such as a giver, a cause or material",
+      "explanation": "The source lists this usage (#49) for から (kara): Indicates a source such as a giver, a cause or material.",
+      "pattern": "… + から",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "kara-starting-point",
+        "kara-usage-066",
+        "kara-reason"
+      ],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "ni-usage-050",
+      "meaning": "Indicates a person who gives something or who provides a service",
+      "explanation": "The source lists this usage (#50) for に (ni): Indicates a person who gives something or who provides a service.",
+      "pattern": "… + に",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-107",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "wa-ga-usage-051",
+      "meaning": "Indicates the relation between an object / subjects and a verb or adjective",
+      "explanation": "The source lists this usage (#51) for は・が (wa + ga): Indicates the relation between an object / subjects and a verb or adjective.",
+      "pattern": "… + は・が",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "subject"
+      ]
+    },
+    {
+      "id": "ga-but",
+      "meaning": "Connects two sentences with the meaning “but…”",
+      "explanation": "Conjunctive particle connecting two clauses in contrast or as a polite lead-in.",
+      "pattern": "Clause 1 + が、Clause 2",
+      "examples": [
+        {
+          "japanese": "日本料理はおいしいですが、高いです。",
+          "reading": "Nihon ryouri wa oishii desu ga, takai desu.",
+          "meaning": "Japanese food is delicious, but expensive."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ga-subject",
+        "ga-usage-065",
+        "ga-usage-068",
+        "ga-usage-138",
+        "ga-usage-162"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "wo-usage-053",
+      "meaning": "Used with an verb expressing emotions, it indicates the cause of this emotion",
+      "explanation": "The source lists this usage (#53) for を (wo): Used with an verb expressing emotions, it indicates the cause of this emotion.",
+      "pattern": "… + を",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "wo-object",
+        "wo-departure",
+        "wo-route",
+        "wo-usage-045"
+      ],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "de-usage-054",
+      "meaning": "Indicates a state / condition of something",
+      "explanation": "The source lists this usage (#54) for で (de): Indicates a state / condition of something.",
+      "pattern": "… + で",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "de-location",
+        "de-means",
+        "de-usage-036",
+        "de-cause",
+        "de-usage-055",
+        "de-usage-058"
+      ],
+      "tags": [
+        "condition"
+      ]
+    },
+    {
+      "id": "de-usage-055",
+      "meaning": "Limits numbers",
+      "explanation": "The source lists this usage (#55) for で (de): Limits numbers.",
+      "pattern": "… + で",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "de-location",
+        "de-means",
+        "de-usage-036",
+        "de-cause",
+        "de-usage-054",
+        "de-usage-058"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "dake-limit",
+      "meaning": "Indicates a limit on things or amounts",
+      "explanation": "The source lists this usage (#56) for だけ (dake): Indicates a limit on things or amounts.",
+      "pattern": "… + だけ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "dake-usage-057",
+        "dake-usage-123",
+        "dake-usage-124",
+        "dake-usage-143"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "dake-usage-057",
+      "meaning": "Indicates a limit on an action or state",
+      "explanation": "The source lists this usage (#57) for だけ (dake): Indicates a limit on an action or state.",
+      "pattern": "… + だけ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "dake-limit",
+        "dake-usage-123",
+        "dake-usage-124",
+        "dake-usage-143"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "de-usage-058",
+      "meaning": "Indicates the time of completion or expiration of something",
+      "explanation": "The source lists this usage (#58) for で (de): Indicates the time of completion or expiration of something.",
+      "pattern": "… + で",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "de-location",
+        "de-means",
+        "de-usage-036",
+        "de-cause",
+        "de-usage-054",
+        "de-usage-055"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "demo-usage-059",
+      "meaning": "Following a noun, means “or something like this”",
+      "explanation": "The source lists this usage (#59) for でも (demo): Following a noun, means “or something like this”.",
+      "pattern": "… + でも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "demo-usage-046",
+        "demo-usage-047",
+        "demo-usage-061"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "mo-usage-060",
+      "meaning": "Emphasizes in a positive or negative way",
+      "explanation": "The source lists this usage (#60) for も (mo): Emphasizes in a positive or negative way.",
+      "pattern": "… + も",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "mo-also",
+        "mo-both-neither",
+        "mo-usage-043"
+      ],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "demo-usage-061",
+      "meaning": "Indicates two or more items as an example of a larger list",
+      "explanation": "The source lists this usage (#61) for でも (demo): Indicates two or more items as an example of a larger list.",
+      "pattern": "… + でも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "demo-usage-046",
+        "demo-usage-047",
+        "demo-usage-059"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "bakari-usage-062",
+      "meaning": "Indicates that an item, state or action is a single one",
+      "explanation": "The source lists this usage (#62) for ばかり (bakari): Indicates that an item, state or action is a single one.",
+      "pattern": "… + ばかり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "bakari-usage-025",
+        "bakari-usage-063",
+        "bakari-usage-149"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "bakari-usage-063",
+      "meaning": "Indicates an action was just completed",
+      "explanation": "The source lists this usage (#63) for ばかり (bakari): Indicates an action was just completed.",
+      "pattern": "… + ばかり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "bakari-usage-025",
+        "bakari-usage-062",
+        "bakari-usage-149"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "tokoro-usage-064",
+      "meaning": "Indicates that an action takes place, just took place or is about to take place",
+      "explanation": "The source lists this usage (#64) for ところ (tokoro): Indicates that an action takes place, just took place or is about to take place.",
+      "pattern": "… + ところ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tokoro-usage-082"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ga-usage-065",
+      "meaning": "Indicates the subject of subordinate clause when it is different from the subject of the main clause",
+      "explanation": "The source lists this usage (#65) for が (ga): Indicates the subject of subordinate clause when it is different from the subject of the main clause.",
+      "pattern": "… + が",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ga-subject",
+        "ga-but",
+        "ga-usage-068",
+        "ga-usage-138",
+        "ga-usage-162"
+      ],
+      "tags": [
+        "subject"
+      ]
+    },
+    {
+      "id": "kara-usage-066",
+      "meaning": "conjunction meaning “after” or “since”",
+      "explanation": "The source lists this usage (#66) for から (kara): conjunction meaning “after” or “since”.",
+      "pattern": "… + から",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "kara-starting-point",
+        "kara-usage-049",
+        "kara-reason"
+      ],
+      "tags": [
+        "connection"
+      ]
+    },
+    {
+      "id": "nagara-simultaneous",
+      "meaning": "Indicates that an action is happening simultaneously",
+      "explanation": "Attaches to the verb masu-stem to show two actions performed at the same time by the same person ('while doing').",
+      "pattern": "Verb (masu-stem) + ながら + Verb 2",
+      "examples": [
+        {
+          "japanese": "音楽を聞きながら勉強します。",
+          "reading": "Ongaku wo kikinagara benkyou shimasu.",
+          "meaning": "I study while listening to music."
+        }
+      ],
+      "jlptLevel": "N4",
+      "grammarPointIds": [
+        "grammar-nagara"
+      ],
+      "relatedUsageIds": [
+        "nagara-usage-092",
+        "nagara-usage-101"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "ga-usage-068",
+      "meaning": "Indicates the subject of a relative clause",
+      "explanation": "The source lists this usage (#68) for が (ga): Indicates the subject of a relative clause.",
+      "pattern": "… + が",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ga-subject",
+        "ga-but",
+        "ga-usage-065",
+        "ga-usage-138",
+        "ga-usage-162"
+      ],
+      "tags": [
+        "subject"
+      ]
+    },
+    {
+      "id": "no-usage-069",
+      "meaning": "Indicates the subject of a relative clause",
+      "explanation": "The source lists this usage (#69) for の (no): Indicates the subject of a relative clause.",
+      "pattern": "… + の",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "no-possession",
+        "no-apposition",
+        "no-usage-072",
+        "no-usage-073",
+        "no-usage-176"
+      ],
+      "tags": [
+        "subject"
+      ]
+    },
+    {
+      "id": "kara-reason",
+      "meaning": "Used as a conjunction and indicates a cause or reason",
+      "explanation": "Follows a clause to express the reason or cause for the main clause ('because', 'so').",
+      "pattern": "Clause (Reason) + から、Main Clause",
+      "examples": [
+        {
+          "japanese": "時間がありませんから、タクシーで行きます。",
+          "reading": "Jikan ga arimasen kara, takushii de ikimasu.",
+          "meaning": "Because there is no time, I will go by taxi."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-kara-reason"
+      ],
+      "relatedUsageIds": [
+        "kara-starting-point",
+        "kara-usage-049",
+        "kara-usage-066"
+      ],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "node-reason",
+      "meaning": "Indicates a strong reason",
+      "explanation": "Connects a reason clause to a result clause with a softer, more objective or polite nuance than から.",
+      "pattern": "Clause (Plain/Na-adj + な) + ので、Main Clause",
+      "examples": [
+        {
+          "japanese": "雨が降っているので、出かけません。",
+          "reading": "Ame ga futte iru node, dekakemasen.",
+          "meaning": "Because it is raining, I will not go out."
+        }
+      ],
+      "jlptLevel": "N4",
+      "grammarPointIds": [
+        "grammar-node"
+      ],
+      "relatedUsageIds": [],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "no-usage-072",
+      "meaning": "Indicates a modified pronoun",
+      "explanation": "The source lists this usage (#72) for の (no): Indicates a modified pronoun.",
+      "pattern": "… + の",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "no-possession",
+        "no-apposition",
+        "no-usage-069",
+        "no-usage-073",
+        "no-usage-176"
+      ],
+      "tags": [
+        "possession"
+      ]
+    },
+    {
+      "id": "no-usage-073",
+      "meaning": "Used to nominalize verbs & sentences",
+      "explanation": "The source lists this usage (#73) for の (no): Used to nominalize verbs & sentences.",
+      "pattern": "… + の",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "no-possession",
+        "no-apposition",
+        "no-usage-069",
+        "no-usage-072",
+        "no-usage-176"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "nara-condition",
+      "meaning": "Used as a conjunction and indicates a supposition or condition",
+      "explanation": "The source lists this usage (#74) for なら (nara): Used as a conjunction and indicates a supposition or condition.",
+      "pattern": "… + なら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nara-usage-075"
+      ],
+      "tags": [
+        "condition"
+      ]
+    },
+    {
+      "id": "nara-usage-075",
+      "meaning": "Indicates a topics and is used as an alternative to wa (No.1)",
+      "explanation": "The source lists this usage (#75) for なら (nara): Indicates a topics and is used as an alternative to wa (No.1).",
+      "pattern": "… + なら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nara-condition"
+      ],
+      "tags": [
+        "topic"
+      ]
+    },
+    {
+      "id": "to-usage-076",
+      "meaning": "Indicates a condition that results in an inevitable outcome",
+      "explanation": "The source lists this usage (#76) for と (to): Indicates a condition that results in an inevitable outcome.",
+      "pattern": "… + と",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "to-connect",
+        "to-together",
+        "to-quotation",
+        "to-comparison",
+        "to-usage-118",
+        "to-usage-125",
+        "to-usage-126"
+      ],
+      "tags": [
+        "condition"
+      ]
+    },
+    {
+      "id": "ba-condition",
+      "meaning": "Used as a conjunction to express a probable result",
+      "explanation": "Expresses a conditional relationship ('if A, then B').",
+      "pattern": "Verb (ba-form) + ば",
+      "examples": [
+        {
+          "japanese": "春になれば、桜が咲きます。",
+          "reading": "Haru ni nareba, sakura ga sakimasu.",
+          "meaning": "When/if spring comes, the cherry blossoms bloom."
+        }
+      ],
+      "jlptLevel": "N4",
+      "grammarPointIds": [
+        "grammar-ba"
+      ],
+      "relatedUsageIds": [
+        "ba-usage-079"
+      ],
+      "tags": [
+        "condition"
+      ]
+    },
+    {
+      "id": "ba-ii-usage-078",
+      "meaning": "“all you have to do…”",
+      "explanation": "The source lists this usage (#78) for ばいい (ba ii): “all you have to do…”.",
+      "pattern": "… + ばいい",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ba-usage-079",
+      "meaning": "Used to enumerate two or more actions or states",
+      "explanation": "The source lists this usage (#79) for ば (ba): Used to enumerate two or more actions or states.",
+      "pattern": "… + ば",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ba-condition"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "tara-condition",
+      "meaning": "Used as a conjunction, indicates a supposition or condition",
+      "explanation": "Expresses an 'if/when' condition after the past plain form (ta-form + ら).",
+      "pattern": "Verb (ta-form) + ら",
+      "examples": [
+        {
+          "japanese": "雨が降ったら、行きません。",
+          "reading": "Ame ga futtara, ikimasen.",
+          "meaning": "If it rains, I won't go."
+        }
+      ],
+      "jlptLevel": "N4",
+      "grammarPointIds": [
+        "grammar-tara"
+      ],
+      "relatedUsageIds": [
+        "tara-usage-081",
+        "tara-usage-185"
+      ],
+      "tags": [
+        "condition"
+      ]
+    },
+    {
+      "id": "tara-usage-081",
+      "meaning": "Used as a conjunction to indicate that one action takes place before the action described in the main sentence",
+      "explanation": "The source lists this usage (#81) for たら (tara): Used as a conjunction to indicate that one action takes place before the action described in the main sentence.",
+      "pattern": "… + たら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tara-condition",
+        "tara-usage-185"
+      ],
+      "tags": [
+        "connection"
+      ]
+    },
+    {
+      "id": "tokoro-usage-082",
+      "meaning": "Used as a conjunction to indicate a condition that brings about a discovery",
+      "explanation": "The source lists this usage (#82) for ところ (tokoro): Used as a conjunction to indicate a condition that brings about a discovery.",
+      "pattern": "… + ところ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tokoro-usage-064"
+      ],
+      "tags": [
+        "condition"
+      ]
+    },
+    {
+      "id": "temo-even-if",
+      "meaning": "A conjunction meaning “even if”",
+      "explanation": "Attaches to the te-form to express a concession ('even if').",
+      "pattern": "Verb (te-form) + も",
+      "examples": [
+        {
+          "japanese": "雨が降っても、行きます。",
+          "reading": "Ame ga futtemo, ikimasu.",
+          "meaning": "Even if it rains, I will go."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [
+        "grammar-te-mo-ii"
+      ],
+      "relatedUsageIds": [
+        "temo-usage-084",
+        "temo-usage-085",
+        "temo-usage-115"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "temo-usage-084",
+      "meaning": "Used with a set of contrasting verbs and adjectives",
+      "explanation": "The source lists this usage (#84) for ても (temo): Used with a set of contrasting verbs and adjectives.",
+      "pattern": "… + ても",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "temo-even-if",
+        "temo-usage-085",
+        "temo-usage-115"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "temo-usage-085",
+      "meaning": "Together with an interrogative word it means “no matter what/where/who”",
+      "explanation": "The source lists this usage (#85) for ても (temo): Together with an interrogative word it means “no matter what/where/who”.",
+      "pattern": "… + ても",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "temo-even-if",
+        "temo-usage-084",
+        "temo-usage-115"
+      ],
+      "tags": [
+        "connection"
+      ]
+    },
+    {
+      "id": "tewa-usage-086",
+      "meaning": "Indicates a condition which will bring a negative conclusion",
+      "explanation": "The source lists this usage (#86) for ては (tewa): Indicates a condition which will bring a negative conclusion.",
+      "pattern": "… + ては",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tewa-usage-131"
+      ],
+      "tags": [
+        "condition"
+      ]
+    },
+    {
+      "id": "nomi-usage-087",
+      "meaning": "Indicates a limit (similar to だけ　dake)",
+      "explanation": "The source lists this usage (#87) for のみ (nomi): Indicates a limit (similar to だけ　dake).",
+      "pattern": "… + のみ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nomi-usage-144"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "made-usage-088",
+      "meaning": "“even”, used to emphasize",
+      "explanation": "The source lists this usage (#88) for まで (made): “even”, used to emphasize.",
+      "pattern": "… + まで",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "made-limit"
+      ],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "sae-usage-089",
+      "meaning": "“even”, used to emphasize",
+      "explanation": "The source lists this usage (#89) for さえ (sae): “even”, used to emphasize.",
+      "pattern": "… + さえ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "sae-usage-090"
+      ],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "sae-usage-090",
+      "meaning": "“if only” or “as long as”",
+      "explanation": "The source lists this usage (#90) for さえ (sae): “if only” or “as long as”.",
+      "pattern": "… + さえ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "sae-usage-089"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "noni-although",
+      "meaning": "“although”, “in spite of the fact that”",
+      "explanation": "Connects two clauses when the outcome contradicts expectations ('even though', 'despite').",
+      "pattern": "Plain Form + のに",
+      "examples": [
+        {
+          "japanese": "薬を飲んだのに、まだ治りません。",
+          "reading": "Kusuri wo nonda noni, mada naorimasen.",
+          "meaning": "Even though I took medicine, I'm still not cured."
+        }
+      ],
+      "jlptLevel": "N4",
+      "grammarPointIds": [
+        "grammar-noni"
+      ],
+      "relatedUsageIds": [
+        "noni-usage-096"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "nagara-usage-092",
+      "meaning": "“although”, “though”, “but”",
+      "explanation": "The source lists this usage (#92) for ながら (nagara): “although”, “though”, “but”.",
+      "pattern": "… + ながら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nagara-simultaneous",
+        "nagara-usage-101"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "toka-usage-093",
+      "meaning": "Indicates that a list of two ore more things or actions is not exhaustive",
+      "explanation": "The source lists this usage (#93) for とか (toka): Indicates that a list of two ore more things or actions is not exhaustive.",
+      "pattern": "… + とか",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "toka-usage-035"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "tari-actions",
+      "meaning": "List of two or more actions in no particular sequence",
+      "explanation": "The source lists this usage (#94) for たり (tari): List of two or more actions in no particular sequence.",
+      "pattern": "… + たり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tari-usage-095"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "tari-usage-095",
+      "meaning": "Indicates actions or states that alternate",
+      "explanation": "The source lists this usage (#95) for たり (tari): Indicates actions or states that alternate.",
+      "pattern": "… + たり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tari-actions"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "noni-usage-096",
+      "meaning": "Indicates a purpose or function",
+      "explanation": "The source lists this usage (#96) for のに (noni): Indicates a purpose or function.",
+      "pattern": "… + のに",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "noni-although"
+      ],
+      "tags": [
+        "purpose"
+      ]
+    },
+    {
+      "id": "no-desu-usage-097",
+      "meaning": "Asks for an explanation or reason",
+      "explanation": "The source lists this usage (#97) for のです (no desu): Asks for an explanation or reason.",
+      "pattern": "… + のです",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "kiri-usage-098",
+      "meaning": "Indicates a limit to an amount",
+      "explanation": "The source lists this usage (#98) for きり (kiri): Indicates a limit to an amount.",
+      "pattern": "… + きり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "kiri-usage-099"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "kiri-usage-099",
+      "meaning": "Indicates the last time a certain incident occured",
+      "explanation": "The source lists this usage (#99) for きり (kiri): Indicates the last time a certain incident occured.",
+      "pattern": "… + きり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "kiri-usage-098"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "tomo-usage-100",
+      "meaning": "Used with numbers and counters to mean “both” or “all”",
+      "explanation": "The source lists this usage (#100) for とも (tomo): Used with numbers and counters to mean “both” or “all”.",
+      "pattern": "… + とも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tomo-usage-106",
+        "tomo-usage-116",
+        "tomo-usage-153",
+        "tomo-usage-182"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "nagara-usage-101",
+      "meaning": "Used with numbers and counters to mean “both” or “all”",
+      "explanation": "The source lists this usage (#101) for ながら (nagara): Used with numbers and counters to mean “both” or “all”.",
+      "pattern": "… + ながら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nagara-simultaneous",
+        "nagara-usage-092"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "shika-only",
+      "meaning": "Used with a negative verb to indicate limits on conditions or quantities meaning “only”",
+      "explanation": "The source lists this usage (#102) for しか (shika): Used with a negative verb to indicate limits on conditions or quantities meaning “only”.",
+      "pattern": "… + しか",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "shika-nai-usage-103",
+      "meaning": "used with a verb meaning “to have no choice but to”",
+      "explanation": "The source lists this usage (#103) for しかない (shika nai): used with a verb meaning “to have no choice but to”.",
+      "pattern": "… + しかない",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "shi-usage-104",
+      "meaning": "Used as a conjunction, indicating two or more actions or states",
+      "explanation": "The source lists this usage (#104) for し (shi): Used as a conjunction, indicating two or more actions or states.",
+      "pattern": "… + し",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "shi-reason"
+      ],
+      "tags": [
+        "connection"
+      ]
+    },
+    {
+      "id": "shi-reason",
+      "meaning": "Used as a conjunction indicating a reason",
+      "explanation": "The source lists this usage (#105) for し (shi): Used as a conjunction indicating a reason.",
+      "pattern": "… + し",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "shi-usage-104"
+      ],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "tomo-usage-106",
+      "meaning": "Indicates inclusion",
+      "explanation": "The source lists this usage (#106) for とも (tomo): Indicates inclusion.",
+      "pattern": "… + とも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tomo-usage-100",
+        "tomo-usage-116",
+        "tomo-usage-153",
+        "tomo-usage-182"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ni-usage-107",
+      "meaning": "Indicates the one acting or the one acted upon",
+      "explanation": "The source lists this usage (#107) for に (ni): Indicates the one acting or the one acted upon.",
+      "pattern": "… + に",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-132",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ka-usage-108",
+      "meaning": "Indicates uncertainty about something",
+      "explanation": "The source lists this usage (#108) for か (ka): Indicates uncertainty about something.",
+      "pattern": "… + か",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ka-question",
+        "ka-choice",
+        "ka-usage-042",
+        "ka-usage-109"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ka-usage-109",
+      "meaning": "Indicates uncertainty about a state or reason",
+      "explanation": "The source lists this usage (#109) for か (ka): Indicates uncertainty about a state or reason.",
+      "pattern": "… + か",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ka-question",
+        "ka-choice",
+        "ka-usage-042",
+        "ka-usage-108"
+      ],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "dano-usage-110",
+      "meaning": "Indicates two or more items or actions of a longer list (similar to toka とか)",
+      "explanation": "The source lists this usage (#110) for だの (dano): Indicates two or more items or actions of a longer list (similar to toka とか).",
+      "pattern": "… + だの",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "dano-usage-111"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "dano-usage-111",
+      "meaning": "Indicates a pair of opposite actions or states",
+      "explanation": "The source lists this usage (#111) for だの (dano): Indicates a pair of opposite actions or states.",
+      "pattern": "… + だの",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "dano-usage-110"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "nado-usage-112",
+      "meaning": "“something to the effect”",
+      "explanation": "The source lists this usage (#112) for など (nado): “something to the effect”.",
+      "pattern": "… + など",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nado-partial-list",
+        "nado-usage-119",
+        "nado-usage-152"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "yara-usage-113",
+      "meaning": "Indicates two or more items of a longer list",
+      "explanation": "The source lists this usage (#113) for やら (yara): Indicates two or more items of a longer list.",
+      "pattern": "… + やら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "yara-usage-114",
+        "yara-usage-186"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "yara-usage-114",
+      "meaning": "Indicates uncertainty",
+      "explanation": "The source lists this usage (#114) for やら (yara): Indicates uncertainty.",
+      "pattern": "… + やら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "yara-usage-113",
+        "yara-usage-186"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "temo-usage-115",
+      "meaning": "Indicates an approximate limit with the meaning of “at the most”",
+      "explanation": "The source lists this usage (#115) for ても (temo): Indicates an approximate limit with the meaning of “at the most”.",
+      "pattern": "… + ても",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "temo-even-if",
+        "temo-usage-084",
+        "temo-usage-085"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "tomo-usage-116",
+      "meaning": "Indicates an approximate maximum or minimum",
+      "explanation": "The source lists this usage (#116) for とも (tomo): Indicates an approximate maximum or minimum.",
+      "pattern": "… + とも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tomo-usage-100",
+        "tomo-usage-106",
+        "tomo-usage-153",
+        "tomo-usage-182"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "wa-usage-117",
+      "meaning": "Indicates that a number is the higher or lowest limit",
+      "explanation": "The source lists this usage (#117) for は (wa): Indicates that a number is the higher or lowest limit.",
+      "pattern": "… + は",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "wa-topic",
+        "wa-contrast",
+        "wa-usage-139"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "to-usage-118",
+      "meaning": "Emphasizes a number in a negative sentence",
+      "explanation": "The source lists this usage (#118) for と (to): Emphasizes a number in a negative sentence.",
+      "pattern": "… + と",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "to-connect",
+        "to-together",
+        "to-quotation",
+        "to-comparison",
+        "to-usage-076",
+        "to-usage-125",
+        "to-usage-126"
+      ],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "nado-usage-119",
+      "meaning": "Indicates examples",
+      "explanation": "The source lists this usage (#119) for など (nado): Indicates examples.",
+      "pattern": "… + など",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nado-partial-list",
+        "nado-usage-112",
+        "nado-usage-152"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "kurai-usage-120",
+      "meaning": "Expresses an extent of an action or condition similar to ぐらい gurai",
+      "explanation": "The source lists this usage (#120) for くらい (kurai): Expresses an extent of an action or condition similar to ぐらい gurai.",
+      "pattern": "… + くらい",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "kurai-usage-023",
+        "kurai-usage-040"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "hodo-usage-121",
+      "meaning": "Indicates the extend of an action or condition",
+      "explanation": "The source lists this usage (#121) for ほど (hodo): Indicates the extend of an action or condition.",
+      "pattern": "… + ほど",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "hodo-usage-024",
+        "hodo-usage-041",
+        "hodo-usage-122"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "hodo-usage-122",
+      "meaning": "“the more… the more…”",
+      "explanation": "The source lists this usage (#122) for ほど (hodo): “the more… the more…”.",
+      "pattern": "… + ほど",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "hodo-usage-024",
+        "hodo-usage-041",
+        "hodo-usage-121"
+      ],
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "dake-usage-123",
+      "meaning": "“as… as…”",
+      "explanation": "The source lists this usage (#123) for だけ (dake): “as… as…”.",
+      "pattern": "… + だけ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "dake-limit",
+        "dake-usage-057",
+        "dake-usage-124",
+        "dake-usage-143"
+      ],
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "dake-usage-124",
+      "meaning": "“the more… the more…”",
+      "explanation": "The source lists this usage (#124) for だけ (dake): “the more… the more…”.",
+      "pattern": "… + だけ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "dake-limit",
+        "dake-usage-057",
+        "dake-usage-123",
+        "dake-usage-143"
+      ],
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "to-usage-125",
+      "meaning": "“about to do something”, “trying to do something”",
+      "explanation": "The source lists this usage (#125) for と (to): “about to do something”, “trying to do something”.",
+      "pattern": "… + と",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "to-connect",
+        "to-together",
+        "to-quotation",
+        "to-comparison",
+        "to-usage-076",
+        "to-usage-118",
+        "to-usage-126"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "to-usage-126",
+      "meaning": "“even if…”, “whether… or not”",
+      "explanation": "The source lists this usage (#126) for と (to): “even if…”, “whether… or not”.",
+      "pattern": "… + と",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "to-connect",
+        "to-together",
+        "to-quotation",
+        "to-comparison",
+        "to-usage-076",
+        "to-usage-118",
+        "to-usage-125"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "nari-usage-127",
+      "meaning": "“either…”, “whether…or”",
+      "explanation": "The source lists this usage (#127) for なり (nari): “either…”, “whether…or”.",
+      "pattern": "… + なり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nari-usage-128",
+        "nari-usage-145"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "nari-usage-128",
+      "meaning": "“anything”, “anyone”, “any time”",
+      "explanation": "The source lists this usage (#128) for なり (nari): “anything”, “anyone”, “any time”.",
+      "pattern": "… + なり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nari-usage-127",
+        "nari-usage-145"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "koso-usage-129",
+      "meaning": "Emphasizes the word preceding it",
+      "explanation": "The source lists this usage (#129) for こそ (koso): Emphasizes the word preceding it.",
+      "pattern": "… + こそ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "koso-usage-130"
+      ],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "koso-usage-130",
+      "meaning": "Emphasizes a reason or a cause",
+      "explanation": "The source lists this usage (#130) for こそ (koso): Emphasizes a reason or a cause.",
+      "pattern": "… + こそ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "koso-usage-129"
+      ],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "tewa-usage-131",
+      "meaning": "Expresses repetition of an action",
+      "explanation": "The source lists this usage (#131) for ては (tewa): Expresses repetition of an action.",
+      "pattern": "… + ては",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tewa-usage-086"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ni-usage-132",
+      "meaning": "Joins two or more nouns to indicate a list of items",
+      "explanation": "The source lists this usage (#132) for に (ni): Joins two or more nouns to indicate a list of items.",
+      "pattern": "… + に",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-133"
+      ],
+      "tags": [
+        "listing"
+      ]
+    },
+    {
+      "id": "ni-usage-133",
+      "meaning": "Connects two or more items to indicate a matching or a contrast",
+      "explanation": "The source lists this usage (#133) for に (ni): Connects two or more items to indicate a matching or a contrast.",
+      "pattern": "… + に",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ni-location",
+        "ni-time",
+        "ni-indirect-object",
+        "ni-surface",
+        "ni-arrival",
+        "ni-entering",
+        "ni-purpose",
+        "ni-usage-044",
+        "ni-usage-050",
+        "ni-usage-107",
+        "ni-usage-132"
+      ],
+      "tags": [
+        "connection"
+      ]
+    },
+    {
+      "id": "ni-shite-wa-usage-134",
+      "meaning": "Indicates a generally agreed upon standard",
+      "explanation": "The source lists this usage (#134) for にしては (ni shite wa): Indicates a generally agreed upon standard.",
+      "pattern": "… + にしては",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ni-totte-usage-135",
+      "meaning": "Indicates an effect or value of a person or thing",
+      "explanation": "The source lists this usage (#135) for にとって (ni totte): Indicates an effect or value of a person or thing.",
+      "pattern": "… + にとって",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ni-tsuite-usage-136",
+      "meaning": "“about”, “concerning” something or someone",
+      "explanation": "The source lists this usage (#136) for について (ni tsuite): “about”, “concerning” something or someone.",
+      "pattern": "… + について",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "tomo-tomo-usage-137",
+      "meaning": "“can’t say whether… or…”",
+      "explanation": "The source lists this usage (#137) for とも…とも (tomo… tomo): “can’t say whether… or…”.",
+      "pattern": "… + とも…とも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "ga-usage-138",
+      "meaning": "“even if”, “whether… or not”",
+      "explanation": "The source lists this usage (#138) for が (ga): “even if”, “whether… or not”.",
+      "pattern": "… + が",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ga-subject",
+        "ga-but",
+        "ga-usage-065",
+        "ga-usage-068",
+        "ga-usage-162"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "wa-usage-139",
+      "meaning": "Emphasizes contrasting elements",
+      "explanation": "The source lists this usage (#139) for は (wa): Emphasizes contrasting elements.",
+      "pattern": "… + は",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "wa-topic",
+        "wa-contrast",
+        "wa-usage-117"
+      ],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "toshite-usage-140",
+      "meaning": "Indicates status, capacity or function",
+      "explanation": "The source lists this usage (#140) for として (toshite): Indicates status, capacity or function.",
+      "pattern": "… + として",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "toshite-usage-141"
+      ],
+      "tags": [
+        "purpose"
+      ]
+    },
+    {
+      "id": "toshite-usage-141",
+      "meaning": "Provides emphasis in a negative sentence",
+      "explanation": "The source lists this usage (#141) for として (toshite): Provides emphasis in a negative sentence.",
+      "pattern": "… + として",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "toshite-usage-140"
+      ],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "bakari-de-naku-usage-142",
+      "meaning": "“not only… but also”",
+      "explanation": "The source lists this usage (#142) for ばかりでなく (bakari de naku): “not only… but also”.",
+      "pattern": "… + ばかりでなく",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "dake-usage-143",
+      "meaning": "used to express “not only…but also”",
+      "explanation": "The source lists this usage (#143) for だけ (dake): used to express “not only…but also”.",
+      "pattern": "… + だけ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "dake-limit",
+        "dake-usage-057",
+        "dake-usage-123",
+        "dake-usage-124"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "nomi-usage-144",
+      "meaning": "used to express “not only…but also”",
+      "explanation": "The source lists this usage (#144) for のみ (nomi): used to express “not only…but also”.",
+      "pattern": "… + のみ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nomi-usage-087"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "nari-usage-145",
+      "meaning": "“as soon as”",
+      "explanation": "The source lists this usage (#145) for なり (nari): “as soon as”.",
+      "pattern": "… + なり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nari-usage-127",
+        "nari-usage-128"
+      ],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "ga-hayai-ka-usage-146",
+      "meaning": "“as soon as”",
+      "explanation": "The source lists this usage (#146) for がはやいか (ga hayai ka): “as soon as”.",
+      "pattern": "… + がはやいか",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "ya-ina-ya-usage-147",
+      "meaning": "“as soon as”",
+      "explanation": "The source lists this usage (#147) for やいなや (ya ina ya): “as soon as”.",
+      "pattern": "… + やいなや",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "ka-nai-uchi-ni-usage-148",
+      "meaning": "“no sooner had”, “hardly had”",
+      "explanation": "The source lists this usage (#148) for かないうちに (ka nai uchi ni): “no sooner had”, “hardly had”.",
+      "pattern": "… + かないうちに",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "time"
+      ]
+    },
+    {
+      "id": "bakari-usage-149",
+      "meaning": "Indicates the only action left to do",
+      "explanation": "The source lists this usage (#149) for ばかり (bakari): Indicates the only action left to do.",
+      "pattern": "… + ばかり",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "bakari-usage-025",
+        "bakari-usage-062",
+        "bakari-usage-063"
+      ],
+      "tags": [
+        "limitation"
+      ]
+    },
+    {
+      "id": "bakari-ni-usage-150",
+      "meaning": "Emphasizes a reason or cause",
+      "explanation": "The source lists this usage (#150) for ばかりに (bakari ni): Emphasizes a reason or cause.",
+      "pattern": "… + ばかりに",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "sura-usage-151",
+      "meaning": "Emphasizes in the meaning of “even”",
+      "explanation": "The source lists this usage (#151) for すら (sura): Emphasizes in the meaning of “even”.",
+      "pattern": "… + すら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "emphasis"
+      ]
+    },
+    {
+      "id": "nado-usage-152",
+      "meaning": "Expresses a humble attitude towards an item",
+      "explanation": "The source lists this usage (#152) for など (nado): Expresses a humble attitude towards an item.",
+      "pattern": "… + など",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "nado-partial-list",
+        "nado-usage-112",
+        "nado-usage-119"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "tomo-usage-153",
+      "meaning": "“no matter what”, “even if”",
+      "explanation": "The source lists this usage (#153) for とも (tomo): “no matter what”, “even if”.",
+      "pattern": "… + とも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tomo-usage-100",
+        "tomo-usage-106",
+        "tomo-usage-116",
+        "tomo-usage-182"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "tomo-aroo-hito-usage-154",
+      "meaning": "To express that someone did something not to be expected",
+      "explanation": "The source lists this usage (#154) for ともあろうひと (tomo aroo hito): To express that someone did something not to be expected.",
+      "pattern": "… + ともあろうひと",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "dokoro-ka-usage-155",
+      "meaning": "“far from”, “not to mention”",
+      "explanation": "The source lists this usage (#155) for どころか (dokoro ka): “far from”, “not to mention”.",
+      "pattern": "… + どころか",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "dake-ni-usage-156",
+      "meaning": "Indicates a cause or reason",
+      "explanation": "The source lists this usage (#156) for だけに (dake ni): Indicates a cause or reason.",
+      "pattern": "… + だけに",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "made-mo-nai-usage-157",
+      "meaning": "“there is no need to…”",
+      "explanation": "The source lists this usage (#157) for までもない (made mo nai): “there is no need to…”.",
+      "pattern": "… + までもない",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "mono-no-usage-158",
+      "meaning": "“but” or “although”",
+      "explanation": "The source lists this usage (#158) for ものの (mono no): “but” or “although”.",
+      "pattern": "… + ものの",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "tokoro-de-usage-159",
+      "meaning": "“even if”",
+      "explanation": "The source lists this usage (#159) for ところで (tokoro de): “even if”.",
+      "pattern": "… + ところで",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "keredomo-although",
+      "meaning": "Connects 2 sentences meaning “but” or “although”",
+      "explanation": "The source lists this usage (#160) for けれども (keredomo): Connects 2 sentences meaning “but” or “although”.",
+      "pattern": "… + けれども",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "keredomo-usage-161",
+        "keredomo-usage-163"
+      ],
+      "tags": [
+        "concession"
+      ]
+    },
+    {
+      "id": "keredomo-usage-161",
+      "meaning": "Indicates a preliminary remark",
+      "explanation": "The source lists this usage (#161) for けれども (keredomo): Indicates a preliminary remark.",
+      "pattern": "… + けれども",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "keredomo-although",
+        "keredomo-usage-163"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ga-usage-162",
+      "meaning": "Used to soften a statement or refusal",
+      "explanation": "The source lists this usage (#162) for が (ga): Used to soften a statement or refusal.",
+      "pattern": "… + が",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ga-subject",
+        "ga-but",
+        "ga-usage-065",
+        "ga-usage-068",
+        "ga-usage-138"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "keredomo-usage-163",
+      "meaning": "Indicates a desire",
+      "explanation": "The source lists this usage (#163) for けれども (keredomo): Indicates a desire.",
+      "pattern": "… + けれども",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "keredomo-although",
+        "keredomo-usage-161"
+      ],
+      "tags": [
+        "other"
+      ]
+    },
+    {
+      "id": "ne-confirm",
+      "meaning": "At the end of a sentence to confirm a statement",
+      "explanation": "Sentence-ending particle used to seek agreement or confirm shared information ('isn't it?', 'right?').",
+      "pattern": "Sentence + ね",
+      "examples": [
+        {
+          "japanese": "いい天気ですね。",
+          "reading": "Ii tenki desu ne.",
+          "meaning": "It's nice weather, isn't it?"
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ne-usage-165",
+        "ne-usage-166"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "ne-usage-165",
+      "meaning": "At the end of a sentence to soften a request or suggestion",
+      "explanation": "The source lists this usage (#165) for ね (ne): At the end of a sentence to soften a request or suggestion.",
+      "pattern": "… + ね",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ne-confirm",
+        "ne-usage-166"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "ne-usage-166",
+      "meaning": "At the end of a sentence to indicate a reason or cause",
+      "explanation": "The source lists this usage (#166) for ね (ne): At the end of a sentence to indicate a reason or cause.",
+      "pattern": "… + ね",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ne-confirm",
+        "ne-usage-165"
+      ],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "nee-usage-167",
+      "meaning": "At the end of a sentence to indicate emotion",
+      "explanation": "The source lists this usage (#167) for ねえ (nee): At the end of a sentence to indicate emotion.",
+      "pattern": "… + ねえ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "yo-conviction",
+      "meaning": "At the end of a sentence to state a strong conviction",
+      "explanation": "Sentence-ending particle used to inform the listener of new information or add emphasis.",
+      "pattern": "Sentence + よ",
+      "examples": [
+        {
+          "japanese": "この電車は東京へ行きますよ。",
+          "reading": "Kono densha wa Toukyou e ikimasu yo.",
+          "meaning": "This train goes to Tokyo, you know."
+        }
+      ],
+      "jlptLevel": "N5",
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "yo-usage-169"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "yo-usage-169",
+      "meaning": "At the end of a sentence to articulate a request or suggestion",
+      "explanation": "The source lists this usage (#169) for よ (yo): At the end of a sentence to articulate a request or suggestion.",
+      "pattern": "… + よ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "yo-conviction"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "kashira-usage-170",
+      "meaning": "At the end of a sentence to express uncertainty, a request or a question and mainly used by women",
+      "explanation": "The source lists this usage (#170) for かしら (kashira): At the end of a sentence to express uncertainty, a request or a question and mainly used by women.",
+      "pattern": "… + かしら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "kana-usage-171",
+      "meaning": "At the end of a sentence to express uncertainty, a request or a question and mainly used by men",
+      "explanation": "The source lists this usage (#171) for かな (kana): At the end of a sentence to express uncertainty, a request or a question and mainly used by men.",
+      "pattern": "… + かな",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "na-usage-172",
+      "meaning": "At the end of a sentence and used by men to confirm a statement",
+      "explanation": "The source lists this usage (#172) for な (na): At the end of a sentence and used by men to confirm a statement.",
+      "pattern": "… + な",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "na-usage-173"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "na-usage-173",
+      "meaning": "At the end of a sentence to express a prohibition, used by men",
+      "explanation": "The source lists this usage (#173) for な (na): At the end of a sentence to express a prohibition, used by men.",
+      "pattern": "… + な",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "na-usage-172"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "naa-usage-174",
+      "meaning": "At the end of a sentence to express emotion, used by men",
+      "explanation": "The source lists this usage (#174) for なあ (naa): At the end of a sentence to express emotion, used by men.",
+      "pattern": "… + なあ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "naa-usage-175"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "naa-usage-175",
+      "meaning": "At the end of a sentence to express a desire",
+      "explanation": "The source lists this usage (#175) for なあ (naa): At the end of a sentence to express a desire.",
+      "pattern": "… + なあ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "naa-usage-174"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "no-usage-176",
+      "meaning": "At the end of a sentence to express a question or soften a command, used by women",
+      "explanation": "The source lists this usage (#176) for の (no): At the end of a sentence to express a question or soften a command, used by women.",
+      "pattern": "… + の",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "no-possession",
+        "no-apposition",
+        "no-usage-069",
+        "no-usage-072",
+        "no-usage-073"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "wa-ending-usage-177",
+      "meaning": "At the end of a sentence to soften a statement, used by women",
+      "explanation": "The source lists this usage (#177) for わ (wa): At the end of a sentence to soften a statement, used by women.",
+      "pattern": "… + わ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "sa-usage-178",
+      "meaning": "At the end of a sentence to indicate slight emphasis, used by men",
+      "explanation": "The source lists this usage (#178) for さ (sa): At the end of a sentence to indicate slight emphasis, used by men.",
+      "pattern": "… + さ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "koto-usage-179",
+      "meaning": "At the end of a sentence to indicate emotion, used by women",
+      "explanation": "The source lists this usage (#179) for こと (koto): At the end of a sentence to indicate emotion, used by women.",
+      "pattern": "… + こと",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "koto-usage-180"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "koto-usage-180",
+      "meaning": "At the end of a sentence to express a suggestion or invitation, used by women",
+      "explanation": "The source lists this usage (#180) for こと (koto): At the end of a sentence to express a suggestion or invitation, used by women.",
+      "pattern": "… + こと",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "koto-usage-179"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "mono-usage-181",
+      "meaning": "At the end of a sentence to express a reason or excuse",
+      "explanation": "The source lists this usage (#181) for もの (mono): At the end of a sentence to express a reason or excuse.",
+      "pattern": "… + もの",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "cause_reason"
+      ]
+    },
+    {
+      "id": "tomo-usage-182",
+      "meaning": "At the end of a sentence to express an assertion",
+      "explanation": "The source lists this usage (#182) for とも (tomo): At the end of a sentence to express an assertion.",
+      "pattern": "… + とも",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tomo-usage-100",
+        "tomo-usage-106",
+        "tomo-usage-116",
+        "tomo-usage-153"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "monoka-usage-183",
+      "meaning": "At the end of a sentence to express a negative determination, used by men",
+      "explanation": "The source lists this usage (#183) for ものか (monoka): At the end of a sentence to express a negative determination, used by men.",
+      "pattern": "… + ものか",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "ya-usage-184",
+      "meaning": "At the end of a sentence to soften a statement, request or suggestion, used by men",
+      "explanation": "The source lists this usage (#184) for や (ya): At the end of a sentence to soften a statement, request or suggestion, used by men.",
+      "pattern": "… + や",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "ya-partial-list"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "tara-usage-185",
+      "meaning": "At the end of a sentence to indicate a suggestion or proposal",
+      "explanation": "The source lists this usage (#185) for たら (tara): At the end of a sentence to indicate a suggestion or proposal.",
+      "pattern": "… + たら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "tara-condition",
+        "tara-usage-081"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "yara-usage-186",
+      "meaning": "At the end of a sentence to indicate a rhetorical question with a negative implication",
+      "explanation": "The source lists this usage (#186) for やら (yara): At the end of a sentence to indicate a rhetorical question with a negative implication.",
+      "pattern": "… + やら",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [
+        "yara-usage-113",
+        "yara-usage-114"
+      ],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "ze-usage-187",
+      "meaning": "At the end of a sentence to add for to sentence, used by men",
+      "explanation": "The source lists this usage (#187) for ぜ (ze): At the end of a sentence to add for to sentence, used by men.",
+      "pattern": "… + ぜ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "sentence_ending"
+      ]
+    },
+    {
+      "id": "zo-usage-188",
+      "meaning": "At the end of a sentence to add force to a sentence or to express a question to oneself",
+      "explanation": "The source lists this usage (#188) for ぞ (zo): At the end of a sentence to add force to a sentence or to express a question to oneself.",
+      "pattern": "… + ぞ",
+      "examples": [],
+      "jlptLevel": null,
+      "grammarPointIds": [],
+      "relatedUsageIds": [],
+      "tags": [
+        "sentence_ending"
+      ]
+    }
+  ],
+  "sourceEntries": [
+    {
+      "id": "nihon-188-particles:1",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 1,
+      "sourcePage": 1,
+      "particleId": "particle-wa",
+      "usageId": "wa-topic",
+      "originalParticleText": "は (wa)",
+      "originalMeaning": "Indicantes the topic of a sentence",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:2",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 2,
+      "sourcePage": 1,
+      "particleId": "particle-ka",
+      "usageId": "ka-question",
+      "originalParticleText": "か (ka)",
+      "originalMeaning": "At the end of a sentence indicating a question",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:3",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 3,
+      "sourcePage": 1,
+      "particleId": "particle-ga",
+      "usageId": "ga-subject",
+      "originalParticleText": "が (ga)",
+      "originalMeaning": "Indicates the subject of a sentence",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:4",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 4,
+      "sourcePage": 1,
+      "particleId": "particle-ni",
+      "usageId": "ni-location",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Indicates a location",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:5",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 5,
+      "sourcePage": 1,
+      "particleId": "particle-no",
+      "usageId": "no-possession",
+      "originalParticleText": "の (no)",
+      "originalMeaning": "Indicates possession",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:6",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 6,
+      "sourcePage": 1,
+      "particleId": "particle-wa",
+      "usageId": "wa-contrast",
+      "originalParticleText": "は (wa)",
+      "originalMeaning": "Indicates a contrast between 2 items",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:7",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 7,
+      "sourcePage": 1,
+      "particleId": "particle-ni",
+      "usageId": "ni-time",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Indicates time or frequency",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:8",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 8,
+      "sourcePage": 1,
+      "particleId": "particle-e",
+      "usageId": "e-direction",
+      "originalParticleText": "へ (e)",
+      "originalMeaning": "Indicates direction",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:9",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 9,
+      "sourcePage": 1,
+      "particleId": "particle-wo",
+      "usageId": "wo-object",
+      "originalParticleText": "を (wo/o)",
+      "originalMeaning": "Indicates the direct object of a verb",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:10",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 10,
+      "sourcePage": 1,
+      "particleId": "particle-to",
+      "usageId": "to-connect",
+      "originalParticleText": "と (to)",
+      "originalMeaning": "Used to connect and list up multiple items",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:11",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 11,
+      "sourcePage": 1,
+      "particleId": "particle-ya",
+      "usageId": "ya-partial-list",
+      "originalParticleText": "や (ya)",
+      "originalMeaning": "Used to connect and partially list up multiple items",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:12",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 12,
+      "sourcePage": 1,
+      "particleId": "particle-nado",
+      "usageId": "nado-partial-list",
+      "originalParticleText": "など (nado)",
+      "originalMeaning": "Used with や (ya) to partially list up multiple items",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:13",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 13,
+      "sourcePage": 1,
+      "particleId": "particle-mo",
+      "usageId": "mo-also",
+      "originalParticleText": "も (mo)",
+      "originalMeaning": "means “too”, “either”, “also”",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:14",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 14,
+      "sourcePage": 1,
+      "particleId": "particle-mo",
+      "usageId": "mo-both-neither",
+      "originalParticleText": "も (mo)",
+      "originalMeaning": "both…and…, neither…nor…",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:15",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 15,
+      "sourcePage": 1,
+      "particleId": "particle-ni",
+      "usageId": "ni-indirect-object",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Indicates the indirect object of a verb",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:16",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 16,
+      "sourcePage": 1,
+      "particleId": "particle-ni",
+      "usageId": "ni-surface",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Indicates the surface of a object where some action takes place",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:17",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 17,
+      "sourcePage": 1,
+      "particleId": "particle-de",
+      "usageId": "de-location",
+      "originalParticleText": "で (de)",
+      "originalMeaning": "Indicates the location of an action",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:18",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 18,
+      "sourcePage": 1,
+      "particleId": "particle-to",
+      "usageId": "to-together",
+      "originalParticleText": "と (to)",
+      "originalMeaning": "Together with",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:19",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 19,
+      "sourcePage": 1,
+      "particleId": "particle-no",
+      "usageId": "no-apposition",
+      "originalParticleText": "の (no)",
+      "originalMeaning": "Indicates an apposition",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:20",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 20,
+      "sourcePage": 1,
+      "particleId": "particle-kara",
+      "usageId": "kara-starting-point",
+      "originalParticleText": "から (kara)",
+      "originalMeaning": "Indicates a starting point in time or place",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:21",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 21,
+      "sourcePage": 1,
+      "particleId": "particle-yori",
+      "usageId": "yori-starting-point",
+      "originalParticleText": "より (yori)",
+      "originalMeaning": "Indicates a starting point in time or place but more formal than kara (20)",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:22",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 22,
+      "sourcePage": 1,
+      "particleId": "particle-made",
+      "usageId": "made-limit",
+      "originalParticleText": "まで (made)",
+      "originalMeaning": "Indicates a limit on time, space or quantity",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:23",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 23,
+      "sourcePage": 1,
+      "particleId": "particle-kurai",
+      "usageId": "kurai-usage-023",
+      "originalParticleText": "くらい (kurai)",
+      "originalMeaning": "Indicates an approximate amount",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:24",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 24,
+      "sourcePage": 1,
+      "particleId": "particle-hodo",
+      "usageId": "hodo-usage-024",
+      "originalParticleText": "ほど (hodo)",
+      "originalMeaning": "Indicates an approximate amount",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:25",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 25,
+      "sourcePage": 1,
+      "particleId": "particle-bakari",
+      "usageId": "bakari-usage-025",
+      "originalParticleText": "ばかり(bakari)",
+      "originalMeaning": "Indicates an approximate amount",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:26",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 26,
+      "sourcePage": 1,
+      "particleId": "particle-de",
+      "usageId": "de-means",
+      "originalParticleText": "で (de)",
+      "originalMeaning": "Indicates a means or material",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:27",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 27,
+      "sourcePage": 1,
+      "particleId": "particle-ka",
+      "usageId": "ka-choice",
+      "originalParticleText": "か (ka)",
+      "originalMeaning": "Indicates a choice or alternative",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:28",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 28,
+      "sourcePage": 2,
+      "particleId": "particle-wo",
+      "usageId": "wo-departure",
+      "originalParticleText": "を (wo/o)",
+      "originalMeaning": "Indicates a point of departure",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:29",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 29,
+      "sourcePage": 2,
+      "particleId": "particle-wo",
+      "usageId": "wo-route",
+      "originalParticleText": "を (wo/o)",
+      "originalMeaning": "Indicates a route of a movement/motion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:30",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 30,
+      "sourcePage": 2,
+      "particleId": "particle-ni",
+      "usageId": "ni-arrival",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Indicates a point of arrival",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:31",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 31,
+      "sourcePage": 2,
+      "particleId": "particle-ni",
+      "usageId": "ni-entering",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Indicates an entering motion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:32",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 32,
+      "sourcePage": 2,
+      "particleId": "particle-ni",
+      "usageId": "ni-purpose",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Used together with a verb to express a purpose",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:33",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 33,
+      "sourcePage": 2,
+      "particleId": "particle-to",
+      "usageId": "to-quotation",
+      "originalParticleText": "と (to)",
+      "originalMeaning": "Used when quoting someone",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:34",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 34,
+      "sourcePage": 2,
+      "particleId": "particle-to-iu",
+      "usageId": "to-iu-usage-034",
+      "originalParticleText": "と いう (to iu)",
+      "originalMeaning": "Indicates the name of something",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:35",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 35,
+      "sourcePage": 2,
+      "particleId": "particle-toka",
+      "usageId": "toka-usage-035",
+      "originalParticleText": "とか (toka)",
+      "originalMeaning": "“something like”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:36",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 36,
+      "sourcePage": 2,
+      "particleId": "particle-de",
+      "usageId": "de-usage-036",
+      "originalParticleText": "で (de)",
+      "originalMeaning": "Indicates a limit or scope",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:37",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 37,
+      "sourcePage": 2,
+      "particleId": "particle-to",
+      "usageId": "to-comparison",
+      "originalParticleText": "と (to)",
+      "originalMeaning": "Indicates a comparison",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:38",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 38,
+      "sourcePage": 2,
+      "particleId": "particle-yori",
+      "usageId": "yori-comparison",
+      "originalParticleText": "より (yori)",
+      "originalMeaning": "Indicates a comparison",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:39",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 39,
+      "sourcePage": 2,
+      "particleId": "particle-yori",
+      "usageId": "yori-usage-039",
+      "originalParticleText": "より (yori)",
+      "originalMeaning": "Indicates superlative",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:40",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 40,
+      "sourcePage": 2,
+      "particleId": "particle-kurai",
+      "usageId": "kurai-usage-040",
+      "originalParticleText": "くらい (kurai)",
+      "originalMeaning": "Indicates a comparison",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:41",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 41,
+      "sourcePage": 2,
+      "particleId": "particle-hodo",
+      "usageId": "hodo-usage-041",
+      "originalParticleText": "ほど (hodo)",
+      "originalMeaning": "Indicates a comparison in a negative sentence",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:42",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 42,
+      "sourcePage": 2,
+      "particleId": "particle-ka",
+      "usageId": "ka-usage-042",
+      "originalParticleText": "か (ka)",
+      "originalMeaning": "someone, something",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:43",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 43,
+      "sourcePage": 2,
+      "particleId": "particle-mo",
+      "usageId": "mo-usage-043",
+      "originalParticleText": "も (mo)",
+      "originalMeaning": "“nothing”, nobody”, nowhere” if used with an interrogative word",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:44",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 44,
+      "sourcePage": 2,
+      "particleId": "particle-ni",
+      "usageId": "ni-usage-044",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Used with a verb to indicate a change or choice",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:45",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 45,
+      "sourcePage": 2,
+      "particleId": "particle-wo",
+      "usageId": "wo-usage-045",
+      "originalParticleText": "をする (wo/o suru)",
+      "originalMeaning": "Expresses an occupation or position",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:46",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 46,
+      "sourcePage": 2,
+      "particleId": "particle-demo",
+      "usageId": "demo-usage-046",
+      "originalParticleText": "でも (demo)",
+      "originalMeaning": "Indicates emphasis",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:47",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 47,
+      "sourcePage": 2,
+      "particleId": "particle-demo",
+      "usageId": "demo-usage-047",
+      "originalParticleText": "でも (demo)",
+      "originalMeaning": "Together with an interrogative word it means “anything”, “anyone”, any time”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:48",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 48,
+      "sourcePage": 2,
+      "particleId": "particle-de",
+      "usageId": "de-cause",
+      "originalParticleText": "で (de)",
+      "originalMeaning": "Indicates a cause or a reason",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:49",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 49,
+      "sourcePage": 2,
+      "particleId": "particle-kara",
+      "usageId": "kara-usage-049",
+      "originalParticleText": "から (kara)",
+      "originalMeaning": "Indicates a source such as a giver, a cause or material",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:50",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 50,
+      "sourcePage": 2,
+      "particleId": "particle-ni",
+      "usageId": "ni-usage-050",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Indicates a person who gives something or who provides a service",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:51",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 51,
+      "sourcePage": 2,
+      "particleId": "particle-wa-ga",
+      "usageId": "wa-ga-usage-051",
+      "originalParticleText": "は (wa) + が (ga)",
+      "originalMeaning": "Indicates the relation between an object / subjects and a verb or adjective",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:52",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 52,
+      "sourcePage": 2,
+      "particleId": "particle-ga",
+      "usageId": "ga-but",
+      "originalParticleText": "が (ga)",
+      "originalMeaning": "Connects two sentences with the meaning “but…”",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:53",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 53,
+      "sourcePage": 2,
+      "particleId": "particle-wo",
+      "usageId": "wo-usage-053",
+      "originalParticleText": "を (wo/o)",
+      "originalMeaning": "Used with an verb expressing emotions, it indicates the cause of this emotion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:54",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 54,
+      "sourcePage": 2,
+      "particleId": "particle-de",
+      "usageId": "de-usage-054",
+      "originalParticleText": "で (de)",
+      "originalMeaning": "Indicates a state / condition of something",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:55",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 55,
+      "sourcePage": 3,
+      "particleId": "particle-de",
+      "usageId": "de-usage-055",
+      "originalParticleText": "で (de)",
+      "originalMeaning": "Limits numbers",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:56",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 56,
+      "sourcePage": 3,
+      "particleId": "particle-dake",
+      "usageId": "dake-limit",
+      "originalParticleText": "だけ (dake)",
+      "originalMeaning": "Indicates a limit on things or amounts",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:57",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 57,
+      "sourcePage": 3,
+      "particleId": "particle-dake",
+      "usageId": "dake-usage-057",
+      "originalParticleText": "だけ (dake)",
+      "originalMeaning": "Indicates a limit on an action or state",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:58",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 58,
+      "sourcePage": 3,
+      "particleId": "particle-de",
+      "usageId": "de-usage-058",
+      "originalParticleText": "で (de)",
+      "originalMeaning": "Indicates the time of completion or expiration of something",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:59",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 59,
+      "sourcePage": 3,
+      "particleId": "particle-demo",
+      "usageId": "demo-usage-059",
+      "originalParticleText": "でも (demo)",
+      "originalMeaning": "Following a noun, means “or something like this”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:60",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 60,
+      "sourcePage": 3,
+      "particleId": "particle-mo",
+      "usageId": "mo-usage-060",
+      "originalParticleText": "も (mo)",
+      "originalMeaning": "Emphasizes in a positive or negative way",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:61",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 61,
+      "sourcePage": 3,
+      "particleId": "particle-demo",
+      "usageId": "demo-usage-061",
+      "originalParticleText": "でも (demo)",
+      "originalMeaning": "Indicates two or more items as an example of a larger list",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:62",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 62,
+      "sourcePage": 3,
+      "particleId": "particle-bakari",
+      "usageId": "bakari-usage-062",
+      "originalParticleText": "ばかり (bakari)",
+      "originalMeaning": "Indicates that an item, state or action is a single one",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:63",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 63,
+      "sourcePage": 3,
+      "particleId": "particle-bakari",
+      "usageId": "bakari-usage-063",
+      "originalParticleText": "ばかり (bakari)",
+      "originalMeaning": "Indicates an action was just completed",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:64",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 64,
+      "sourcePage": 3,
+      "particleId": "particle-tokoro",
+      "usageId": "tokoro-usage-064",
+      "originalParticleText": "ところ (tokoro)",
+      "originalMeaning": "Indicates that an action takes place, just took place or is about to take place",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:65",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 65,
+      "sourcePage": 3,
+      "particleId": "particle-ga",
+      "usageId": "ga-usage-065",
+      "originalParticleText": "が (ga)",
+      "originalMeaning": "Indicates the subject of subordinate clause when it is different from the subject of the main clause",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:66",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 66,
+      "sourcePage": 3,
+      "particleId": "particle-kara",
+      "usageId": "kara-usage-066",
+      "originalParticleText": "から (kara)",
+      "originalMeaning": "conjunction meaning “after” or “since”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:67",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 67,
+      "sourcePage": 3,
+      "particleId": "particle-nagara",
+      "usageId": "nagara-simultaneous",
+      "originalParticleText": "ながら (nagara)",
+      "originalMeaning": "Indicates that an action is happening simultaneously",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:68",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 68,
+      "sourcePage": 3,
+      "particleId": "particle-ga",
+      "usageId": "ga-usage-068",
+      "originalParticleText": "が (ga)",
+      "originalMeaning": "Indicates the subject of a relative clause",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:69",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 69,
+      "sourcePage": 3,
+      "particleId": "particle-no",
+      "usageId": "no-usage-069",
+      "originalParticleText": "の (no)",
+      "originalMeaning": "Indicates the subject of a relative clause",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:70",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 70,
+      "sourcePage": 3,
+      "particleId": "particle-kara",
+      "usageId": "kara-reason",
+      "originalParticleText": "から (kara)",
+      "originalMeaning": "Used as a conjunction and indicates a cause or reason",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:71",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 71,
+      "sourcePage": 3,
+      "particleId": "particle-node",
+      "usageId": "node-reason",
+      "originalParticleText": "ので (node)",
+      "originalMeaning": "Indicates a strong reason",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:72",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 72,
+      "sourcePage": 3,
+      "particleId": "particle-no",
+      "usageId": "no-usage-072",
+      "originalParticleText": "の (no)",
+      "originalMeaning": "Indicates a modified pronoun",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:73",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 73,
+      "sourcePage": 3,
+      "particleId": "particle-no",
+      "usageId": "no-usage-073",
+      "originalParticleText": "の (no)",
+      "originalMeaning": "Used to nominalize verbs & sentences",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:74",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 74,
+      "sourcePage": 3,
+      "particleId": "particle-nara",
+      "usageId": "nara-condition",
+      "originalParticleText": "なら (nara)",
+      "originalMeaning": "Used as a conjunction and indicates a supposition or condition",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:75",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 75,
+      "sourcePage": 3,
+      "particleId": "particle-nara",
+      "usageId": "nara-usage-075",
+      "originalParticleText": "なら (nara)",
+      "originalMeaning": "Indicates a topics and is used as an alternative to wa (No.1)",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:76",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 76,
+      "sourcePage": 3,
+      "particleId": "particle-to",
+      "usageId": "to-usage-076",
+      "originalParticleText": "と (to)",
+      "originalMeaning": "Indicates a condition that results in an inevitable outcome",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:77",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 77,
+      "sourcePage": 3,
+      "particleId": "particle-ba",
+      "usageId": "ba-condition",
+      "originalParticleText": "ば (ba)",
+      "originalMeaning": "Used as a conjunction to express a probable results",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:78",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 78,
+      "sourcePage": 3,
+      "particleId": "particle-ba-ii",
+      "usageId": "ba-ii-usage-078",
+      "originalParticleText": "ばいい (ba)",
+      "originalMeaning": "“all you have to do…”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:79",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 79,
+      "sourcePage": 3,
+      "particleId": "particle-ba",
+      "usageId": "ba-usage-079",
+      "originalParticleText": "ば (ba)",
+      "originalMeaning": "Used to enumerate two or more actions or states",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:80",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 80,
+      "sourcePage": 3,
+      "particleId": "particle-tara",
+      "usageId": "tara-condition",
+      "originalParticleText": "たら (tara)",
+      "originalMeaning": "Used as a conjunction, indicates a supposition or condition",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:81",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 81,
+      "sourcePage": 3,
+      "particleId": "particle-tara",
+      "usageId": "tara-usage-081",
+      "originalParticleText": "たら (tara)",
+      "originalMeaning": "Used as a conjunction to indicate that one action takes place before the action described in the main sentence",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:82",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 82,
+      "sourcePage": 4,
+      "particleId": "particle-tokoro",
+      "usageId": "tokoro-usage-082",
+      "originalParticleText": "ところ (tokoro)",
+      "originalMeaning": "Used as a conjunction to indicate a condition that brings about a discovery",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:83",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 83,
+      "sourcePage": 4,
+      "particleId": "particle-temo",
+      "usageId": "temo-even-if",
+      "originalParticleText": "ても (temo)",
+      "originalMeaning": "a conjunction meaning “even if”",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:84",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 84,
+      "sourcePage": 4,
+      "particleId": "particle-temo",
+      "usageId": "temo-usage-084",
+      "originalParticleText": "ても (temo)",
+      "originalMeaning": "Used with a set of contrasting verbs and adjectives",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:85",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 85,
+      "sourcePage": 4,
+      "particleId": "particle-temo",
+      "usageId": "temo-usage-085",
+      "originalParticleText": "ても (temo)",
+      "originalMeaning": "Together with an interrogative word it means “no matter what/where/who”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:86",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 86,
+      "sourcePage": 4,
+      "particleId": "particle-tewa",
+      "usageId": "tewa-usage-086",
+      "originalParticleText": "ては (tewa)",
+      "originalMeaning": "Indicates a condition which will bring a negative conclusion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:87",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 87,
+      "sourcePage": 4,
+      "particleId": "particle-nomi",
+      "usageId": "nomi-usage-087",
+      "originalParticleText": "のみ (nomi)",
+      "originalMeaning": "Indicates a limit (similar to だけ　dake)",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:88",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 88,
+      "sourcePage": 4,
+      "particleId": "particle-made",
+      "usageId": "made-usage-088",
+      "originalParticleText": "まで (made)",
+      "originalMeaning": "“even”, used to emphasize",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:89",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 89,
+      "sourcePage": 4,
+      "particleId": "particle-sae",
+      "usageId": "sae-usage-089",
+      "originalParticleText": "さえ (sae)",
+      "originalMeaning": "“even”, used to emphasize",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:90",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 90,
+      "sourcePage": 4,
+      "particleId": "particle-sae",
+      "usageId": "sae-usage-090",
+      "originalParticleText": "さえ (sae)",
+      "originalMeaning": "“if only” or “as long as”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:91",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 91,
+      "sourcePage": 4,
+      "particleId": "particle-noni",
+      "usageId": "noni-although",
+      "originalParticleText": "のに (noni)",
+      "originalMeaning": "“although”, “in spite of the fact that”",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:92",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 92,
+      "sourcePage": 4,
+      "particleId": "particle-nagara",
+      "usageId": "nagara-usage-092",
+      "originalParticleText": "ながら (nagara)",
+      "originalMeaning": "“although”, “though”, “but”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:93",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 93,
+      "sourcePage": 4,
+      "particleId": "particle-toka",
+      "usageId": "toka-usage-093",
+      "originalParticleText": "とか (toka)",
+      "originalMeaning": "Indicates that a list of two ore more things or actions is not exhaustive",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:94",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 94,
+      "sourcePage": 4,
+      "particleId": "particle-tari",
+      "usageId": "tari-actions",
+      "originalParticleText": "たり (tari)",
+      "originalMeaning": "List of two or more actions in no particular sequence",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:95",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 95,
+      "sourcePage": 4,
+      "particleId": "particle-tari",
+      "usageId": "tari-usage-095",
+      "originalParticleText": "たり (tari)",
+      "originalMeaning": "Indicates actions or states that alternate",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:96",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 96,
+      "sourcePage": 4,
+      "particleId": "particle-noni",
+      "usageId": "noni-usage-096",
+      "originalParticleText": "のに (noni)",
+      "originalMeaning": "Indicates a purpose or function",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:97",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 97,
+      "sourcePage": 4,
+      "particleId": "particle-no-desu",
+      "usageId": "no-desu-usage-097",
+      "originalParticleText": "のです (no desu)",
+      "originalMeaning": "Asks for an explanation or reason",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:98",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 98,
+      "sourcePage": 4,
+      "particleId": "particle-kiri",
+      "usageId": "kiri-usage-098",
+      "originalParticleText": "きり (kiri)",
+      "originalMeaning": "Indicates a limit to an amount",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:99",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 99,
+      "sourcePage": 4,
+      "particleId": "particle-kiri",
+      "usageId": "kiri-usage-099",
+      "originalParticleText": "きり (kiri)",
+      "originalMeaning": "Indicates the last time a certain incident occured",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:100",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 100,
+      "sourcePage": 4,
+      "particleId": "particle-tomo",
+      "usageId": "tomo-usage-100",
+      "originalParticleText": "とも (tomo)",
+      "originalMeaning": "Used with numbers and counters to mean “both” or “all”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:101",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 101,
+      "sourcePage": 4,
+      "particleId": "particle-nagara",
+      "usageId": "nagara-usage-101",
+      "originalParticleText": "ながら (nagara)",
+      "originalMeaning": "Used with numbers and counters to mean “both” or “all”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:102",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 102,
+      "sourcePage": 4,
+      "particleId": "particle-shika",
+      "usageId": "shika-only",
+      "originalParticleText": "しか (shika)",
+      "originalMeaning": "Used with a negative verb to indicate limits on conditions or quantities meaning “only”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:103",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 103,
+      "sourcePage": 4,
+      "particleId": "particle-shika-nai",
+      "usageId": "shika-nai-usage-103",
+      "originalParticleText": "しかない (shika nai)",
+      "originalMeaning": "used with a verb meaning “to have no choice but to”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:104",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 104,
+      "sourcePage": 4,
+      "particleId": "particle-shi",
+      "usageId": "shi-usage-104",
+      "originalParticleText": "し (shi)",
+      "originalMeaning": "Used as a conjunction, indicating two or more actions or states",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:105",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 105,
+      "sourcePage": 4,
+      "particleId": "particle-shi",
+      "usageId": "shi-reason",
+      "originalParticleText": "し (shi)",
+      "originalMeaning": "Used as a conjunction indicating a reason",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:106",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 106,
+      "sourcePage": 4,
+      "particleId": "particle-tomo",
+      "usageId": "tomo-usage-106",
+      "originalParticleText": "とも (tomo)",
+      "originalMeaning": "Indicates inclusion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:107",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 107,
+      "sourcePage": 4,
+      "particleId": "particle-ni",
+      "usageId": "ni-usage-107",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Indicates the one acting or the one acted upon",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:108",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 108,
+      "sourcePage": 4,
+      "particleId": "particle-ka",
+      "usageId": "ka-usage-108",
+      "originalParticleText": "か (ka)",
+      "originalMeaning": "Indicates uncertainty about something",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:109",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 109,
+      "sourcePage": 5,
+      "particleId": "particle-ka",
+      "usageId": "ka-usage-109",
+      "originalParticleText": "か (ka)",
+      "originalMeaning": "Indicates uncertainty about a state or reason",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:110",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 110,
+      "sourcePage": 5,
+      "particleId": "particle-dano",
+      "usageId": "dano-usage-110",
+      "originalParticleText": "だの (dano)",
+      "originalMeaning": "Indicates two or more items or actions of a longer list (similar to toka とか)",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:111",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 111,
+      "sourcePage": 5,
+      "particleId": "particle-dano",
+      "usageId": "dano-usage-111",
+      "originalParticleText": "だの (dano)",
+      "originalMeaning": "Indicates a pair of opposite actions or states",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:112",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 112,
+      "sourcePage": 5,
+      "particleId": "particle-nado",
+      "usageId": "nado-usage-112",
+      "originalParticleText": "など (nado)",
+      "originalMeaning": "“something to the effect”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:113",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 113,
+      "sourcePage": 5,
+      "particleId": "particle-yara",
+      "usageId": "yara-usage-113",
+      "originalParticleText": "やら (yara)",
+      "originalMeaning": "Indicates two or more items of a longer list",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:114",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 114,
+      "sourcePage": 5,
+      "particleId": "particle-yara",
+      "usageId": "yara-usage-114",
+      "originalParticleText": "やら (yara)",
+      "originalMeaning": "Indicates uncertainty",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:115",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 115,
+      "sourcePage": 5,
+      "particleId": "particle-temo",
+      "usageId": "temo-usage-115",
+      "originalParticleText": "ても (temo)",
+      "originalMeaning": "Indicates an approximate limit with the meaning of “at the most”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:116",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 116,
+      "sourcePage": 5,
+      "particleId": "particle-tomo",
+      "usageId": "tomo-usage-116",
+      "originalParticleText": "とも (tomo)",
+      "originalMeaning": "Indicates an approximate maximum or minimum",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:117",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 117,
+      "sourcePage": 5,
+      "particleId": "particle-wa",
+      "usageId": "wa-usage-117",
+      "originalParticleText": "は (wa)",
+      "originalMeaning": "Indicates that a number is the higher or lowest limit",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:118",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 118,
+      "sourcePage": 5,
+      "particleId": "particle-to",
+      "usageId": "to-usage-118",
+      "originalParticleText": "と (to)",
+      "originalMeaning": "Emphasizes a number in a negative sentence",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:119",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 119,
+      "sourcePage": 5,
+      "particleId": "particle-nado",
+      "usageId": "nado-usage-119",
+      "originalParticleText": "など (nado)",
+      "originalMeaning": "Indicates examples",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:120",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 120,
+      "sourcePage": 5,
+      "particleId": "particle-kurai",
+      "usageId": "kurai-usage-120",
+      "originalParticleText": "くらい (kurai)",
+      "originalMeaning": "Expresses an extent of an action or condition similar to ぐらい gurai",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:121",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 121,
+      "sourcePage": 5,
+      "particleId": "particle-hodo",
+      "usageId": "hodo-usage-121",
+      "originalParticleText": "ほど (hodo)",
+      "originalMeaning": "Indicates the extend of an action or condition",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:122",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 122,
+      "sourcePage": 5,
+      "particleId": "particle-hodo",
+      "usageId": "hodo-usage-122",
+      "originalParticleText": "ほど (hodo)",
+      "originalMeaning": "“the more… the more…”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:123",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 123,
+      "sourcePage": 5,
+      "particleId": "particle-dake",
+      "usageId": "dake-usage-123",
+      "originalParticleText": "だけ (dake)",
+      "originalMeaning": "“as… as…”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:124",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 124,
+      "sourcePage": 5,
+      "particleId": "particle-dake",
+      "usageId": "dake-usage-124",
+      "originalParticleText": "だけ (dake)",
+      "originalMeaning": "“the more… the more…”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:125",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 125,
+      "sourcePage": 5,
+      "particleId": "particle-to",
+      "usageId": "to-usage-125",
+      "originalParticleText": "と (to)",
+      "originalMeaning": "“about to do something”, “trying to do something”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:126",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 126,
+      "sourcePage": 5,
+      "particleId": "particle-to",
+      "usageId": "to-usage-126",
+      "originalParticleText": "と (to)",
+      "originalMeaning": "“even if…”, “whether… or not”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:127",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 127,
+      "sourcePage": 5,
+      "particleId": "particle-nari",
+      "usageId": "nari-usage-127",
+      "originalParticleText": "なり (nari)",
+      "originalMeaning": "“either…”, “whether…or”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:128",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 128,
+      "sourcePage": 5,
+      "particleId": "particle-nari",
+      "usageId": "nari-usage-128",
+      "originalParticleText": "なり (nari)",
+      "originalMeaning": "“anything”, “anyone”, “any time”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:129",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 129,
+      "sourcePage": 5,
+      "particleId": "particle-koso",
+      "usageId": "koso-usage-129",
+      "originalParticleText": "こそ (koso)",
+      "originalMeaning": "Emphasizes the word preceding it",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:130",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 130,
+      "sourcePage": 5,
+      "particleId": "particle-koso",
+      "usageId": "koso-usage-130",
+      "originalParticleText": "こそ (koso)",
+      "originalMeaning": "Emphasizes a reason or a cause",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:131",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 131,
+      "sourcePage": 5,
+      "particleId": "particle-tewa",
+      "usageId": "tewa-usage-131",
+      "originalParticleText": "ては (tewa)",
+      "originalMeaning": "Expresses repetition of an action",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:132",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 132,
+      "sourcePage": 5,
+      "particleId": "particle-ni",
+      "usageId": "ni-usage-132",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Joins two or more nouns to indicate a list of items",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:133",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 133,
+      "sourcePage": 5,
+      "particleId": "particle-ni",
+      "usageId": "ni-usage-133",
+      "originalParticleText": "に (ni)",
+      "originalMeaning": "Connects two or more items to indicate a matching or a contrast",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:134",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 134,
+      "sourcePage": 5,
+      "particleId": "particle-ni-shite-wa",
+      "usageId": "ni-shite-wa-usage-134",
+      "originalParticleText": "にしては (ni shite wa)",
+      "originalMeaning": "Indicates a generally agreed upon standard",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:135",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 135,
+      "sourcePage": 5,
+      "particleId": "particle-ni-totte",
+      "usageId": "ni-totte-usage-135",
+      "originalParticleText": "にとって (ni totte)",
+      "originalMeaning": "Indicates an effect or value of a person or thing",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:136",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 136,
+      "sourcePage": 6,
+      "particleId": "particle-ni-tsuite",
+      "usageId": "ni-tsuite-usage-136",
+      "originalParticleText": "について (ni tsuite)",
+      "originalMeaning": "“about”, “concerning” something or someone",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:137",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 137,
+      "sourcePage": 6,
+      "particleId": "particle-tomo-tomo",
+      "usageId": "tomo-tomo-usage-137",
+      "originalParticleText": "とも…とも (tomo… tomo)",
+      "originalMeaning": "“can’t say whether… or…”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:138",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 138,
+      "sourcePage": 6,
+      "particleId": "particle-ga",
+      "usageId": "ga-usage-138",
+      "originalParticleText": "が (ga)",
+      "originalMeaning": "“even if”, “whether… or not”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:139",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 139,
+      "sourcePage": 6,
+      "particleId": "particle-wa",
+      "usageId": "wa-usage-139",
+      "originalParticleText": "は (wa)",
+      "originalMeaning": "Emphasizes contrasting elements",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:140",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 140,
+      "sourcePage": 6,
+      "particleId": "particle-toshite",
+      "usageId": "toshite-usage-140",
+      "originalParticleText": "として (toshite)",
+      "originalMeaning": "Indicates status, capacity or function",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:141",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 141,
+      "sourcePage": 6,
+      "particleId": "particle-toshite",
+      "usageId": "toshite-usage-141",
+      "originalParticleText": "として (toshite)",
+      "originalMeaning": "Provides emphasis in a negative sentence",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:142",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 142,
+      "sourcePage": 6,
+      "particleId": "particle-bakari-de-naku",
+      "usageId": "bakari-de-naku-usage-142",
+      "originalParticleText": "ばかりでなく(bakari de naku)",
+      "originalMeaning": "“not only… but also”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:143",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 143,
+      "sourcePage": 6,
+      "particleId": "particle-dake",
+      "usageId": "dake-usage-143",
+      "originalParticleText": "だけ (dake)",
+      "originalMeaning": "used to express “not only…but also”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:144",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 144,
+      "sourcePage": 6,
+      "particleId": "particle-nomi",
+      "usageId": "nomi-usage-144",
+      "originalParticleText": "のみ (nomi)",
+      "originalMeaning": "used to express “not only…but also”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:145",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 145,
+      "sourcePage": 6,
+      "particleId": "particle-nari",
+      "usageId": "nari-usage-145",
+      "originalParticleText": "なり (nari)",
+      "originalMeaning": "“as soon as”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:146",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 146,
+      "sourcePage": 6,
+      "particleId": "particle-ga-hayai-ka",
+      "usageId": "ga-hayai-ka-usage-146",
+      "originalParticleText": "がはやいか (ga hayai ka)",
+      "originalMeaning": "“as soon as”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:147",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 147,
+      "sourcePage": 6,
+      "particleId": "particle-ya-ina-ya",
+      "usageId": "ya-ina-ya-usage-147",
+      "originalParticleText": "やいなや (ya ina ya)",
+      "originalMeaning": "“as soon as”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:148",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 148,
+      "sourcePage": 6,
+      "particleId": "particle-ka-nai-uchi-ni",
+      "usageId": "ka-nai-uchi-ni-usage-148",
+      "originalParticleText": "かないうちに (ka nai uchi ni)",
+      "originalMeaning": "“no sooner had”, “hardly had”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:149",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 149,
+      "sourcePage": 6,
+      "particleId": "particle-bakari",
+      "usageId": "bakari-usage-149",
+      "originalParticleText": "ばかり (bakari)",
+      "originalMeaning": "Indicates the only action left to do",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:150",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 150,
+      "sourcePage": 6,
+      "particleId": "particle-bakari-ni",
+      "usageId": "bakari-ni-usage-150",
+      "originalParticleText": "ばかりに (bakari ni)",
+      "originalMeaning": "Emphasizes a reason or cause",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:151",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 151,
+      "sourcePage": 6,
+      "particleId": "particle-sura",
+      "usageId": "sura-usage-151",
+      "originalParticleText": "すら (sura)",
+      "originalMeaning": "Emphasizes in the meaning of “even”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:152",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 152,
+      "sourcePage": 6,
+      "particleId": "particle-nado",
+      "usageId": "nado-usage-152",
+      "originalParticleText": "など (nado)",
+      "originalMeaning": "Expresses a humble attitude towards an item",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:153",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 153,
+      "sourcePage": 6,
+      "particleId": "particle-tomo",
+      "usageId": "tomo-usage-153",
+      "originalParticleText": "とも (tomo)",
+      "originalMeaning": "“no matter what”, “even if”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:154",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 154,
+      "sourcePage": 6,
+      "particleId": "particle-tomo-aroo-hito",
+      "usageId": "tomo-aroo-hito-usage-154",
+      "originalParticleText": "ともあろうひと (tomo aroo hito)",
+      "originalMeaning": "To express that someone did something not to be expected",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:155",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 155,
+      "sourcePage": 6,
+      "particleId": "particle-dokoro-ka",
+      "usageId": "dokoro-ka-usage-155",
+      "originalParticleText": "どころか (dokoro ka)",
+      "originalMeaning": "“far from”, “not to mention”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:156",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 156,
+      "sourcePage": 6,
+      "particleId": "particle-dake-ni",
+      "usageId": "dake-ni-usage-156",
+      "originalParticleText": "だけに (dake ni)",
+      "originalMeaning": "Indicates a cause or reason",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:157",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 157,
+      "sourcePage": 6,
+      "particleId": "particle-made-mo-nai",
+      "usageId": "made-mo-nai-usage-157",
+      "originalParticleText": "までもない (made mo nai)",
+      "originalMeaning": "“there is no need to…”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:158",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 158,
+      "sourcePage": 6,
+      "particleId": "particle-mono-no",
+      "usageId": "mono-no-usage-158",
+      "originalParticleText": "ものの (mono no)",
+      "originalMeaning": "“but” or “although”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:159",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 159,
+      "sourcePage": 6,
+      "particleId": "particle-tokoro-de",
+      "usageId": "tokoro-de-usage-159",
+      "originalParticleText": "ところで (tokoro de)",
+      "originalMeaning": "“even if”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:160",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 160,
+      "sourcePage": 6,
+      "particleId": "particle-keredomo",
+      "usageId": "keredomo-although",
+      "originalParticleText": "けれども (keredomo)",
+      "originalMeaning": "Connects 2 sentences meaning “but” or “although”",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:161",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 161,
+      "sourcePage": 6,
+      "particleId": "particle-keredomo",
+      "usageId": "keredomo-usage-161",
+      "originalParticleText": "けれども (keredomo)",
+      "originalMeaning": "Indicates a preliminary remark",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:162",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 162,
+      "sourcePage": 6,
+      "particleId": "particle-ga",
+      "usageId": "ga-usage-162",
+      "originalParticleText": "が (ga)",
+      "originalMeaning": "Used to soften a statement or refusal",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:163",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 163,
+      "sourcePage": 7,
+      "particleId": "particle-keredomo",
+      "usageId": "keredomo-usage-163",
+      "originalParticleText": "けれども (keredomo)",
+      "originalMeaning": "Indicates a desire",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:164",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 164,
+      "sourcePage": 7,
+      "particleId": "particle-ne",
+      "usageId": "ne-confirm",
+      "originalParticleText": "ね (ne)",
+      "originalMeaning": "At the end of a sentence to confirm a statement",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:165",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 165,
+      "sourcePage": 7,
+      "particleId": "particle-ne",
+      "usageId": "ne-usage-165",
+      "originalParticleText": "ね (ne)",
+      "originalMeaning": "At the end of a sentence to soften a request or suggestion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:166",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 166,
+      "sourcePage": 7,
+      "particleId": "particle-ne",
+      "usageId": "ne-usage-166",
+      "originalParticleText": "ね (ne)",
+      "originalMeaning": "At the end of a sentence to indicate a reason or cause",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:167",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 167,
+      "sourcePage": 7,
+      "particleId": "particle-nee",
+      "usageId": "nee-usage-167",
+      "originalParticleText": "ねえ (nee)",
+      "originalMeaning": "At the end of a sentence to indicate emotion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:168",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 168,
+      "sourcePage": 7,
+      "particleId": "particle-yo",
+      "usageId": "yo-conviction",
+      "originalParticleText": "よ (yo)",
+      "originalMeaning": "At the end of a sentence to state a strong conviction",
+      "reviewStatus": "verified"
+    },
+    {
+      "id": "nihon-188-particles:169",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 169,
+      "sourcePage": 7,
+      "particleId": "particle-yo",
+      "usageId": "yo-usage-169",
+      "originalParticleText": "よ (yo)",
+      "originalMeaning": "At the end of a sentence to articulate a request or suggestion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:170",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 170,
+      "sourcePage": 7,
+      "particleId": "particle-kashira",
+      "usageId": "kashira-usage-170",
+      "originalParticleText": "かしら (kashira)",
+      "originalMeaning": "At the end of a sentence to express uncertainty, a request or a question and mainly used by women",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:171",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 171,
+      "sourcePage": 7,
+      "particleId": "particle-kana",
+      "usageId": "kana-usage-171",
+      "originalParticleText": "かな (kana)",
+      "originalMeaning": "At the end of a sentence to express uncertainty, a request or a question and mainly used by men",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:172",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 172,
+      "sourcePage": 7,
+      "particleId": "particle-na",
+      "usageId": "na-usage-172",
+      "originalParticleText": "な (na)",
+      "originalMeaning": "At the end of a sentence and used by men to confirm a statement",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:173",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 173,
+      "sourcePage": 7,
+      "particleId": "particle-na",
+      "usageId": "na-usage-173",
+      "originalParticleText": "な (na)",
+      "originalMeaning": "At the end of a sentence to express a prohibition, used by men",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:174",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 174,
+      "sourcePage": 7,
+      "particleId": "particle-naa",
+      "usageId": "naa-usage-174",
+      "originalParticleText": "なあ (naa)",
+      "originalMeaning": "At the end of a sentence to express emotion, used by men",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:175",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 175,
+      "sourcePage": 7,
+      "particleId": "particle-naa",
+      "usageId": "naa-usage-175",
+      "originalParticleText": "なあ (naa)",
+      "originalMeaning": "At the end of a sentence to express a desire",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:176",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 176,
+      "sourcePage": 7,
+      "particleId": "particle-no",
+      "usageId": "no-usage-176",
+      "originalParticleText": "の (no)",
+      "originalMeaning": "At the end of a sentence to express a question or soften a command, used by women",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:177",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 177,
+      "sourcePage": 7,
+      "particleId": "particle-wa-ending",
+      "usageId": "wa-ending-usage-177",
+      "originalParticleText": "わ (wa)",
+      "originalMeaning": "At the end of a sentence to soften a statement, used by women",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:178",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 178,
+      "sourcePage": 7,
+      "particleId": "particle-sa",
+      "usageId": "sa-usage-178",
+      "originalParticleText": "さ (sa)",
+      "originalMeaning": "At the end of a sentence to indicate slight emphasis, used by men",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:179",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 179,
+      "sourcePage": 7,
+      "particleId": "particle-koto",
+      "usageId": "koto-usage-179",
+      "originalParticleText": "こと (koto)",
+      "originalMeaning": "At the end of a sentence to indicate emotion, used by women",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:180",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 180,
+      "sourcePage": 7,
+      "particleId": "particle-koto",
+      "usageId": "koto-usage-180",
+      "originalParticleText": "こと (koto)",
+      "originalMeaning": "At the end of a sentence to express a suggestion or invitation, used by women",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:181",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 181,
+      "sourcePage": 7,
+      "particleId": "particle-mono",
+      "usageId": "mono-usage-181",
+      "originalParticleText": "もの (mono)",
+      "originalMeaning": "At the end of a sentence to express a reason or excuse",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:182",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 182,
+      "sourcePage": 7,
+      "particleId": "particle-tomo",
+      "usageId": "tomo-usage-182",
+      "originalParticleText": "とも (tomo)",
+      "originalMeaning": "At the end of a sentence to express an assertion",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:183",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 183,
+      "sourcePage": 7,
+      "particleId": "particle-monoka",
+      "usageId": "monoka-usage-183",
+      "originalParticleText": "ものか (monoka)",
+      "originalMeaning": "At the end of a sentence to express a negative determination, used by men",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:184",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 184,
+      "sourcePage": 7,
+      "particleId": "particle-ya",
+      "usageId": "ya-usage-184",
+      "originalParticleText": "や (ya)",
+      "originalMeaning": "At the end of a sentence to soften a statement, request or suggestion, used by men",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:185",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 185,
+      "sourcePage": 7,
+      "particleId": "particle-tara",
+      "usageId": "tara-usage-185",
+      "originalParticleText": "たら (tara)",
+      "originalMeaning": "At the end of a sentence to indicate a suggestion or proposal",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:186",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 186,
+      "sourcePage": 7,
+      "particleId": "particle-yara",
+      "usageId": "yara-usage-186",
+      "originalParticleText": "やら (yara)",
+      "originalMeaning": "At the end of a sentence to indicate a rhetorical question with a negative implication",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:187",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 187,
+      "sourcePage": 7,
+      "particleId": "particle-ze",
+      "usageId": "ze-usage-187",
+      "originalParticleText": "ぜ (ze)",
+      "originalMeaning": "At the end of a sentence to add for to sentence, used by men",
+      "reviewStatus": "unreviewed"
+    },
+    {
+      "id": "nihon-188-particles:188",
+      "sourceId": "nihon-188-particles",
+      "sourceNumber": 188,
+      "sourcePage": 7,
+      "particleId": "particle-zo",
+      "usageId": "zo-usage-188",
+      "originalParticleText": "ぞ (zo)",
+      "originalMeaning": "At the end of a sentence to add force to a sentence or to express a question to oneself",
+      "reviewStatus": "unreviewed"
+    }
+  ]
+}
